@@ -1,0 +1,25 @@
+{
+  "repository": "claude-sisters-cursors",
+  "title": "Claude 三姐妹",
+  "namespace": "ClaudeCursors",
+  "accent": "#d88945",
+  "version": "1.0.0",
+  "default_character": "opus",
+  "characters": [
+    {
+      "id": "opus",
+      "display": "Opus",
+      "reference_page": 2
+    },
+    {
+      "id": "sonnet",
+      "display": "Sonnet",
+      "reference_page": 2
+    },
+    {
+      "id": "fable",
+      "display": "Fable",
+      "reference_page": 2
+    }
+  ]
+}

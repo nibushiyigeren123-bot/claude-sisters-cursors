@@ -1,0 +1,7 @@
+{
+  "transparent_background": true,
+  "referenced_image_paths": [
+    "E:/cladue缓存/AI全家动态指针_20261012/characters/fable/poses-v1.png"
+  ],
+  "prompt": "Edit this Fable nine-pose sprite atlas by CHANGING THE SPACING ONLY. Preserve every pose, expression, her very long copper hair, dark burgundy gold-edged cape, white-orange-black dress and book, and preserve the drawing style. The current source has two neighboring figures' flowing hair physically touching, so it cannot be split into 9 complete sprites. Rearrange the nine existing figures into a STRICT evenly spaced 3x3 grid on a true transparent square canvas. SCALE EACH FIGURE DOWN so its ENTIRE silhouette takes up at most 72% of tile width AND 72% of tile height. Each tile must have AT LEAST 14% fully empty transparent margin at top, bottom, left and right. This means broad obvious invisible gutters between rows and columns. No figure can touch another figure or the outer image edges, including long loose hair, fluttering cape, book, fingers and shoes. Do not sacrifice any limb or hair tip to make space: preserve the complete figure and scale it down instead. SAME nine poses and order: standing, thinking, reading / waving, walking right, walking left / jumping, sleepy reading, dejected. Exactly nine figures, no additions, no labels, no frames, no text, no backdrop, true alpha transparent. The purpose is safe lossless extraction of each figure, so separate clear outlines are the highest priority."
+}

@@ -1,0 +1,13 @@
+{
+    "registry":  "HKCU:\\Software\\DeepSeekCursorTest-eda07965e5f04aac9270f1f082a0826d",
+    "system_pointer_changed":  false,
+    "native_refresh":  "stubbed in isolated test",
+    "cases":  [
+                  "Register 15 complete schemes and preserve existing schemes",
+                  "Apply DeepSeek 256px in isolated registry and write backup",
+                  "Restore prior string, expandable-string, DWORD and missing values",
+                  "Injected special-role failure reached; automatically restored prior registry and size",
+                  "Injected refresh failure reached; automatically restored prior registry and size"
+              ],
+    "passed":  true
+}
