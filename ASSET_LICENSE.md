@@ -21,3 +21,7 @@ MiMo 的原始作者尚未确认（仅含 MiMo 仓库时适用），豆包全身
 DS 设计原有分享海报版式及本轮公司配色/文案；Codex 根据真实指针渲染与校对，海报 HTML 一并保留。
 
 展示视频使用 MusMus / watson《放課後アフタースクール》：https://musmus.main.jp/ 。音乐按 MusMus 使用规则署名，https://musmus.main.jp/info.html 。音乐不适用本项目代码或新增动作许可，不单独作为音乐素材包分发。
+
+## v1.0.1 Fable 形象修正
+
+Fable 的直接形象依据是用户新提供的全身参考图。新增姿态保留金框眼镜、头顶发髻、长铜发、绣花长披风、书与白羽毛笔；生成请求、版本和选用图 SHA 见 source/fable-reference-correction.json。原作者身份没有因用户提供图片而额外得到确认，沿用来源署名边界和非商业分享条件。Opus 与 Sonnet 源图及 ANI 未作改动。

@@ -2,9 +2,11 @@
 把 Claude 三姐妹做成了动态鼠标指针｜Opus、Sonnet、Fable
 
 【简介，可直接粘贴】
+【v1.0.1 形象修正】旧版 Fable 与 Opus 太相近，本版按用户提供的全身图重做 Fable：保留金框眼镜、高发髻、长披风、书和羽毛笔；修正指针、海报与本条展示视频。
+
 Claude 三姐妹 的社区拟人形象，现在变成 Windows 动态鼠标指针啦。
 
-Opus 的长橙发长裙、Sonnet 的短橙发，以及 Fable 的长发披肩分别保留。三姐妹放在同一个仓库，各自都有独立安装入口。
+Opus 是长橙发长裙，Sonnet 是短橙发，Fable 则保留金框眼镜、头顶高发髻、长绣披风、书和白羽毛笔。三姐妹放在同一个仓库，各自都有独立安装入口。
 
 每位 17 种状态，提供 32 / 48 / 64 / 128 / 256 px 五档尺寸。正常选择、帮助、忙碌、链接、调整窗口等状态会搭配不同姿态；功能符号保留，点击热点固定。
 
@@ -12,7 +14,7 @@ Opus 的长橙发长裙、Sonnet 的短橙发，以及 Fable 的长发披肩分�
 
 下载与源码：
 https://github.com/nibushiyigeren123-bot/claude-sisters-cursors
-完整安装包：https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/tag/v1.0.0
+完整安装包：https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/tag/v1.0.1
 
 安装方法：下载 install ZIP，完整解压后，双击对应“应用_角色_尺寸.cmd”。先安装，再按需运行“尺寸保持_开启.cmd”；以后换大小直接双击对应 CMD。也可以右键 INF 安装，再到鼠标属性中选择相应方案。大小通过包里的尺寸入口切换。
 
@@ -42,6 +44,6 @@ BGM：放課後アフタースクール / watson
 Claude 三姐妹、鼠标指针、Windows美化、动态指针、桌面美化、AI拟人、Q版、开源分享
 
 【建议置顶评论】
-下载：https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/tag/v1.0.0
+下载：https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/tag/v1.0.1
 下载 install ZIP 并完整解压，先双击“应用_Opus_64px.cmd”，也可换其他角色或尺寸。首次安装后按需双击“尺寸保持_开启.cmd”；之后换尺寸使用对应 CMD。请保留解压目录结构。
 PNG 帧与源码是可选包，普通安装无需全部下载。来源、许可、恢复说明见仓库 README。

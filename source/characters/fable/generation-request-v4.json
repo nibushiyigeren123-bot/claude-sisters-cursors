@@ -1,0 +1,7 @@
+{
+  "transparent_background": true,
+  "referenced_image_paths": [
+    "E:/cladue缓存/AI全家动态指针_20261012/characters/fable/poses-v3.png"
+  ],
+  "prompt": "Edit the supplied Fable nine-pose transparent sprite atlas. This is a very small targeted identity correction: ADD THE MISSING GOLD-RIMMED EYEGLASSES to TWO CLOSED-EYES faces only: row 2 column 1 (waving with raised feather quill) and row 3 column 1 (happy jumping). Both must visibly wear the same pair of golden eyeglasses as the other seven figures. Draw TWO complete outlined lenses, a distinct connecting nose bridge, and side temple arms, sitting over the closed eyelid lines. Make the frames strong enough to remain identifiable when the sprite is scaled down to a mouse cursor, like the frames already visible on the sleepy seated reader at row 3 column 2. Preserve their closed-eye happy expressions under the lenses. PROTECT THE OTHER SEVEN SPRITES and preserve the exact existing nine poses, cell arrangement, silhouettes, transparent gutters, colour palette, top hair buns, long copper hair, embroidered long burgundy capes, ivory-orange dresses, books, white feather quills, full bodies and boots. No outfit change, no new props, no pose swap, no removal of glasses in any figure, no text, no backdrop, no checkerboard. Exactly nine fully separated full-body figures with genuine transparent alpha, unchanged spatial layout. The only intended change is clear complete GOLDEN GLASSES ON THE WAVING AND JUMPING FACES."
+}

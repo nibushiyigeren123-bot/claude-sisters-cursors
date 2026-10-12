@@ -1,0 +1,38 @@
+{
+  "version": "v1.0.1",
+  "install_verify_only_no_system_change": true,
+  "source_ZIP_rebuild_ANI_hashes_matched": 255,
+  "source_ZIP_rebuild_PNG_hashes_matched": 2040,
+  "videos": [
+    {
+      "file": "E:\\cladue缓存\\AI全家动态指针_20261012\\public\\claude-sisters-cursors\\previews\\showcase.mp4",
+      "sha256": "7a64d423ae1a4f86b5bbb2da9fdd6ae418d2de6f97a2aaa9a3153b5999770c88",
+      "full_audio_video_decode_no_errors": true
+    },
+    {
+      "file": "E:\\cladue缓存\\AI全家动态指针_20261012\\public\\claude-sisters-cursors\\previews\\introduction-bilibili.mp4",
+      "sha256": "8eaaf834f814fa825c5eba22bfa02be4a4ec5a39683eafe0285d66e611a2a1c0",
+      "full_audio_video_decode_no_errors": true
+    }
+  ],
+  "actual_Fable_video_samples": [
+    {
+      "role": "Arrow",
+      "time": 62,
+      "decoded_video_frame": "E:\\cladue缓存\\AI全家动态指针_20261012\\tests\\fable-correction-v1.0.1\\Fable-Arrow-actual-video.png"
+    },
+    {
+      "role": "Hand",
+      "time": 68,
+      "decoded_video_frame": "E:\\cladue缓存\\AI全家动态指针_20261012\\tests\\fable-correction-v1.0.1\\Fable-Hand-actual-video.png"
+    },
+    {
+      "role": "UpArrow",
+      "time": 71,
+      "decoded_video_frame": "E:\\cladue缓存\\AI全家动态指针_20261012\\tests\\fable-correction-v1.0.1\\Fable-UpArrow-actual-video.png"
+    }
+  ],
+  "two_poster_dimensions_verified": true,
+  "original_upload_set_preserved": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\Fable形象修正_v1.0.1\\before\\投稿\\B站指针系列\\Claude_三姐妹",
+  "corrected_upload_set": "E:\\cladue缓存\\AI全家动态指针_20261012\\投稿\\B站指针系列\\Claude_三姐妹_修正版_v1.0.1"
+}

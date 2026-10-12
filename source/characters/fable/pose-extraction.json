@@ -1,142 +1,142 @@
 {
-  "source_sha256": "7a616a1c7dbc9e86221d7c151b6d3144d7015e1d3e36957c6ae530f491473bc6",
+  "source_sha256": "6f83e747ee03b7de536d9ea64178b9cd8b5ac9dc76339f3e76a8d01ac82232dd",
   "method": "connected alpha silhouettes, never equal-grid clipping",
   "alpha_noise_threshold": 8,
   "poses": [
     {
       "pose": "idle",
       "crop": [
-        65,
-        59,
-        392,
-        407
+        76,
+        12,
+        404,
+        424
       ],
       "size": [
-        327,
-        348
+        328,
+        412
       ],
       "file": "pose-sources/idle.png",
-      "sha256": "f6a66774d8a95642aec95eafe08b475a9d871fcba96642eb08346f4d4817bbe4"
+      "sha256": "cc4e7a89fdcf17082fe1649e5352b2815d2a3b031bc717a619d4cea794a301bd"
     },
     {
       "pose": "review",
       "crop": [
-        470,
-        57,
-        801,
-        408
+        495,
+        28,
+        830,
+        427
       ],
       "size": [
-        331,
-        351
+        335,
+        399
       ],
       "file": "pose-sources/review.png",
-      "sha256": "9b110f13ce28be9dd500c94784e6066f9388282741a48ed664320378ac6aa4aa"
+      "sha256": "8626b26ffc5c8ddc3f5957649def9ffcb7d06603bede5846d46f59093c55d842"
     },
     {
       "pose": "working",
       "crop": [
-        876,
-        59,
-        1194,
-        406
+        917,
+        18,
+        1229,
+        427
       ],
       "size": [
-        318,
-        347
+        312,
+        409
       ],
       "file": "pose-sources/working.png",
-      "sha256": "20b00c30fd8e4409e8da492a3af87d28d7e9366494e2196051175e41a1cd3b43"
+      "sha256": "592444b24c8348a1d2289672db091fcdd8313f7b57e51018fb17a7f893da5c56"
     },
     {
       "pose": "waving",
       "crop": [
-        69,
-        460,
-        398,
-        801
+        77,
+        440,
+        429,
+        832
       ],
       "size": [
-        329,
-        341
+        352,
+        392
       ],
       "file": "pose-sources/waving.png",
-      "sha256": "4fc41aab4e4d8ebf79e4d9cd66180970940229b6da977e13eea1d406ec573660"
+      "sha256": "ec872a0d08f56a22907948fccf6401742635e0e4a992d24ec21e5f7f44f98639"
     },
     {
       "pose": "walking-right",
       "crop": [
-        450,
-        465,
-        778,
-        802
+        508,
+        431,
+        853,
+        827
       ],
       "size": [
-        328,
-        337
+        345,
+        396
       ],
       "file": "pose-sources/walking-right.png",
-      "sha256": "dc7f7769f591a517b16ee931de922936bedb03734f47f209d30d8c4f5ad5cdb4"
+      "sha256": "a4ac47e645de330797857e05d46bc47ac642fdd733eab4dfc09fa077804b0b85"
     },
     {
       "pose": "walking-left",
       "crop": [
-        902,
-        464,
-        1211,
-        803
+        925,
+        435,
+        1256,
+        826
       ],
       "size": [
-        309,
-        339
+        331,
+        391
       ],
       "file": "pose-sources/walking-left.png",
-      "sha256": "9ae0f54e0362b854a35c8d6d896bba16e3d10b4f24a5bd783c85ff7b99e2d4e3"
+      "sha256": "8065d7c288083b3faea1ebf78d527193f2dd9ec4e1a4d472145e7b3d9be1ee66"
     },
     {
       "pose": "jumping",
       "crop": [
-        60,
-        844,
-        413,
-        1174
+        54,
+        821,
+        429,
+        1206
       ],
       "size": [
-        353,
-        330
+        375,
+        385
       ],
       "file": "pose-sources/jumping.png",
-      "sha256": "b208b5e8ebdd25da3b71e48df55b5b7620674e27593e0352c2d7cfa8b3295afe"
+      "sha256": "ba184d801348fcbed3eba9becd49238adb4c9210c707d06627d8e4a671d13343"
     },
     {
       "pose": "waiting",
       "crop": [
-        477,
-        840,
-        813,
-        1187
+        464,
+        862,
+        855,
+        1203
       ],
       "size": [
-        336,
-        347
+        391,
+        341
       ],
       "file": "pose-sources/waiting.png",
-      "sha256": "a55cdb2789116ceb8b693b46aff99fae6263cd371bfc3a6fe605f986de129b07"
+      "sha256": "76404bd6af07d36408dd112b97f2d1b44346d36d223ddfb15099581880d8a7b1"
     },
     {
       "pose": "failed",
       "crop": [
-        878,
-        848,
-        1195,
-        1188
+        925,
+        833,
+        1240,
+        1213
       ],
       "size": [
-        317,
-        340
+        315,
+        380
       ],
       "file": "pose-sources/failed.png",
-      "sha256": "e21322e3616bcc1cbf693c79f39e55d68a96ef4667ba2a6020ca6cba0a742a32"
+      "sha256": "92ffca5afcc79c66b3589ea2cb105bf1529631854beeb5d76bbc4be98ac6caca"
     }
   ]
 }

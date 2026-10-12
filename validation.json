@@ -1876,7 +1876,7 @@
     },
     {
       "file": "cursors/fable/32/Arrow.ani",
-      "sha256": "2d54852484db5378bbfba3820f8330ea2bc38882c0d0ec1bca1319af3202eca3",
+      "sha256": "c61126880dbaf3716d984ddd76cacd8fae48d330cd2540d4f03c4b0e8c98c8a8",
       "hotspot": [
         0,
         1
@@ -1887,7 +1887,7 @@
     },
     {
       "file": "cursors/fable/32/Help.ani",
-      "sha256": "cc8a2284fceb2b97253ff5bd5a183dfb8f4651013e829555d8ce5e1995d8c3de",
+      "sha256": "be705f866ac048731e37ad0a639c2d70e787bce03443ca600802a05fa30421ee",
       "hotspot": [
         0,
         1
@@ -1898,7 +1898,7 @@
     },
     {
       "file": "cursors/fable/32/AppStarting.ani",
-      "sha256": "ad510b2cde48f10f459fee37511652ef932ce9c5a47390e85d1758b14d17fe37",
+      "sha256": "f5dde1fa754c231958d97c5da4442769f4bc9e96ff4e0cf760d670d161719f00",
       "hotspot": [
         0,
         1
@@ -1909,7 +1909,7 @@
     },
     {
       "file": "cursors/fable/32/Wait.ani",
-      "sha256": "7a865bc09c8d30e7a9e8629b301ae005e5ad8cb6f92d58c631d0b9abb07d6367",
+      "sha256": "85ab7b31ce3392ec2c857912793d9e8f7695280353d644d32abc5a89642b13b8",
       "hotspot": [
         4,
         4
@@ -1920,7 +1920,7 @@
     },
     {
       "file": "cursors/fable/32/Crosshair.ani",
-      "sha256": "b6adcedb229c4380a9105706a0d48c60eb2fa049f5d5736e2bc1874d91acdc6e",
+      "sha256": "0455b0f2487f547be191d428b6fc2e4dd46d02810146b55bdf5871f9f7a82524",
       "hotspot": [
         4,
         4
@@ -1931,7 +1931,7 @@
     },
     {
       "file": "cursors/fable/32/IBeam.ani",
-      "sha256": "b1fa6db64454045b18e1374a525c6729542a5adc973aceb97e7e9466b5485601",
+      "sha256": "8915a5240ec5559be8e447cb70c1d536c73646c0f6467a4a9ee36d503c902cbb",
       "hotspot": [
         2,
         4
@@ -1942,7 +1942,7 @@
     },
     {
       "file": "cursors/fable/32/NWPen.ani",
-      "sha256": "e6388b72dbdf3c078cb6a21d3e7c39e79daf79f30c364f77eaabdb2f06e421cb",
+      "sha256": "0b5f9f2945d129dee21e264f51c4d0117996c88e66b17c671997767dc55a4d66",
       "hotspot": [
         1,
         8
@@ -1953,7 +1953,7 @@
     },
     {
       "file": "cursors/fable/32/No.ani",
-      "sha256": "500dcadc29bb1ec0c43736e457f2fc9c5328b00f674b00b2a513a457c7941c6b",
+      "sha256": "53089fb8890aa0c6739eb7d87c0b6de40e7d9c60fe13ca1145ce09fc5d0e0156",
       "hotspot": [
         4,
         4
@@ -1964,7 +1964,7 @@
     },
     {
       "file": "cursors/fable/32/SizeNS.ani",
-      "sha256": "51a7914a5966eaf5a454ed1596bbd6ba3674fbdc6232a1255384290b2cda0b60",
+      "sha256": "ed3047fb6590e6042b44731d530581a316ac2c0c4982edbfe9f4c783e4b16d4f",
       "hotspot": [
         2,
         4
@@ -1975,7 +1975,7 @@
     },
     {
       "file": "cursors/fable/32/SizeWE.ani",
-      "sha256": "0bc5a9193580f603541da730934bc4105900500d52a80a541a0793601a8a45d9",
+      "sha256": "f7d1474320d2fcc07e00a693e751a81f3cac2ce1e98803af6a8428a682121bb4",
       "hotspot": [
         4,
         2
@@ -1986,7 +1986,7 @@
     },
     {
       "file": "cursors/fable/32/SizeNWSE.ani",
-      "sha256": "ff19388ca15f33b7ef50d7306f14f33b23de8b6e28e49a594a11f02731a47d7b",
+      "sha256": "23a99f6c46ebbd0c6df8275ebec7bf774af6dad36b9625cba0b3a1704bb0e5ae",
       "hotspot": [
         4,
         4
@@ -1997,7 +1997,7 @@
     },
     {
       "file": "cursors/fable/32/SizeNESW.ani",
-      "sha256": "8f259cbfd4b447149029d78dbf35b330f9867e883c40b234fccc2eeb606d81b6",
+      "sha256": "3e5bd690a377c118a0340586dcaabeb9c10e8708682d1366e6ab2648a56149d6",
       "hotspot": [
         4,
         4
@@ -2008,7 +2008,7 @@
     },
     {
       "file": "cursors/fable/32/SizeAll.ani",
-      "sha256": "ec486a8927d439df8b1f5f222aa30ae387809ea8e4e409cd6b26b5aaf4ae95c2",
+      "sha256": "3bcc7874423fdb9fc1f7ee2a14969622fb76eec01a224c9d80e827249b437545",
       "hotspot": [
         4,
         4
@@ -2019,7 +2019,7 @@
     },
     {
       "file": "cursors/fable/32/UpArrow.ani",
-      "sha256": "05f24ac33bdf1612ba4bcd1c6f286732105c2f636b9d95db219171a3dd001cd8",
+      "sha256": "fb0e93cd53c4e69866daa03b326f659cc6a31c09998dc0280540b797969a7a14",
       "hotspot": [
         4,
         0
@@ -2030,7 +2030,7 @@
     },
     {
       "file": "cursors/fable/32/Hand.ani",
-      "sha256": "122950a72ffe9c58bb7c8ab5f8c9aa639bcfe5b6a2185e6b166bc19b8cdc5b24",
+      "sha256": "44e81e17ac1dbd110ae48e7d23e3b54d0864e218203debf9ef217edc6a1463f4",
       "hotspot": [
         3,
         0
@@ -2041,7 +2041,7 @@
     },
     {
       "file": "cursors/fable/32/Pin.ani",
-      "sha256": "414296db728aba56dbf050af89f3db6e6d7b537e6a0d941bbe0cd8af87720944",
+      "sha256": "9625d5ff9364eee83c057f1dcc64a1c9be4ed32c771f7137455407a888ea1064",
       "hotspot": [
         3,
         8
@@ -2052,7 +2052,7 @@
     },
     {
       "file": "cursors/fable/32/Person.ani",
-      "sha256": "c0c0a1d65038a744dc6da2f4f4347212129264a23d6cb096862a27fa69d36695",
+      "sha256": "4890ad5ce5de5bdf473244c4056593a7c74832be25307387c2a25c7be0fd9c17",
       "hotspot": [
         4,
         2
@@ -2063,7 +2063,7 @@
     },
     {
       "file": "cursors/fable/48/Arrow.ani",
-      "sha256": "cbf72b1703d47db2af4aacf467700708213aba123c94578a9ba4986b7eef58cd",
+      "sha256": "b1e7d0ca2162acf7afe7cfc08e6e913ac35cf008353f08fb943cbf9d2f125fe8",
       "hotspot": [
         1,
         1
@@ -2074,7 +2074,7 @@
     },
     {
       "file": "cursors/fable/48/Help.ani",
-      "sha256": "19c410ceeeacc1a2428be4286c6ca57f0fc47b04943af20cc30e522c74fabf6d",
+      "sha256": "22859119bc005ab3451a05b836d7931ff9c9a4fed2929e2abfd3a94849d1ceff",
       "hotspot": [
         1,
         1
@@ -2085,7 +2085,7 @@
     },
     {
       "file": "cursors/fable/48/AppStarting.ani",
-      "sha256": "85302f4eff476fec689501481143206e2357a93c852f89e43e08f199f55bd085",
+      "sha256": "9177554520565ba58a5afbe6b4a97b5b9265c07ebf117c21d3ae2f1c53357ad5",
       "hotspot": [
         1,
         1
@@ -2096,7 +2096,7 @@
     },
     {
       "file": "cursors/fable/48/Wait.ani",
-      "sha256": "7a748cfdb52c3eec57625665b6705c13d1bb9e2a33636a306ca10e58d46595b1",
+      "sha256": "f77c324f67e3875ddf01c3c6ebc81b671f8723c49c2b66d7690ed2f461b0dce2",
       "hotspot": [
         6,
         6
@@ -2107,7 +2107,7 @@
     },
     {
       "file": "cursors/fable/48/Crosshair.ani",
-      "sha256": "a31bcd7f36e9250d7572a0049b700f33a3b54dd4971553152d0b9f1171d84e82",
+      "sha256": "d7c05b7bbc9a1f3205ab3ac541c4be3b6db8ce53b8f6dd0a65a48197919df3f2",
       "hotspot": [
         6,
         6
@@ -2118,7 +2118,7 @@
     },
     {
       "file": "cursors/fable/48/IBeam.ani",
-      "sha256": "5bc6e7cffc2a927d087806713f403bc7214b8d27b74d0e26952213f327cdacfc",
+      "sha256": "dde5aaadd144d8e7dc6f6e7f6548f9cf8cba1cc9496d804445bc6d8ff7d42158",
       "hotspot": [
         3,
         6
@@ -2129,7 +2129,7 @@
     },
     {
       "file": "cursors/fable/48/NWPen.ani",
-      "sha256": "013bd8ec799220033643c881baf4d4d5e97f40c59b82979cdebbce4166888d82",
+      "sha256": "aa2cbf494a6272df7279172aaf82ae6dfe6bc4a84b0832984bbad101cf63e66a",
       "hotspot": [
         1,
         12
@@ -2140,7 +2140,7 @@
     },
     {
       "file": "cursors/fable/48/No.ani",
-      "sha256": "f3f519064ca8aad01d62732bb1396e8115a9ae2c06b9e5d1b41e9a876f84b340",
+      "sha256": "becfbbf64bc9f7d0c4494a4a513934a4a63885fc437aa5b704db7905b5a12a1c",
       "hotspot": [
         6,
         6
@@ -2151,7 +2151,7 @@
     },
     {
       "file": "cursors/fable/48/SizeNS.ani",
-      "sha256": "3c2abe64e51ee0530275dc1c3469f6905bf47503c8b740f729263fb6e0d180c0",
+      "sha256": "66fb915d607c995b819097ab164d259e8e3d7fb9a9e47c60bfe756284c9f392b",
       "hotspot": [
         3,
         6
@@ -2162,7 +2162,7 @@
     },
     {
       "file": "cursors/fable/48/SizeWE.ani",
-      "sha256": "a8b16ce3004b7cb2fbf007ef53693e993c19535185303e7822d8c300b9b4a028",
+      "sha256": "1d0ebe8e580da5f623613a79f654c2a2e27bbfb00db02752a13290c43620e12d",
       "hotspot": [
         6,
         2
@@ -2173,7 +2173,7 @@
     },
     {
       "file": "cursors/fable/48/SizeNWSE.ani",
-      "sha256": "60b16799808727c7b8f97cfac4808f38d1c8c04264cc3d519780db9d3e2fff86",
+      "sha256": "0d5f79a52a07c6bc7999bfdc00425c24010393bfbbcd541d4e1e7ddb0dfeb7e6",
       "hotspot": [
         6,
         6
@@ -2184,7 +2184,7 @@
     },
     {
       "file": "cursors/fable/48/SizeNESW.ani",
-      "sha256": "14350d26ac87d9d90eaae2164394102c141ae13f56492bc37d87a78b63629d36",
+      "sha256": "93ece76bbc6eebeb5e9aaaf5b117b4738e0b0cbc9097f258d0d72acffd80ab3d",
       "hotspot": [
         6,
         6
@@ -2195,7 +2195,7 @@
     },
     {
       "file": "cursors/fable/48/SizeAll.ani",
-      "sha256": "762219bbf1c2278162c2124ae642da9d4694d600a14bb8cb823237990bac4c1c",
+      "sha256": "4c09881f13a82e1f7185d76c45b5eebf9e22bdbe4e4d8f4c937d27c6a592f0d1",
       "hotspot": [
         6,
         6
@@ -2206,7 +2206,7 @@
     },
     {
       "file": "cursors/fable/48/UpArrow.ani",
-      "sha256": "494125037b3fe042b99e23e9176b6cf380e60f229eb150da48b2b3cfa50b102d",
+      "sha256": "d7e5e84527fcd5991e2282f7f578a13a5413b57f232c2aec69e833d9fa6a5bbd",
       "hotspot": [
         5,
         1
@@ -2217,7 +2217,7 @@
     },
     {
       "file": "cursors/fable/48/Hand.ani",
-      "sha256": "adab5f6eb1a5b98d019655b6b03b16dfff0127f3bd35b4813e39b9018e37d54c",
+      "sha256": "a455c1775becdfa8bb35ddf3b0f15131e9e7f52fbc0c0af6a791406dfad599d6",
       "hotspot": [
         4,
         1
@@ -2228,7 +2228,7 @@
     },
     {
       "file": "cursors/fable/48/Pin.ani",
-      "sha256": "d8d949c5ddcecacf9bca64331398d77d850ada7abeb6e0b6f435f5f6e9c4c251",
+      "sha256": "bac8639707a377662c938cef9e32e8cf6292471ef6f8b2d80c1fd6b0721168e3",
       "hotspot": [
         5,
         12
@@ -2239,7 +2239,7 @@
     },
     {
       "file": "cursors/fable/48/Person.ani",
-      "sha256": "416f73d997830ac9687104c2c0fa6353e4bf4188639c76908ca05d9cbf48384a",
+      "sha256": "42b73e48fdf73d879a6f2a1be963378d30975a892d45777a5b716da5add6d989",
       "hotspot": [
         6,
         3
@@ -2250,7 +2250,7 @@
     },
     {
       "file": "cursors/fable/64/Arrow.ani",
-      "sha256": "fdc341ad5cc7227cc66c388034c3843c15cbbb435b8558816e2520e1de6fc923",
+      "sha256": "6435168975c4ea7e02792e03a0629448565e64a4ab354b471c82a54074f8879b",
       "hotspot": [
         1,
         1
@@ -2261,7 +2261,7 @@
     },
     {
       "file": "cursors/fable/64/Help.ani",
-      "sha256": "aad9fdf10033d139531c7cb850e8612dd681828d262932b710819191f9f4e4e4",
+      "sha256": "9d0367ee2d06aba991cea4edbcc10c786da9060844c3c0487d393aac1b6b4c8e",
       "hotspot": [
         1,
         1
@@ -2272,7 +2272,7 @@
     },
     {
       "file": "cursors/fable/64/AppStarting.ani",
-      "sha256": "239ab31903a0fc2cd80ef8070041a25e384948a8544e40511d5d2f95cf91ab8b",
+      "sha256": "7e3fc32134ef90f868c15ea2a84bf12833141940f958d94899c1d0a4a56cd63b",
       "hotspot": [
         1,
         1
@@ -2283,7 +2283,7 @@
     },
     {
       "file": "cursors/fable/64/Wait.ani",
-      "sha256": "826f19e5e7b88ad74680d11499b0c287501a7319a53642491547d0385a89bb89",
+      "sha256": "54a51add6411ecc9a3bf4c89f3aad31875461eb81c439aca6433236fcd2fc20d",
       "hotspot": [
         8,
         8
@@ -2294,7 +2294,7 @@
     },
     {
       "file": "cursors/fable/64/Crosshair.ani",
-      "sha256": "a7ea60af7530f40d539d3bb895e0d7edac966727b2fee079eb2ddad7b01abf62",
+      "sha256": "cd7f7caa28cf399d51439c2bb97936b848ad30c95297b376fb267e096fb41fa4",
       "hotspot": [
         8,
         8
@@ -2305,7 +2305,7 @@
     },
     {
       "file": "cursors/fable/64/IBeam.ani",
-      "sha256": "cf8b81a957d27fd0dd927cefa9a624ce9c0304f2c4b9af09fc8ac41536609f42",
+      "sha256": "fc535469f5882db62950ffab3dc6a99f282460f26415b7f05454170313b6603b",
       "hotspot": [
         4,
         8
@@ -2316,7 +2316,7 @@
     },
     {
       "file": "cursors/fable/64/NWPen.ani",
-      "sha256": "523ae0d72f8498df6730a08c11d90a3ab711ec21ffce8f6ee337e97d2ba74e93",
+      "sha256": "bc5d0c4a30e0fb4cd2cff0c9fa09a4fab4728bb4f73a8b5d19ab09c140ca289d",
       "hotspot": [
         1,
         16
@@ -2327,7 +2327,7 @@
     },
     {
       "file": "cursors/fable/64/No.ani",
-      "sha256": "b4779b4245732ab42cfa82e3a850c808877365c1ca25111b6ab7383a4803b5e6",
+      "sha256": "ba00380dbf14e4131c7fdd42ccfd30ba792e38514a73cbd9bad753dfeee52954",
       "hotspot": [
         8,
         8
@@ -2338,7 +2338,7 @@
     },
     {
       "file": "cursors/fable/64/SizeNS.ani",
-      "sha256": "f2541d6219161d55e0622af754604bb7800cc049369f877609d24acd2e355869",
+      "sha256": "dfd2b777ce293fef1c92baa3e160fc1d14fa5765c376ac0f45622a4540244db7",
       "hotspot": [
         3,
         8
@@ -2349,7 +2349,7 @@
     },
     {
       "file": "cursors/fable/64/SizeWE.ani",
-      "sha256": "d3d8bc355b4ce45212480747abc8383e50b826d5873ba404ae3e2f65d9162c1d",
+      "sha256": "4a76557328099356d331a3270eeb7c026210941777b754e09e912567f90d3b1d",
       "hotspot": [
         8,
         3
@@ -2360,7 +2360,7 @@
     },
     {
       "file": "cursors/fable/64/SizeNWSE.ani",
-      "sha256": "9fa23aa2bb37e99d172dc1db9da664f97fe314f6e3b3c3ad2cb077f609c56e2a",
+      "sha256": "36021287464ab77193f478aa7a01fdaf27510df48979d08cc6132e5732d7b65c",
       "hotspot": [
         8,
         8
@@ -2371,7 +2371,7 @@
     },
     {
       "file": "cursors/fable/64/SizeNESW.ani",
-      "sha256": "a2c9c1eb6acfc8fd2b7887cecd1356f0704b255bfd4b3701dff7d638a847f2de",
+      "sha256": "5a6c8b66dfcd6b51b399e4eef04923ac8e69c6a2e7b312304df17d975842581b",
       "hotspot": [
         8,
         8
@@ -2382,7 +2382,7 @@
     },
     {
       "file": "cursors/fable/64/SizeAll.ani",
-      "sha256": "1a35fbc781d795fbb02c2d2b5cea7ce1ef4ad71989b21df63ff71fb4003d9ece",
+      "sha256": "adb62e61f15c8fab728e943fc54e54b4dd6999cb75420c7c1409c0f1c7833adf",
       "hotspot": [
         8,
         8
@@ -2393,7 +2393,7 @@
     },
     {
       "file": "cursors/fable/64/UpArrow.ani",
-      "sha256": "de0ef7a516da66942c7275965c63b05754ccca708ca25cdfb861a9ce893aa99e",
+      "sha256": "b9f360ac86707b321ad30374a0d1e019bbcffc6561ec9b43b79f5c48b4961bfb",
       "hotspot": [
         7,
         1
@@ -2404,7 +2404,7 @@
     },
     {
       "file": "cursors/fable/64/Hand.ani",
-      "sha256": "9ea08e253493aaca2c49a54c9d0569e032ffe6f65e38a4d7c7ef3b6e8bda25ed",
+      "sha256": "eb3a24df2171b06280c2380aa474399edfb4ec9c2600028f52a58c898bdd68f0",
       "hotspot": [
         5,
         1
@@ -2415,7 +2415,7 @@
     },
     {
       "file": "cursors/fable/64/Pin.ani",
-      "sha256": "6e56d53fb829f19909a5eea0346808c152ffa9d1cc52915e3a1124acd0a5f2a0",
+      "sha256": "6d97b595aeefce152a0b93708750558fcd030a709b5165425c5918d3f94426fc",
       "hotspot": [
         7,
         16
@@ -2426,7 +2426,7 @@
     },
     {
       "file": "cursors/fable/64/Person.ani",
-      "sha256": "044f416229ece76fa9b656bfb624bfd0199039b515365ce397c3493c64f58ab7",
+      "sha256": "9518def7283243fcc7be2d7b835dccddba199668c0e4f7b708e87647e300d257",
       "hotspot": [
         8,
         4
@@ -2437,7 +2437,7 @@
     },
     {
       "file": "cursors/fable/128/Arrow.ani",
-      "sha256": "d096eb28032b18754ba3ac7e9c1cd19480c079da713b9969b4cd2c9ed5ffb9d9",
+      "sha256": "c553911ad1aa625ccc0b711d4550179b80351389746f890e6a09618c326b1a80",
       "hotspot": [
         2,
         2
@@ -2448,7 +2448,7 @@
     },
     {
       "file": "cursors/fable/128/Help.ani",
-      "sha256": "f9d9ee24f148a94ba581f1c57b2d03cb5dc3fdd2c01b847b906d23bf5d5fc393",
+      "sha256": "91b4479ab4b0d62faeb62defd32b2046697961755a7032dfb113e15c3a85aab5",
       "hotspot": [
         2,
         2
@@ -2459,7 +2459,7 @@
     },
     {
       "file": "cursors/fable/128/AppStarting.ani",
-      "sha256": "283e8f9b576f12ee3d9f213b4fbf0e7c2f02848e5501103357245bc6491e4975",
+      "sha256": "e445d6ee5ab7dacf0243bc040080476d0c848ba029044e1011936c71c1eda57d",
       "hotspot": [
         2,
         2
@@ -2470,7 +2470,7 @@
     },
     {
       "file": "cursors/fable/128/Wait.ani",
-      "sha256": "356bac42abdd8a1219fa14d900bf4efffda1afb75d3496732bfbf9aa0d31a9dc",
+      "sha256": "ff8b682ce8ebef56974a3d55fe8c633bbe53d1795870227d64a917c7314ae8cb",
       "hotspot": [
         17,
         17
@@ -2481,7 +2481,7 @@
     },
     {
       "file": "cursors/fable/128/Crosshair.ani",
-      "sha256": "38ef77996e72f102233dac1e0feb08e4203742e8ce538283e7f8a2f6687dd8f2",
+      "sha256": "08f438f6ea76cbe2533ac8ab6f22d53b5003a9f4ea9236336447a141f0b54571",
       "hotspot": [
         17,
         17
@@ -2492,7 +2492,7 @@
     },
     {
       "file": "cursors/fable/128/IBeam.ani",
-      "sha256": "5f45fda4237b83c633438ea3d414e2e341fbc1bff98d808482b1a406a0009f53",
+      "sha256": "6dd2ceddfe4bd7c62579bba5fe3f5cbe8512e33d76088f9b333200d782ef1381",
       "hotspot": [
         8,
         17
@@ -2503,7 +2503,7 @@
     },
     {
       "file": "cursors/fable/128/NWPen.ani",
-      "sha256": "722ee1b644286541ed50f7d5cc7df9bbe1d1faf3da04f5ea895614983e060bc6",
+      "sha256": "65acc9491143f695261977403e3e1c46e401f32ec9a957c4c39b47da8f81460b",
       "hotspot": [
         2,
         32
@@ -2514,7 +2514,7 @@
     },
     {
       "file": "cursors/fable/128/No.ani",
-      "sha256": "cea2f602b83bd9419c337301710ea9961c689baffc7b9b1d2539ac2139e97e41",
+      "sha256": "e6c2e5fce6e6aa2dc59b558a9d8fdfd76ff16724841b4c3b3dc409267e7f89f4",
       "hotspot": [
         17,
         17
@@ -2525,7 +2525,7 @@
     },
     {
       "file": "cursors/fable/128/SizeNS.ani",
-      "sha256": "91289ccea3540633f82b29e7ac172d40c8552efe83875467eb9e439f5e00d6af",
+      "sha256": "749218cb7c3b12baf7e5e43444337997395f7b0e5566b9a5ed36afc89f1389c7",
       "hotspot": [
         7,
         17
@@ -2536,7 +2536,7 @@
     },
     {
       "file": "cursors/fable/128/SizeWE.ani",
-      "sha256": "bb41cc9cbdc80ca1656ec506568910f36418c721cbd8099204e5d6e650a32487",
+      "sha256": "c81ebd6628f88ae15cf3381e1e8cbe3c38c5ed7a7f6435846a1bc050f4a9ce8a",
       "hotspot": [
         17,
         7
@@ -2547,7 +2547,7 @@
     },
     {
       "file": "cursors/fable/128/SizeNWSE.ani",
-      "sha256": "96cd7c7fc5b9df6eff8a3256d8738e9eafb52a51b6358b1f42e1b817a762c408",
+      "sha256": "7817ac7dd69836b3992a92191a5a232335cdaebd8ffb270e35d02fae05e54a06",
       "hotspot": [
         17,
         17
@@ -2558,7 +2558,7 @@
     },
     {
       "file": "cursors/fable/128/SizeNESW.ani",
-      "sha256": "cefba6f4c9c5c417ad890e10f1efe2c3dbd643c918c4b9ce1847bc518a85052a",
+      "sha256": "da52a6f14aa60065d630b484d7d4729036c95caaa3104a51a7fc11c109c9c784",
       "hotspot": [
         17,
         17
@@ -2569,7 +2569,7 @@
     },
     {
       "file": "cursors/fable/128/SizeAll.ani",
-      "sha256": "d7b71629dbf565303a0bae411f554128aba16e7fd9640b8d6c28ac0b0a5b5902",
+      "sha256": "e95316e54112f35bfa447500ae6c8ef807ab5fb3716db8e61c1790019b08b1b6",
       "hotspot": [
         17,
         17
@@ -2580,7 +2580,7 @@
     },
     {
       "file": "cursors/fable/128/UpArrow.ani",
-      "sha256": "a55a2fa4275750d2e28a93006a0a4e25350ffade06124271c50f92e8533eea67",
+      "sha256": "98820235151b21383d7a112ebfe21abf7637dfcdf725c39387f6df63aff720fc",
       "hotspot": [
         14,
         2
@@ -2591,7 +2591,7 @@
     },
     {
       "file": "cursors/fable/128/Hand.ani",
-      "sha256": "c7690899301b65cb99c968f987101d5a8b132003588382dd115a2bcf84cefb04",
+      "sha256": "b0815246780c705c9cc14cbee2745592bb6bfcb21ced6527d01027ad4acfa6aa",
       "hotspot": [
         10,
         2
@@ -2602,7 +2602,7 @@
     },
     {
       "file": "cursors/fable/128/Pin.ani",
-      "sha256": "218ac7337f52c1bcfe626ffb39b6f10eec784df7295d82d1dd2cc12e8d50a670",
+      "sha256": "2fadc0cb9e28f86585786731620a94fc49043753dd7a70dd6763f4fffdad4755",
       "hotspot": [
         13,
         32
@@ -2613,7 +2613,7 @@
     },
     {
       "file": "cursors/fable/128/Person.ani",
-      "sha256": "5cb3e9e50d46d8896627865d32c03e903e641102026a12f10193c5b52095d065",
+      "sha256": "76c9ea14b078a4e4287ab2d62b1c2133e0c07a9b76919f46c46290c7ec85255f",
       "hotspot": [
         15,
         8
@@ -2624,7 +2624,7 @@
     },
     {
       "file": "cursors/fable/256/Arrow.ani",
-      "sha256": "3ecb6bb2f3ecd4073148d51522356e342a5bdd4f0971d383b53996c0f67164b9",
+      "sha256": "e973a47954b2f27017fb0457e976d5cd7f06e5822420e4fc62d3f229ce596ed3",
       "hotspot": [
         4,
         4
@@ -2635,7 +2635,7 @@
     },
     {
       "file": "cursors/fable/256/Help.ani",
-      "sha256": "352e709421f7ca2bd7253ebf52d8713d0dc686df126d2e44dc05719372f99ae9",
+      "sha256": "f489360ab9af72d231289712ebd0b02b0189685f5667f729c028b9d29c7b2f83",
       "hotspot": [
         4,
         4
@@ -2646,7 +2646,7 @@
     },
     {
       "file": "cursors/fable/256/AppStarting.ani",
-      "sha256": "665af12213cd6c8e40c2a9bec7f75a5a32dc4233367c6dad1ec6292c06338c83",
+      "sha256": "6d8f41edbecfbec1770cdd38f08ce6a08fafa885f94d4b3bacb9c71c5c88a038",
       "hotspot": [
         4,
         4
@@ -2657,7 +2657,7 @@
     },
     {
       "file": "cursors/fable/256/Wait.ani",
-      "sha256": "4ffee1dfdcb520c8abdbbebc4b2a135167e434e4060b1af303ed3f1d18ba6fa9",
+      "sha256": "9df6fb666f65f9ba6cb520a262ca69e5cf5e0d003bb05bc717bd94975e240b9a",
       "hotspot": [
         34,
         34
@@ -2668,7 +2668,7 @@
     },
     {
       "file": "cursors/fable/256/Crosshair.ani",
-      "sha256": "fc9aeaa74e0fa4260989cbd1fb34af552f8394b2a9c2f52d7a06a5b94aa0dd71",
+      "sha256": "168f4ff60f54bc28b6d7e3a90746f2bfee05220ef3fc9977875fa8df7d48508b",
       "hotspot": [
         34,
         34
@@ -2679,7 +2679,7 @@
     },
     {
       "file": "cursors/fable/256/IBeam.ani",
-      "sha256": "1d369971cd690789db45a62c7f57b077544397293e3e11ed16dae46ac44426e7",
+      "sha256": "f7eaab6ef6498c7c415edd28a0b69b682a35be787defabdb963ffd76e5144f0a",
       "hotspot": [
         17,
         34
@@ -2690,7 +2690,7 @@
     },
     {
       "file": "cursors/fable/256/NWPen.ani",
-      "sha256": "1f549a8d72be273ebe0a8f75f7ae0346b84f64cd7b324727a19919336d8e1165",
+      "sha256": "9b513efbab898a5c9479c8cca005e38b57a821fbb9a6ae78b27fca9abc7b7ca3",
       "hotspot": [
         4,
         63
@@ -2701,7 +2701,7 @@
     },
     {
       "file": "cursors/fable/256/No.ani",
-      "sha256": "89fb778297dfa9dc4129048b227805610f3cd887dce09ba1fb49643cb5f5398a",
+      "sha256": "9a24960616481bd1cf242dc6f873815a7fb8e74cd140df0b53ff9c8a9c757f2c",
       "hotspot": [
         34,
         34
@@ -2712,7 +2712,7 @@
     },
     {
       "file": "cursors/fable/256/SizeNS.ani",
-      "sha256": "9a8bc305aae401ec28cd607e636e8b3cf52f61cf4cf7d7c03c4e39a69221b452",
+      "sha256": "0ebca3d40b6704c20e1afdf8de491dedede52f57d624ba22513d0e0cb8a5fddd",
       "hotspot": [
         13,
         34
@@ -2723,7 +2723,7 @@
     },
     {
       "file": "cursors/fable/256/SizeWE.ani",
-      "sha256": "094011e9802d0f096daa444f53aac2c212392e2d8c48ae4e73a1c50d99a7005f",
+      "sha256": "7dc7297a39369f6df77e75c8ceef1a4cac71609b90460e9fa26fd1bc015423c3",
       "hotspot": [
         34,
         13
@@ -2734,7 +2734,7 @@
     },
     {
       "file": "cursors/fable/256/SizeNWSE.ani",
-      "sha256": "2ebd0e7860bbe322d101d0eba324d924178087eee238a393e9000757d053ade9",
+      "sha256": "5584e837d643768bdc3c4f6b5cd3cc892e44a548991d987eb448a2dab72af0cc",
       "hotspot": [
         34,
         34
@@ -2745,7 +2745,7 @@
     },
     {
       "file": "cursors/fable/256/SizeNESW.ani",
-      "sha256": "6f14e5df1abdf6955a29b5fb5fb587a24d64dc1f5391fdb343c25f56aaaa8e4b",
+      "sha256": "568b492cb5d61244d3fc4cf71bb6c97473df9fdb60a7f08459fad3f5ecc48cc4",
       "hotspot": [
         34,
         34
@@ -2756,7 +2756,7 @@
     },
     {
       "file": "cursors/fable/256/SizeAll.ani",
-      "sha256": "23511d5795d8bcaefbe049063697efd58fadcd37491180be7608238a8365666a",
+      "sha256": "c3a25b0b05d80fd54e7b766efdbda76a15322ebb57b2d2dca740c2de90891d88",
       "hotspot": [
         34,
         33
@@ -2767,7 +2767,7 @@
     },
     {
       "file": "cursors/fable/256/UpArrow.ani",
-      "sha256": "9983b7140c02c740cc268b6dfc55e9a4d6d07324d65ce39e64df78f54914226b",
+      "sha256": "11a2a1b273b1ddaa67a5d2428a71cf33401bacc07fcacead9f504e9a828096f8",
       "hotspot": [
         29,
         4
@@ -2778,7 +2778,7 @@
     },
     {
       "file": "cursors/fable/256/Hand.ani",
-      "sha256": "542881d64030d3c5c1898f92ee8d498b9dd961cd5f209d3997d5353dfb16e314",
+      "sha256": "26b7ab5b519ebf949d5c87001a821c640f9eb56d8c15ca8617ab3bd91f6e7a3a",
       "hotspot": [
         21,
         4
@@ -2789,7 +2789,7 @@
     },
     {
       "file": "cursors/fable/256/Pin.ani",
-      "sha256": "07fba3b96c1766ca1984af1424b4f095727ed44f4f2c16de4f88a5d793b064ba",
+      "sha256": "829018e15297c7df504249abe3ac195d010ecfed2b3ea27c8656879254ee796a",
       "hotspot": [
         26,
         64
@@ -2800,7 +2800,7 @@
     },
     {
       "file": "cursors/fable/256/Person.ani",
-      "sha256": "2a196b5f46d736219fce0c3f99e479fce23f59731661e2a0f03ff1a16add285f",
+      "sha256": "c34afbd95ee72c43a99eeba478ee409842d60cc18cfa1cbdbcc25eb3fc5f5f77",
       "hotspot": [
         31,
         15

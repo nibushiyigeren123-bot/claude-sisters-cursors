@@ -1,0 +1,14 @@
+{
+  "character": "fable",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a12d0c-8375-79f0-ace9-afa1b234d5a3\\exec-558359f7-427c-4ac8-8968-82c69b1af7cb.png",
+  "target": "E:\\cladue缓存\\AI全家动态指针_20261012\\characters\\fable\\poses-v4.png",
+  "sha256": "6f83e747ee03b7de536d9ea64178b9cd8b5ac9dc76339f3e76a8d01ac82232dd",
+  "size": [
+    1283,
+    1226
+  ],
+  "mode": "RGBA",
+  "method": "built-in image_gen",
+  "seed": "not exposed by built-in tool",
+  "original_preserved": true
+}

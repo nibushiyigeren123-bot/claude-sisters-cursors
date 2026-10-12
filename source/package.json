@@ -3,7 +3,7 @@
   "title": "Claude 三姐妹",
   "namespace": "ClaudeCursors",
   "accent": "#d88945",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "default_character": "opus",
   "characters": [
     {
@@ -19,7 +19,17 @@
     {
       "id": "fable",
       "display": "Fable",
-      "reference_page": 2
+      "reference_page": null,
+      "reference": "user supplied fable-user-fullbody.png",
+      "required_identity_traits": [
+        "gold-rimmed glasses",
+        "high hair bun",
+        "long embroidered cloak",
+        "book",
+        "white feather quill"
+      ]
     }
-  ]
+  ],
+  "installation_slot_version": "1.0.0",
+  "art_revision": "Fable identity corrected against user fullbody: glasses, high bun, long cloak, book and feather quill"
 }
