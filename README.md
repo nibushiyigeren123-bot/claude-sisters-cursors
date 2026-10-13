@@ -1,5 +1,8 @@
 # Claude 三姐妹 动态鼠标指针
 
+> **v1.0.2 安装兼容修复**：[完整安装包](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.0.2/claude-sisters-cursors-install-v1.0.2.zip) · [可编辑源码](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.0.2/claude-sisters-cursors-source-v1.0.2.zip) · [PNG帧](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.0.2/claude-sisters-cursors-png-frames-v1.0.2.zip)。升级步骤和旧系统说明见 [兼容修复说明](WIN10_COMPATIBILITY.md)。
+
+
 **v1.0.1 已修正 Fable 形象。** 根据用户提供的全身图重做眼镜、高发髻、长披风、书和羽毛笔，九姿势全部保留这些标志物；指针、海报、展示视频同步更新。旧 v1.0.0 的 Fable 与 Opus 太相近，请下载 [v1.0.1](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/tag/v1.0.1)。
 
 Opus / Sonnet / Fable 的社区 Q 版 Windows 指针，每位 **17 种状态 × 32 / 48 / 64 / 128 / 256 px 五档尺寸**。同公司的角色放在同一仓库，每位都能单独选择。
@@ -8,7 +11,7 @@ Opus / Sonnet / Fable 的社区 Q 版 Windows 指针，每位 **17 种状态 × 
 
 ## 下载和安装
 
-从 [downloads](downloads/) 下载 `claude-sisters-cursors-install-v1.0.1.zip`，完整解压到本地目录。
+下载 [完整安装包](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.0.2/claude-sisters-cursors-install-v1.0.2.zip)，完整解压到本地目录。
 
 1. 双击 `应用_Opus_64px.cmd`，或选择其他角色、其他尺寸的同名 CMD。第一次会保存安装前的 Windows 指针设置。
 2. 如需保持所选实际尺寸，手动运行一次 `尺寸保持_开启.cmd`。以后更换大小，双击对应尺寸 CMD。
@@ -27,8 +30,8 @@ Opus / Sonnet / Fable 的社区 Q 版 Windows 指针，每位 **17 种状态 × 
 - [4:3 海报](previews/poster-4x3.png) 和 [16:9 海报](previews/poster-16x9.png)：2400×1800 / 2560×1440，分别排版、按公司配色。
 - [展示视频](previews/showcase.mp4)：全部角色、17 状态与五档尺寸；视频编辑轨在完整工程中单独保存。
 - `source/characters/角色/pose-sources`：透明动作源；`source/build_cursors.py`：重建脚本；[动作参数](source/action-recipe.json)。
-- `downloads/claude-sisters-cursors-png-frames-v1.0.1.zip`：所有状态的可编辑 PNG 帧，安装时无需下载。
-- `downloads/claude-sisters-cursors-source-v1.0.1.zip`：当前透明源、参数、编译及安装源码。完整原始参考、生成历史和视频各轨另存本地正式工程档案。
+- [claude-sisters-cursors-png-frames-v1.0.2.zip](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.0.2/claude-sisters-cursors-png-frames-v1.0.2.zip)：所有状态的可编辑 PNG 帧，安装时无需下载。
+- [claude-sisters-cursors-source-v1.0.2.zip](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.0.2/claude-sisters-cursors-source-v1.0.2.zip)：当前透明源、参数、编译及安装源码。完整原始参考、生成历史和视频各轨另存本地正式工程档案。
 
 重建：Python 安装 `requirements.txt` 中依赖后，在解压目录运行 `python source/build_cursors.py`。它重建 ANI、PNG 帧、清晰度预览和动作 GIF。原生 Windows 校验脚本见 `scripts/validate_native.py`。
 

@@ -1,7 +1,7 @@
 # 下载
 
-安装时只需完整安装 ZIP。源码和 PNG 帧为独立可选下载。
+- [install](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.0.2/claude-sisters-cursors-install-v1.0.2.zip)
+- [source](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.0.2/claude-sisters-cursors-source-v1.0.2.zip)
+- [png-frames](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.0.2/claude-sisters-cursors-png-frames-v1.0.2.zip)
 
-- [五档完整安装包](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.0.1/claude-sisters-cursors-install-v1.0.1.zip)
-- [可重建源码](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.0.1/claude-sisters-cursors-source-v1.0.1.zip)
-- [可编辑 PNG 帧](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.0.1/claude-sisters-cursors-png-frames-v1.0.1.zip)
+完整解压 install 包后运行所选尺寸 CMD。source 与 PNG 帧为可选编辑资源；旧发行保留。
