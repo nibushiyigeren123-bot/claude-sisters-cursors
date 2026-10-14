@@ -12,9 +12,9 @@
 
 ### 放大版介绍视频
 
-- Opus：[26秒介绍视频](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.1.0/opus-放大版介绍.mp4) · [字幕](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.1.0/opus-放大版介绍.srt)
-- Sonnet：[26秒介绍视频](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.1.0/sonnet-放大版介绍.mp4) · [字幕](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.1.0/sonnet-放大版介绍.srt)
-- Fable：[26秒介绍视频](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.1.0/fable-放大版介绍.mp4) · [字幕](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.1.0/fable-放大版介绍.srt)
+- Opus：[26秒介绍视频](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.1.0/opus-large-arrow-introduction.mp4) · [字幕](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.1.0/opus-large-arrow-introduction.srt)
+- Sonnet：[26秒介绍视频](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.1.0/sonnet-large-arrow-introduction.mp4) · [字幕](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.1.0/sonnet-large-arrow-introduction.srt)
+- Fable：[26秒介绍视频](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.1.0/fable-large-arrow-introduction.mp4) · [字幕](https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.1.0/fable-large-arrow-introduction.srt)
 
 用户实际使用反馈继续收集；以下为原版设计、来源与历史资料，旧发行保留。
 
