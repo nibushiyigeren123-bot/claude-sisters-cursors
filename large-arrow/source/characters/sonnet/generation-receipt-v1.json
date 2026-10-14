@@ -1,0 +1,14 @@
+{
+  "character": "sonnet",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a12d0c-8375-79f0-ace9-afa1b234d5a3\\exec-260e0e78-2594-4a8e-bcfd-9b0c511232a8.png",
+  "target": "E:\\cladue缓存\\AI全家动态指针_20261012\\characters\\sonnet\\poses-v1.png",
+  "sha256": "a01a83ca54e0fd0e9cae37d0fd75b3aa8b7ad308e9532bc7996be4be50d5352f",
+  "size": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "method": "built-in image_gen",
+  "seed": "not exposed by built-in tool",
+  "original_preserved": true
+}

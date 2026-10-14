@@ -1,0 +1,14 @@
+{
+  "character": "opus",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a12d0c-8375-79f0-ace9-afa1b234d5a3\\exec-6d9f414e-b485-4410-bf2c-0b7e57178fa0.png",
+  "target": "E:\\cladue缓存\\AI全家动态指针_20261012\\characters\\opus\\poses-v1.png",
+  "sha256": "4cc6242850e8f4abab49c627c63553565cea30ae2cea9cf58fee72a78ec5cb38",
+  "size": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "method": "built-in image_gen",
+  "seed": "not exposed by built-in tool",
+  "original_preserved": true
+}

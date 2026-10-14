@@ -1,0 +1,141 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration": 51,
+  "scenes": [
+    {
+      "kind": "intro",
+      "seconds": 3,
+      "caption": "Claude 三姐妹 动态指针 · 17 状态 × 五档尺寸",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "kind": "states",
+      "character": "opus",
+      "display": "Opus",
+      "seconds": 10,
+      "caption": "Opus · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 3,
+      "end": 13
+    },
+    {
+      "kind": "sizes",
+      "character": "opus",
+      "display": "Opus",
+      "seconds": 5,
+      "caption": "Opus · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 13,
+      "end": 18
+    },
+    {
+      "kind": "states",
+      "character": "sonnet",
+      "display": "Sonnet",
+      "seconds": 10,
+      "caption": "Sonnet · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 18,
+      "end": 28
+    },
+    {
+      "kind": "sizes",
+      "character": "sonnet",
+      "display": "Sonnet",
+      "seconds": 5,
+      "caption": "Sonnet · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 28,
+      "end": 33
+    },
+    {
+      "kind": "states",
+      "character": "fable",
+      "display": "Fable",
+      "seconds": 10,
+      "caption": "Fable · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 33,
+      "end": 43
+    },
+    {
+      "kind": "sizes",
+      "character": "fable",
+      "display": "Fable",
+      "seconds": 5,
+      "caption": "Fable · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 43,
+      "end": 48
+    },
+    {
+      "kind": "outro",
+      "seconds": 3,
+      "caption": "社区分享 · 非商业使用 · 仓库与下载地址见简介",
+      "start": 48,
+      "end": 51
+    }
+  ],
+  "profile": {
+    "repository": "claude-sisters-cursors",
+    "title": "Claude 三姐妹",
+    "namespace": "ClaudeCursors",
+    "accent": "#d88945",
+    "version": "1.0.1",
+    "default_character": "opus",
+    "characters": [
+      {
+        "id": "opus",
+        "display": "Opus",
+        "reference_page": 2
+      },
+      {
+        "id": "sonnet",
+        "display": "Sonnet",
+        "reference_page": 2
+      },
+      {
+        "id": "fable",
+        "display": "Fable",
+        "reference_page": null,
+        "reference": "user supplied fable-user-fullbody.png",
+        "required_identity_traits": [
+          "gold-rimmed glasses",
+          "high hair bun",
+          "long embroidered cloak",
+          "book",
+          "white feather quill"
+        ]
+      }
+    ],
+    "installation_slot_version": "1.0.0",
+    "art_revision": "Fable identity corrected against user fullbody: glasses, high bun, long cloak, book and feather quill"
+  },
+  "palette": {
+    "repository": "claude-sisters-cursors",
+    "accent": "#C4633F",
+    "ink": "#2A211D",
+    "muted": "#8A7A72",
+    "bg_start": "#FDF6F1",
+    "bg_end": "#F6DFD3",
+    "title": "Claude 三姐妹光标库",
+    "subtitle": "暖橙陶土调 · 同库三人",
+    "quote": "暖橙一层层叠起来，冷静的笔迹里带一点书卷气。",
+    "characters": [
+      {
+        "id": "opus",
+        "label": "Opus",
+        "traits": "长橙发 / 长裙 / 书卷气"
+      },
+      {
+        "id": "sonnet",
+        "label": "Sonnet",
+        "traits": "短橙发短裙，活泼明快"
+      },
+      {
+        "id": "fable",
+        "label": "Fable",
+        "traits": "长发酒红斗篷，抱着故事书"
+      }
+    ]
+  },
+  "bgm_sha256": "4bc699d0c98e1f150b1f04f576c12b0b963dea638d34b845b087fea35e424936",
+  "music": "MusMus / watson - 放課後アフタースクール"
+}

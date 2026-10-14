@@ -1,0 +1,17 @@
+{
+  "character": "fable",
+  "version": "1.0.1",
+  "authority": "user fullbody attachment",
+  "reference_sha256": "28fec291f61a64f9e9badd3ee7fcea63af96244d99c62487144442bd11e44471",
+  "selected_sprite_atlas_sha256": "6f83e747ee03b7de536d9ea64178b9cd8b5ac9dc76339f3e76a8d01ac82232dd",
+  "identity_features": [
+    "gold-rimmed glasses in all nine poses including closed-eyes wave/jump",
+    "high hair bun",
+    "long burgundy-gold embroidered cloak",
+    "book and white feather quill"
+  ],
+  "not_a_recolored_Opus": true,
+  "old_v1_and_v2_rejected": true,
+  "v3_missing_closed_eye_glasses_rejected": true,
+  "v4_reviewed": true
+}

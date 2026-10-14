@@ -1,0 +1,397 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration": 93,
+  "scenes": [
+    {
+      "kind": "intro",
+      "seconds": 3,
+      "caption": "Claude 三姐妹 动态指针 · 17 状态 × 五档尺寸",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "kind": "states",
+      "character": "opus",
+      "display": "Opus",
+      "seconds": 4,
+      "caption": "Opus · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 3,
+      "end": 7
+    },
+    {
+      "kind": "focus",
+      "character": "opus",
+      "display": "Opus",
+      "roles": [
+        "Arrow",
+        "Help",
+        "Crosshair"
+      ],
+      "seconds": 3,
+      "caption": "Opus · 正常、帮助与精确选择",
+      "start": 7,
+      "end": 10
+    },
+    {
+      "kind": "focus",
+      "character": "opus",
+      "display": "Opus",
+      "roles": [
+        "AppStarting",
+        "Wait",
+        "IBeam"
+      ],
+      "seconds": 3,
+      "caption": "Opus · 后台运行、忙碌与文本选择",
+      "start": 10,
+      "end": 13
+    },
+    {
+      "kind": "focus",
+      "character": "opus",
+      "display": "Opus",
+      "roles": [
+        "Hand",
+        "Person",
+        "NWPen"
+      ],
+      "seconds": 3,
+      "caption": "Opus · 链接、人员与手写选择",
+      "start": 13,
+      "end": 16
+    },
+    {
+      "kind": "focus",
+      "character": "opus",
+      "display": "Opus",
+      "roles": [
+        "No",
+        "Pin",
+        "UpArrow"
+      ],
+      "seconds": 3,
+      "caption": "Opus · 不可用、位置与候选选择",
+      "start": 16,
+      "end": 19
+    },
+    {
+      "kind": "focus",
+      "character": "opus",
+      "display": "Opus",
+      "roles": [
+        "SizeNS",
+        "SizeWE"
+      ],
+      "seconds": 3,
+      "caption": "Opus · 垂直与水平调整",
+      "start": 19,
+      "end": 22
+    },
+    {
+      "kind": "focus",
+      "character": "opus",
+      "display": "Opus",
+      "roles": [
+        "SizeNWSE",
+        "SizeNESW",
+        "SizeAll"
+      ],
+      "seconds": 3,
+      "caption": "Opus · 两种对角调整与移动",
+      "start": 22,
+      "end": 25
+    },
+    {
+      "kind": "sizes",
+      "character": "opus",
+      "display": "Opus",
+      "seconds": 5,
+      "caption": "Opus · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 25,
+      "end": 30
+    },
+    {
+      "kind": "states",
+      "character": "sonnet",
+      "display": "Sonnet",
+      "seconds": 4,
+      "caption": "Sonnet · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 30,
+      "end": 34
+    },
+    {
+      "kind": "focus",
+      "character": "sonnet",
+      "display": "Sonnet",
+      "roles": [
+        "Arrow",
+        "Help",
+        "Crosshair"
+      ],
+      "seconds": 3,
+      "caption": "Sonnet · 正常、帮助与精确选择",
+      "start": 34,
+      "end": 37
+    },
+    {
+      "kind": "focus",
+      "character": "sonnet",
+      "display": "Sonnet",
+      "roles": [
+        "AppStarting",
+        "Wait",
+        "IBeam"
+      ],
+      "seconds": 3,
+      "caption": "Sonnet · 后台运行、忙碌与文本选择",
+      "start": 37,
+      "end": 40
+    },
+    {
+      "kind": "focus",
+      "character": "sonnet",
+      "display": "Sonnet",
+      "roles": [
+        "Hand",
+        "Person",
+        "NWPen"
+      ],
+      "seconds": 3,
+      "caption": "Sonnet · 链接、人员与手写选择",
+      "start": 40,
+      "end": 43
+    },
+    {
+      "kind": "focus",
+      "character": "sonnet",
+      "display": "Sonnet",
+      "roles": [
+        "No",
+        "Pin",
+        "UpArrow"
+      ],
+      "seconds": 3,
+      "caption": "Sonnet · 不可用、位置与候选选择",
+      "start": 43,
+      "end": 46
+    },
+    {
+      "kind": "focus",
+      "character": "sonnet",
+      "display": "Sonnet",
+      "roles": [
+        "SizeNS",
+        "SizeWE"
+      ],
+      "seconds": 3,
+      "caption": "Sonnet · 垂直与水平调整",
+      "start": 46,
+      "end": 49
+    },
+    {
+      "kind": "focus",
+      "character": "sonnet",
+      "display": "Sonnet",
+      "roles": [
+        "SizeNWSE",
+        "SizeNESW",
+        "SizeAll"
+      ],
+      "seconds": 3,
+      "caption": "Sonnet · 两种对角调整与移动",
+      "start": 49,
+      "end": 52
+    },
+    {
+      "kind": "sizes",
+      "character": "sonnet",
+      "display": "Sonnet",
+      "seconds": 5,
+      "caption": "Sonnet · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 52,
+      "end": 57
+    },
+    {
+      "kind": "states",
+      "character": "fable",
+      "display": "Fable",
+      "seconds": 4,
+      "caption": "Fable · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 57,
+      "end": 61
+    },
+    {
+      "kind": "focus",
+      "character": "fable",
+      "display": "Fable",
+      "roles": [
+        "Arrow",
+        "Help",
+        "Crosshair"
+      ],
+      "seconds": 3,
+      "caption": "Fable · 正常、帮助与精确选择",
+      "start": 61,
+      "end": 64
+    },
+    {
+      "kind": "focus",
+      "character": "fable",
+      "display": "Fable",
+      "roles": [
+        "AppStarting",
+        "Wait",
+        "IBeam"
+      ],
+      "seconds": 3,
+      "caption": "Fable · 后台运行、忙碌与文本选择",
+      "start": 64,
+      "end": 67
+    },
+    {
+      "kind": "focus",
+      "character": "fable",
+      "display": "Fable",
+      "roles": [
+        "Hand",
+        "Person",
+        "NWPen"
+      ],
+      "seconds": 3,
+      "caption": "Fable · 链接、人员与手写选择",
+      "start": 67,
+      "end": 70
+    },
+    {
+      "kind": "focus",
+      "character": "fable",
+      "display": "Fable",
+      "roles": [
+        "No",
+        "Pin",
+        "UpArrow"
+      ],
+      "seconds": 3,
+      "caption": "Fable · 不可用、位置与候选选择",
+      "start": 70,
+      "end": 73
+    },
+    {
+      "kind": "focus",
+      "character": "fable",
+      "display": "Fable",
+      "roles": [
+        "SizeNS",
+        "SizeWE"
+      ],
+      "seconds": 3,
+      "caption": "Fable · 垂直与水平调整",
+      "start": 73,
+      "end": 76
+    },
+    {
+      "kind": "focus",
+      "character": "fable",
+      "display": "Fable",
+      "roles": [
+        "SizeNWSE",
+        "SizeNESW",
+        "SizeAll"
+      ],
+      "seconds": 3,
+      "caption": "Fable · 两种对角调整与移动",
+      "start": 76,
+      "end": 79
+    },
+    {
+      "kind": "sizes",
+      "character": "fable",
+      "display": "Fable",
+      "seconds": 5,
+      "caption": "Fable · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 79,
+      "end": 84
+    },
+    {
+      "kind": "install",
+      "seconds": 6,
+      "caption": "安装方法 · 完整解压 → 选择角色与尺寸 → 可选开启尺寸保持",
+      "start": 84,
+      "end": 90
+    },
+    {
+      "kind": "outro",
+      "seconds": 3,
+      "caption": "社区分享 · 非商业使用 · 仓库与下载地址见简介",
+      "start": 90,
+      "end": 93
+    }
+  ],
+  "profile": {
+    "repository": "claude-sisters-cursors",
+    "title": "Claude 三姐妹",
+    "namespace": "ClaudeCursors",
+    "accent": "#d88945",
+    "version": "1.0.1",
+    "default_character": "opus",
+    "characters": [
+      {
+        "id": "opus",
+        "display": "Opus",
+        "reference_page": 2
+      },
+      {
+        "id": "sonnet",
+        "display": "Sonnet",
+        "reference_page": 2
+      },
+      {
+        "id": "fable",
+        "display": "Fable",
+        "reference_page": null,
+        "reference": "user supplied fable-user-fullbody.png",
+        "required_identity_traits": [
+          "gold-rimmed glasses",
+          "high hair bun",
+          "long embroidered cloak",
+          "book",
+          "white feather quill"
+        ]
+      }
+    ],
+    "installation_slot_version": "1.0.0",
+    "art_revision": "Fable identity corrected against user fullbody: glasses, high bun, long cloak, book and feather quill"
+  },
+  "palette": {
+    "repository": "claude-sisters-cursors",
+    "accent": "#C4633F",
+    "ink": "#2A211D",
+    "muted": "#8A7A72",
+    "bg_start": "#FDF6F1",
+    "bg_end": "#F6DFD3",
+    "title": "Claude 三姐妹光标库",
+    "subtitle": "暖橙陶土调 · 同库三人",
+    "quote": "暖橙一层层叠起来，冷静的笔迹里带一点书卷气。",
+    "characters": [
+      {
+        "id": "opus",
+        "label": "Opus",
+        "traits": "长橙发 / 长裙 / 书卷气"
+      },
+      {
+        "id": "sonnet",
+        "label": "Sonnet",
+        "traits": "短橙发短裙，活泼明快"
+      },
+      {
+        "id": "fable",
+        "label": "Fable",
+        "traits": "长发酒红斗篷，抱着故事书"
+      }
+    ]
+  },
+  "bgm_sha256": "4bc699d0c98e1f150b1f04f576c12b0b963dea638d34b845b087fea35e424936",
+  "music": "MusMus / watson - 放課後アフタースクール"
+}
