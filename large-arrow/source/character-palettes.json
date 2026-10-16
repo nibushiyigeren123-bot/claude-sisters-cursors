@@ -1,0 +1,23 @@
+{
+  "opus": {
+    "INK": "#2a211d",
+    "WHITE": "#fff8f4",
+    "MINT": "#c4633f",
+    "GOLD": "#e8c66a",
+    "OUTER": "#2a211d"
+  },
+  "sonnet": {
+    "INK": "#2a211d",
+    "WHITE": "#fff8f4",
+    "MINT": "#c4633f",
+    "GOLD": "#e8c66a",
+    "OUTER": "#2a211d"
+  },
+  "fable": {
+    "INK": "#512f40",
+    "WHITE": "#fff8f5",
+    "MINT": "#a45469",
+    "GOLD": "#e8c66a",
+    "OUTER": "#512f40"
+  }
+}

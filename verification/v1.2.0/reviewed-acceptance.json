@@ -1,0 +1,143 @@
+{
+  "version": "1.2.0",
+  "success": true,
+  "fileVerification": {
+    "repository": "claude-sisters-cursors",
+    "aniFiles": 663,
+    "decodedFrames": 5304,
+    "characterIdentityFrames": 2856,
+    "maxGapError": 0.9983700113935434,
+    "rawSourceFilesUnchanged": 60,
+    "paletteChecks": [
+      {
+        "character": "opus",
+        "edition": "original",
+        "size": 96,
+        "outline": "#2a211d",
+        "verified": true
+      },
+      {
+        "character": "opus",
+        "edition": "original",
+        "size": 256,
+        "outline": "#2a211d",
+        "verified": true
+      },
+      {
+        "character": "sonnet",
+        "edition": "original",
+        "size": 96,
+        "outline": "#2a211d",
+        "verified": true
+      },
+      {
+        "character": "sonnet",
+        "edition": "original",
+        "size": 256,
+        "outline": "#2a211d",
+        "verified": true
+      },
+      {
+        "character": "fable",
+        "edition": "original",
+        "size": 96,
+        "outline": "#512f40",
+        "verified": true
+      },
+      {
+        "character": "fable",
+        "edition": "original",
+        "size": 256,
+        "outline": "#512f40",
+        "verified": true
+      },
+      {
+        "character": "opus",
+        "edition": "plus",
+        "size": 96,
+        "outline": "#2a211d",
+        "verified": true
+      },
+      {
+        "character": "opus",
+        "edition": "plus",
+        "size": 256,
+        "outline": "#2a211d",
+        "verified": true
+      },
+      {
+        "character": "sonnet",
+        "edition": "plus",
+        "size": 96,
+        "outline": "#2a211d",
+        "verified": true
+      },
+      {
+        "character": "sonnet",
+        "edition": "plus",
+        "size": 256,
+        "outline": "#2a211d",
+        "verified": true
+      },
+      {
+        "character": "fable",
+        "edition": "plus",
+        "size": 96,
+        "outline": "#512f40",
+        "verified": true
+      },
+      {
+        "character": "fable",
+        "edition": "plus",
+        "size": 256,
+        "outline": "#512f40",
+        "verified": true
+      }
+    ],
+    "success": true
+  },
+  "actualWindowsAcceptance": {
+    "repository": "claude-sisters-cursors",
+    "observations": 84,
+    "sameDefaultCaptures": 41,
+    "nativeCharacterComparisons": [
+      {
+        "character": "opus",
+        "samePhysicalSize": true,
+        "opaquePixelsCompared": 3410,
+        "maxRGBDifference": 0,
+        "ordinaryCompositionPixelsExcluded": 0,
+        "offset": [
+          12,
+          5
+        ]
+      },
+      {
+        "character": "sonnet",
+        "samePhysicalSize": true,
+        "opaquePixelsCompared": 2568,
+        "maxRGBDifference": 0,
+        "ordinaryCompositionPixelsExcluded": 0,
+        "offset": [
+          7,
+          14
+        ]
+      },
+      {
+        "character": "fable",
+        "samePhysicalSize": true,
+        "opaquePixelsCompared": 3179,
+        "maxRGBDifference": 0,
+        "ordinaryCompositionPixelsExcluded": 0,
+        "offset": [
+          10,
+          5
+        ]
+      }
+    ],
+    "success": true
+  },
+  "environment": "Windows11-Lab; interactive LabUser; 96DPI; system preference32 and48",
+  "scope": "This repository: real CMD for every character/tier; all17 native system role sizes; default-scheme pixel identity. Shared edge-case tests: Gemini reboot, user-size48, INF96/256, legacy-backup filtering, cache repair, matching-name foreign paths.",
+  "limitations": "Actual VM acceptance covers this Windows11 build at96DPI; otherWindows versions and DPI combinations are not claimed tested."
+}

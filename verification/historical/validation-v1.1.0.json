@@ -1,0 +1,2813 @@
+{
+  "cursor_files": 255,
+  "schemes": 15,
+  "role_count": 17,
+  "native_verified": true,
+  "records": [
+    {
+      "file": "cursors/opus/32/Arrow.ani",
+      "sha256": "d2422506371806d926e076e7c812a2a5725d24bf20ca02b6d2915d13e67e2b85",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/Help.ani",
+      "sha256": "8f2ec884846135617744ec531170c9b60102de27cc496868c52a9d06e5df2455",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/AppStarting.ani",
+      "sha256": "0e31b5cf865202b9d547438b85cb011943543881e49a1ec0a13d06496710d881",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/Wait.ani",
+      "sha256": "0a468100ecaa7cb4013e16f3764f906ef0587f01ef53fc57747a435fbd61e0b5",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/Crosshair.ani",
+      "sha256": "374c23fcf8145d0be50efe6b1c81f68ca69264fdd9a7a7abad84e8820683dace",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/IBeam.ani",
+      "sha256": "f60a83e33f227534ef11e5251a6c5052c01ba32b02c4b66050917253da516da0",
+      "hotspot": [
+        2,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/NWPen.ani",
+      "sha256": "78828faf3c962fcd419deb5cbc56d580999ad6244c36024988a536024a9121f9",
+      "hotspot": [
+        1,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/No.ani",
+      "sha256": "207ac80be1d3fa06fec221fcd39ab4622b4f5c493d003e7bf0b0e0e8b45bf154",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/SizeNS.ani",
+      "sha256": "ae78a679f2b999c53d972f21997cc1fc000959268f2dc4c89ef252f9d0b3c4c9",
+      "hotspot": [
+        2,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/SizeWE.ani",
+      "sha256": "ffab07826cff2b96ed210d0ac01530bd21824a850cb63e76eb244d33bbd4c243",
+      "hotspot": [
+        4,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/SizeNWSE.ani",
+      "sha256": "2fc23cc742e9205365401103234a859d179b29dbddbb45add75741618f77ce35",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/SizeNESW.ani",
+      "sha256": "8d42bed946442553688ea05ee3474fe36de3c367a09f53d6af597c78ecea5625",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/SizeAll.ani",
+      "sha256": "f645f46a566671ac260857d6fa0d2ae1b0ca47c557d76468d96db3e44c53828b",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/UpArrow.ani",
+      "sha256": "0ed3e6af22db206c70c4f3f6ef32535cb52dc9110dc0b95c0c68de6a8f2fde14",
+      "hotspot": [
+        4,
+        0
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/Hand.ani",
+      "sha256": "b4ff35b7776cc48ce2a2a56f28395930fc2b108b8498d6a52fb57f5ec6d9381e",
+      "hotspot": [
+        3,
+        0
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/Pin.ani",
+      "sha256": "9299984c90d2f5468a410205d820cc36f1fd5867826f4a1a131c5f40d9790f7a",
+      "hotspot": [
+        3,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/32/Person.ani",
+      "sha256": "89f5135db4042d6744788b1f05acb1f8437549b5eea6bbd132176215047aaf81",
+      "hotspot": [
+        4,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/Arrow.ani",
+      "sha256": "143e0622bea1c4d775e6368fbddb91c66b8c04d4f498f1d069f8e9ea5cf415fa",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/Help.ani",
+      "sha256": "80a42c5683a76227fdc23b850ab6500c0f8ae190f0ed1b70153b32b536da8abf",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/AppStarting.ani",
+      "sha256": "665867c7793a350368986c6bf432e30380e6f86e86df3c7e0770056a2fdce142",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/Wait.ani",
+      "sha256": "c5f83a3ae7be3b872854ead9cf5cd2968436514cb2d070a43d3291871ec93cbb",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/Crosshair.ani",
+      "sha256": "003e75fa0ad8ce8a916da27a10d08d153df0949a755e46c165d6b881816fe09e",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/IBeam.ani",
+      "sha256": "82e83e5cfab1ae28517d1971e542505957982b9ee362b9730cf913c1465343dc",
+      "hotspot": [
+        3,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/NWPen.ani",
+      "sha256": "366becb2f0fc208555cf3b9847905d293f771dd5a0f3457b9abd880c4a2225e6",
+      "hotspot": [
+        1,
+        12
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/No.ani",
+      "sha256": "a05aa2d3ed5f929f222546436c3aa80a091deeedab2c238ec7c3d104c10cc25f",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/SizeNS.ani",
+      "sha256": "aa9391038fb70d859b4cce0d5e3134768933a187807d978fc4fac433c396f6b9",
+      "hotspot": [
+        3,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/SizeWE.ani",
+      "sha256": "3137fdd1235ab71b392f53ca4e47344694bc0ea0a7f6693a9009aca015545967",
+      "hotspot": [
+        6,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/SizeNWSE.ani",
+      "sha256": "ed9e9242b0d44cadc5dd13e838580861a3576595a7bdbcc4ddbf7798afb8ed25",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/SizeNESW.ani",
+      "sha256": "bfab0591f10af6e6eccfcc84c635a221a4e637db3439a49894068c22abe0a9e5",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/SizeAll.ani",
+      "sha256": "7e88d223a2c0daef3cf98333c86ac05144d1d329b7214c3a1e052428edc29bed",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/UpArrow.ani",
+      "sha256": "dfc095e06973340f0d2b5cf01b4fb80fb25840907e9a4431db262aeb3c627b62",
+      "hotspot": [
+        5,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/Hand.ani",
+      "sha256": "d1c8d86bd8286cb11389595c9562e94945cbb4a26a1429ff6750657cd548bf0b",
+      "hotspot": [
+        4,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/Pin.ani",
+      "sha256": "f195b7e37cd0712f8a2777e50819ddcdcc0756ab5e094779aac7c35721c5ff2f",
+      "hotspot": [
+        5,
+        12
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/48/Person.ani",
+      "sha256": "5530b61113b7436145473cfb0770742a80d5e20ee0ec11a38fb3a1d7943c9aca",
+      "hotspot": [
+        6,
+        3
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/Arrow.ani",
+      "sha256": "1e5ebcc9f09820f59363456d4424050c67d9215e5968ff9a5b76f0e2ab6cf1d2",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/Help.ani",
+      "sha256": "65ec23a15403dc367268312fa8945c3b555c6e65bd75d0e36d52a9c7e648f87b",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/AppStarting.ani",
+      "sha256": "4cba888606170eaa8528e4f73c2db59d08e8f0b7623b1819be329c3e863c9d3c",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/Wait.ani",
+      "sha256": "f0123a81a83f8fed5edceddcc3c51292990c2bc90ce0a09692caa380b86319b2",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/Crosshair.ani",
+      "sha256": "f3ab19a21cd19114b1caea54c5c02e530041dd8352a789c5a625d5666dd2587d",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/IBeam.ani",
+      "sha256": "999ff4de4d9338b3094cf93b729b9f2f9d2510bf2f49586a4256c3d87a362886",
+      "hotspot": [
+        4,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/NWPen.ani",
+      "sha256": "46161705e48f94ace1503e3f376f8f679ab5d05a9a5c0d7ae5ef4134a218b357",
+      "hotspot": [
+        1,
+        16
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/No.ani",
+      "sha256": "1264ef8cefcff20c163384d79705e51057584d4dfc647aa76ad447def4e379dc",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/SizeNS.ani",
+      "sha256": "14cb9b2f39b2464bea08a3cb65964ffc2353a2114560e4b5cdf763b494ee3d2a",
+      "hotspot": [
+        3,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/SizeWE.ani",
+      "sha256": "07574551fe7403edd4f1627902bdb3d7ec223d073b0ae4eb9594cc9ca97c1cf1",
+      "hotspot": [
+        8,
+        3
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/SizeNWSE.ani",
+      "sha256": "4255f1088b1aa33216357fa65b62d7c910415b376b7d578024a6451a8cf2c970",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/SizeNESW.ani",
+      "sha256": "d298bad02217dcb260c08327a3ffa836097067549c7c2d97ce61795317918089",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/SizeAll.ani",
+      "sha256": "aaaf6d4218e86ccc50163838d3697b4cea35a0bc06ec48505416ca23d84e186e",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/UpArrow.ani",
+      "sha256": "c8cc461df328f2f050906c656abe45654190c7a1c53a774d5ec2f65327550789",
+      "hotspot": [
+        7,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/Hand.ani",
+      "sha256": "755d452e6a2f735e9e2287d0a8f9b7adf5f287b91d47ea8d3d2adf9d37f940c4",
+      "hotspot": [
+        5,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/Pin.ani",
+      "sha256": "09c001c61a185094ff4bdfc9f286aaf10e00a11d25e04924a94c636f0c4e034e",
+      "hotspot": [
+        7,
+        16
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/64/Person.ani",
+      "sha256": "0fe6dff30eb5b87e869bbf61424f3ab71f1e8510f95653b2c88af43c90df5119",
+      "hotspot": [
+        8,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/Arrow.ani",
+      "sha256": "9a9504ac455fc7da4c63f8e6952c3e41ecbd5e4810dbc76b3e5c38fbf4d588f4",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/Help.ani",
+      "sha256": "63f3b32d2cbe4f761ef52a63dd583796f745ca8a8e61111c37be9a0c531fa6cb",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/AppStarting.ani",
+      "sha256": "b950ddd756e53858ecf36f60029d5d3a2633bdeb192d8bfb3c497e7690dab566",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/Wait.ani",
+      "sha256": "d8c7743d246ecffcaa82fe8beb507862c759cd46df593064af9dccc90081572b",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/Crosshair.ani",
+      "sha256": "e69a4db4e95a31562861f7a7b04216d2a1f7d9e2d1d0400ae6792dc9fc17b725",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/IBeam.ani",
+      "sha256": "6f19ba39221975b7817a53d97e49fd52bb94e31010fd4cfab4e7b40b64776afa",
+      "hotspot": [
+        8,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/NWPen.ani",
+      "sha256": "7a4d14b319da938dbd45b399fd5baba528b9446939e8b8eb01ba6d83dd8bc29b",
+      "hotspot": [
+        2,
+        32
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/No.ani",
+      "sha256": "ba288cf876318e10cf95124770d57f27bdf7b96f79a7d7953e3d01940f84e441",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/SizeNS.ani",
+      "sha256": "f1df3f9198d008394e9eb314862488e40589c19b7ce41ba4651d62c7ef82816a",
+      "hotspot": [
+        7,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/SizeWE.ani",
+      "sha256": "9af8690acbfc308394ce35182dd8f0a90598e948bfbec2701bad4a0a3277c224",
+      "hotspot": [
+        17,
+        7
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/SizeNWSE.ani",
+      "sha256": "cdbecf9bdfe244f50aeeb3c809db2a4e048fc92de34cf7f217bb4ee03bed8b3e",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/SizeNESW.ani",
+      "sha256": "95d94b136df77814857d2785441172e75780c56dd07c4343445a2ffad69ccc49",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/SizeAll.ani",
+      "sha256": "144dbbcd0f901d8c88c4767097d608549dd1285956ab7cdf8a214fa2df4b9c87",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/UpArrow.ani",
+      "sha256": "95af4dbf4d9e3a216d80ef3228d475a5ccec16fb1d41c738e1936fd35b5492d6",
+      "hotspot": [
+        14,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/Hand.ani",
+      "sha256": "3782a2a29277a873545d34faffafe9bf05367939cbbf26367ec2e44fd1376466",
+      "hotspot": [
+        10,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/Pin.ani",
+      "sha256": "17f9b1b2cf3867715a7d31dfcf666ba98037e9be54ced978d36ad2d8b703a870",
+      "hotspot": [
+        13,
+        32
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/128/Person.ani",
+      "sha256": "10d3f7779af063765f74111296afeee87f8087a127d07b051cb65162dd841c80",
+      "hotspot": [
+        15,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/Arrow.ani",
+      "sha256": "aad1a6bb474f9abea71aaac8429ecad9887bacaa6aeafd3e65d6e41fa67bdba4",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/Help.ani",
+      "sha256": "9b0feb7277661f49a9598abd6ba404080593433d694367e339c8c95b0ef12aa2",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/AppStarting.ani",
+      "sha256": "d1d257175afce6a0c79940c9b3e517a37736400a7af41f006103f9b9e3ca3363",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/Wait.ani",
+      "sha256": "514fb6440b8c6b13c60a7d6352dec1d2d46bb717ae7ab2d1f4eab12a821913e6",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/Crosshair.ani",
+      "sha256": "df629082a72ea615144e7f7660ef2a91385ae5f32dcd3997ef1550a148a4532d",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/IBeam.ani",
+      "sha256": "dbbe91fdf3f9a15b02420d3fa2416a83b920f529c86421f78e0bf596141dfcee",
+      "hotspot": [
+        17,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/NWPen.ani",
+      "sha256": "8781088105d017754414147fa4a72233f4d9f8f7cc3fb200425e0237dc9cedc4",
+      "hotspot": [
+        4,
+        63
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/No.ani",
+      "sha256": "15bac4a524cb68e392d1158a854953682fabdb528a054123da90b2f142c8b862",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/SizeNS.ani",
+      "sha256": "2ca20dd030984c1e293952c115bead2f8356e85acbfef317fa28f4f4d3d9ae4a",
+      "hotspot": [
+        13,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/SizeWE.ani",
+      "sha256": "195d6d12a23b638e737c1c7629e75a1e8c8f18a79985c994e6176918fc1f722d",
+      "hotspot": [
+        34,
+        13
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/SizeNWSE.ani",
+      "sha256": "34f127a054d1f5069e02c7373948c0335f7c830199113ce08decb323097dc504",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/SizeNESW.ani",
+      "sha256": "a23fd7389973226d0e39826cbbb3de0561d2082690e178d03e2b375b83a429c9",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/SizeAll.ani",
+      "sha256": "1c4496ef2ee3cf1bddfc803728213d094c58294582d294605607a473ec19050a",
+      "hotspot": [
+        34,
+        33
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/UpArrow.ani",
+      "sha256": "d11c8539a557465fd344dab502a1b1f38d43a27668d7a867bbfa6e80152c4584",
+      "hotspot": [
+        29,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/Hand.ani",
+      "sha256": "b3ce061cdee631b3f576f96666f0bbfc906707c927ad017a9c9ca09dd923aff9",
+      "hotspot": [
+        21,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/Pin.ani",
+      "sha256": "4f23b41df095b70c64aac404e18f71e91912eab23df5a4c971edf4e7ea9b0f2d",
+      "hotspot": [
+        26,
+        64
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/opus/256/Person.ani",
+      "sha256": "efc926f87f87afe19711cd6d9df0cdfb955409c3c798435ed6f513c18943bdc8",
+      "hotspot": [
+        31,
+        15
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/Arrow.ani",
+      "sha256": "97357722a0f76f5dca46aa2c2c30e576a362a2ae6e1fa16c7a86cbb8cdaf9332",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/Help.ani",
+      "sha256": "378d7df99e9f42f9c940f2ccb3a9d9cef1185ec1956911093de0cc6dfae22ad1",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/AppStarting.ani",
+      "sha256": "4c56b362cc63b2981dcc35fda0177f40e17abcdc992ac1616d9d95c3bb4354f8",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/Wait.ani",
+      "sha256": "61d2ef175c9bb0719fd54bb8583df02ed8c754d053c46661ca91992ab21e20eb",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/Crosshair.ani",
+      "sha256": "a3bad25a6538f993b3c7402d9eff86da460511ddba60d121bfbd2d897db0b2c7",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/IBeam.ani",
+      "sha256": "b7a7e8f86df9aa05e735309ba5b2b8bc1807fab99d817431bd1975cd53d7a343",
+      "hotspot": [
+        2,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/NWPen.ani",
+      "sha256": "e056edbf5fc443c33f161a7c8ebd0e8b4f9e1168467ca50488f84e3a1bde57a0",
+      "hotspot": [
+        1,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/No.ani",
+      "sha256": "6c1e89da2ed74da399e5b8e5c5ff06de9141fba97347cade93d2351ac52a81b5",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/SizeNS.ani",
+      "sha256": "34b21d3185375c209d1f0a37acaeb38d26614e43cfcebfa8fec1360d335a001f",
+      "hotspot": [
+        2,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/SizeWE.ani",
+      "sha256": "a268db629f48aad6947e6cd0d2cd29a05241bdcb6fcd5026182586be1d02aba0",
+      "hotspot": [
+        4,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/SizeNWSE.ani",
+      "sha256": "ca16f4068cb89def0123cfd826f34702b96474ca4828ecd3af6f2b75ad2f0211",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/SizeNESW.ani",
+      "sha256": "85a3bcb33799237d47f8a9e9055a5814e8ed92bb2908b751507201f026d8fa52",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/SizeAll.ani",
+      "sha256": "777006ab7a79cd4b240d17b020be248f94106cc98f64e857d990bb19b8c98858",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/UpArrow.ani",
+      "sha256": "8984da6bda8f1b1d794967e89d7ae806219b38007b0ef0cb9e161e03452be54e",
+      "hotspot": [
+        4,
+        0
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/Hand.ani",
+      "sha256": "1b82cd105c08cf9372f55f4f8bea03ed14e3abbeed21c8c8ef8a9ede44ad1d1e",
+      "hotspot": [
+        3,
+        0
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/Pin.ani",
+      "sha256": "b696812fcc5ab22eec47f0962e3a88cfd8c375adbb79666a32d3c84f7003cf60",
+      "hotspot": [
+        3,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/32/Person.ani",
+      "sha256": "fdfa868a4960f11f5e016986f0f90e511a9bb6b3a054084cafaae6d9bb92d3af",
+      "hotspot": [
+        4,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/Arrow.ani",
+      "sha256": "fc0c39e0cd22e1aea52d28c6de7b754e739a083c45cad0837d7ad67d71a788a5",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/Help.ani",
+      "sha256": "380f4d836110dbfcf96fd5e2cdf64320885bc06f0ac5d2e0083b5efd3d86db10",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/AppStarting.ani",
+      "sha256": "95b4687ce2cb69155fe5e5572cc0519c53df8c99e3630742925e40e99e6ced94",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/Wait.ani",
+      "sha256": "7eb61edb977f8d647aac576ab8e9bae937bf8d72fcf5a973137f0c3ec18e22b4",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/Crosshair.ani",
+      "sha256": "c9553b50316cbd94e0767fafd3257bc278b3247db53e688fb18822fe734acba6",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/IBeam.ani",
+      "sha256": "736a7d240a46535efab62257b739c5c23828ed1f8dfab4e591b870d15dcf8846",
+      "hotspot": [
+        3,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/NWPen.ani",
+      "sha256": "65a91e8a6a415ce6d38b4d0dbc02dcaf8d1d1181e08620a7e91c8e3fe8357d5d",
+      "hotspot": [
+        1,
+        12
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/No.ani",
+      "sha256": "662f171270f37e476a759ba27452f7bfd92fe51dd9f4820295d2eedcf5356513",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/SizeNS.ani",
+      "sha256": "d0b1e8e5fb2739e4dc0d8dd2e7b5ed003fc6f72eb0f4cf83a5c6ed4bf2b89925",
+      "hotspot": [
+        3,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/SizeWE.ani",
+      "sha256": "94efb2ba8cecdf50006b42ebedfcade6f3292be0cf9176d5da67fdaa27499413",
+      "hotspot": [
+        6,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/SizeNWSE.ani",
+      "sha256": "18ccadb5f6fdcf538719b2fcc895f8429d7750027d300c08c0a0f1b7057ee5b2",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/SizeNESW.ani",
+      "sha256": "84a41eb50f6244ee6a79a3c0a259999fbbbad7d5f254aa2d74ad07df803d3238",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/SizeAll.ani",
+      "sha256": "2d072bfd1397f0a1915339ae90f0a9b2ae93d5166b7853a9e8a0d6d43212d508",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/UpArrow.ani",
+      "sha256": "bec1e9580081defcc5058361b0f1730eb9d9fe36acf64f23b50c68b69bc4d34f",
+      "hotspot": [
+        5,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/Hand.ani",
+      "sha256": "bf1b0757b2af38697a86d0f9ce67ad6c108729ea29fc2e227cf6ebea690d4f64",
+      "hotspot": [
+        4,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/Pin.ani",
+      "sha256": "f6d6ffcf27987af4555a8a22aa83c96e510d5f4734d5b64eeb5a8d8634d1d754",
+      "hotspot": [
+        5,
+        12
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/48/Person.ani",
+      "sha256": "27cf7021b5186a1febf637cf0a53c112981cef05f6fb97db91e81ffaa907ad98",
+      "hotspot": [
+        6,
+        3
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/Arrow.ani",
+      "sha256": "c424cd2d519123f7acbee9612665d152ad7517cd7a0a6510f03648f7bac44138",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/Help.ani",
+      "sha256": "feb45159d42caf9e1ec12fb259bfe89c6d6e87ceb00391c708e3eb4c91480db0",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/AppStarting.ani",
+      "sha256": "46825400f6e2b2a8d9b88722685347e5ed8a9c2f3b575870dca8567fad0a4d2e",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/Wait.ani",
+      "sha256": "43a1ce8327e899a569555735b77e43f2048f928a69306b8ec98ff2cd857590bd",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/Crosshair.ani",
+      "sha256": "a340cd4ac6b4f4a6ec5a0094a91dacdb0b139c3dc52bf11db8dbfb9ea302014d",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/IBeam.ani",
+      "sha256": "88f9f203c9d2c75786ff7d69ddb1ae8686f0b9f9bdb637eff76e301c56d247b2",
+      "hotspot": [
+        4,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/NWPen.ani",
+      "sha256": "4efacd89e3e0a90dcbbaa8c87c9f106eeb47ad1605c5f23ecdc198dc19cda6a4",
+      "hotspot": [
+        1,
+        16
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/No.ani",
+      "sha256": "7cddac1b37f33c04b8ace208354b9b57092726d2ca1b95b0f358e294819e2baa",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/SizeNS.ani",
+      "sha256": "eab82642fa92caca2cfb8004e6747a9f70ca655c28c24aeead6f01714aa2b49d",
+      "hotspot": [
+        3,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/SizeWE.ani",
+      "sha256": "0a2543101bdc3760f78e9df414f143dddec1118cb6187e98493249015dd2f858",
+      "hotspot": [
+        8,
+        3
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/SizeNWSE.ani",
+      "sha256": "f3ff17d04de29467976d195a646caa18a06d2b8fb73e00815f29260089bd2c75",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/SizeNESW.ani",
+      "sha256": "1bffea4ebbfcd69ccb9a690bd5cfc30b4f4b5ca67531a11c19b3653076eda72d",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/SizeAll.ani",
+      "sha256": "9f14f0323d80e3aeb775065d8f347b1e91a4a5c157afe360b022bc75a89af129",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/UpArrow.ani",
+      "sha256": "80970d3435abe206c5648c8309f1933627cdbcb849044ae424caf8d8290cdb0e",
+      "hotspot": [
+        7,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/Hand.ani",
+      "sha256": "6a9457406046d7cb3c3f4ecd46cf43b15b8763339fa66fb246faab6e892a14d1",
+      "hotspot": [
+        5,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/Pin.ani",
+      "sha256": "db5892339a7dd421628dec4f10ce1ec1d3181dbdf5f44104c4f890a93feb26ee",
+      "hotspot": [
+        7,
+        16
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/64/Person.ani",
+      "sha256": "14505991a4938fac6ea118b6add445679f588fdae6a76f9cc39f7458e0b9beb4",
+      "hotspot": [
+        8,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/Arrow.ani",
+      "sha256": "ff8bc39eba39d8d35c2c058b93d9181d6db77fd2e13f5653fdc38c4e6fb93fdd",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/Help.ani",
+      "sha256": "5100b8f9efd917edea8e35bd8fc43c94939c1b0f5cb020ae001dcddf5d4644f5",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/AppStarting.ani",
+      "sha256": "74900a1154174b6c8cc64cc3b633192be2a43521265c6a82d32836ce6122aded",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/Wait.ani",
+      "sha256": "053bb0298143f4359cfa877459ac361b045e5762031cc3a664187b1c97001931",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/Crosshair.ani",
+      "sha256": "7a1485c2cd0a4416f16f7b03e8a85749855b3156c38558bc5c231ebbc177131c",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/IBeam.ani",
+      "sha256": "fa604c71b7e90618e2006af58fd53b8801c1b1f8605dfcf66ad5d6ed958a4bf4",
+      "hotspot": [
+        8,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/NWPen.ani",
+      "sha256": "5b01df16bb3f79c806422d0ebec507a9892054f97f96fc86590a98703110d224",
+      "hotspot": [
+        2,
+        32
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/No.ani",
+      "sha256": "4f37de0c5719741a3a7271738ac7768453e1c940a1f2294439e11a58087f077c",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/SizeNS.ani",
+      "sha256": "f1cc307b511bcd29f5cd17c09cf3fabaf58c75144c287276182b3768d1526763",
+      "hotspot": [
+        7,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/SizeWE.ani",
+      "sha256": "8814c3e56f28c6cdc7c64df381486a4226db8b7f08bfa7d6ba2d114f597f3ab8",
+      "hotspot": [
+        17,
+        7
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/SizeNWSE.ani",
+      "sha256": "38e7a3b42264b9b326f6fbbff30d0958c3c775807da1ce2c8e1c5491f5db596e",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/SizeNESW.ani",
+      "sha256": "b14a2fa2a82fffda29ab43f1017672a16e6e8240f30bc45df2ece829a85d928d",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/SizeAll.ani",
+      "sha256": "c2c9af6e7749564132a45a40a7914a3a8be75f71afa5dfb4771b44505cc4bc03",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/UpArrow.ani",
+      "sha256": "ddb10bf03ed4657ebaf013734a1741bec75625f1366ea79e194f5bae3d36ee8f",
+      "hotspot": [
+        14,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/Hand.ani",
+      "sha256": "940707f9cf2b8b0c468477d5e8225efbbbf79e1265b8cff347369ef01eb614d8",
+      "hotspot": [
+        10,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/Pin.ani",
+      "sha256": "885f7d63279abac2752e3b9bed115a2dfff984b2feb7633af3e3de36aa79a891",
+      "hotspot": [
+        13,
+        32
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/128/Person.ani",
+      "sha256": "b58b9ce5be2ab0e5109361b0178a75731791c3ae405a149d973616089f1b6fa0",
+      "hotspot": [
+        15,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/Arrow.ani",
+      "sha256": "9b138169a4fa6d6d5631a218be761e432403322c0939018d4652950e617988f8",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/Help.ani",
+      "sha256": "20513ac9c0550feb4307afa9d2d57456b82f7eeb96c89031c4d56f6406c13d25",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/AppStarting.ani",
+      "sha256": "7c313f7cc55f9b12dee90b0ab11eee4cba468609d9c774dc9d94b5e5f1d86758",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/Wait.ani",
+      "sha256": "7be181417d73cc180674a92502143e3b19586452d4646fae1b7fcbd841428904",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/Crosshair.ani",
+      "sha256": "ad9df807048505d2241684d47c5dbd2a529651e16b2ec261f6a5d972bff97bb0",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/IBeam.ani",
+      "sha256": "099947c88a85c2436a4cbbc789f38473b2ee3170e85d113c45d46a153b97159b",
+      "hotspot": [
+        17,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/NWPen.ani",
+      "sha256": "4f763aa04ece3e96225b24a6d7b2b07c22d177256836705697b8057cde84b569",
+      "hotspot": [
+        4,
+        63
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/No.ani",
+      "sha256": "4f4244fd25b56b7a9768fc54e684fcdd7344674e9edcbd1c620060acd8d54844",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/SizeNS.ani",
+      "sha256": "a13aa263638a6d58ee2342fef3210ffe7f214afded177ab9cfe48f5f9cdf5217",
+      "hotspot": [
+        13,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/SizeWE.ani",
+      "sha256": "007ad3e9cf42a4b2965c5cf083c5503486dbb5cfd454f7178bdd36ab122a39ae",
+      "hotspot": [
+        34,
+        13
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/SizeNWSE.ani",
+      "sha256": "31879c017080c485f044a797f934f94e30fc63607cee0ad7404c12d855981a09",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/SizeNESW.ani",
+      "sha256": "27f4dc8c900bb1c7a2a35ea4f58caed1bc5955ed78aed1be1f8d521763e84142",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/SizeAll.ani",
+      "sha256": "7cfa5541c93b2e62df6438412bc26cf71c3132553ece635ee1bd3fab1e417fdd",
+      "hotspot": [
+        34,
+        33
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/UpArrow.ani",
+      "sha256": "353a1634f18cb7c90a29c9f249fda2541dda2b061ec5c988b5b5c6e2d9dd34d4",
+      "hotspot": [
+        29,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/Hand.ani",
+      "sha256": "995d42240d35d28055038b2ac2872bcf5aa1d7d5c57511ae5291eaf6c8db5a26",
+      "hotspot": [
+        21,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/Pin.ani",
+      "sha256": "3acecd3b5240a48e07e60dac040e2c11e6772092ed85edb6992fb257e20732c9",
+      "hotspot": [
+        26,
+        64
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/sonnet/256/Person.ani",
+      "sha256": "53f58ff895ca22856651036059d5322714c767aed34482ec00155fbae2394bc9",
+      "hotspot": [
+        31,
+        15
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/Arrow.ani",
+      "sha256": "c61126880dbaf3716d984ddd76cacd8fae48d330cd2540d4f03c4b0e8c98c8a8",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/Help.ani",
+      "sha256": "be705f866ac048731e37ad0a639c2d70e787bce03443ca600802a05fa30421ee",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/AppStarting.ani",
+      "sha256": "f5dde1fa754c231958d97c5da4442769f4bc9e96ff4e0cf760d670d161719f00",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/Wait.ani",
+      "sha256": "85ab7b31ce3392ec2c857912793d9e8f7695280353d644d32abc5a89642b13b8",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/Crosshair.ani",
+      "sha256": "0455b0f2487f547be191d428b6fc2e4dd46d02810146b55bdf5871f9f7a82524",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/IBeam.ani",
+      "sha256": "8915a5240ec5559be8e447cb70c1d536c73646c0f6467a4a9ee36d503c902cbb",
+      "hotspot": [
+        2,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/NWPen.ani",
+      "sha256": "0b5f9f2945d129dee21e264f51c4d0117996c88e66b17c671997767dc55a4d66",
+      "hotspot": [
+        1,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/No.ani",
+      "sha256": "53089fb8890aa0c6739eb7d87c0b6de40e7d9c60fe13ca1145ce09fc5d0e0156",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/SizeNS.ani",
+      "sha256": "ed3047fb6590e6042b44731d530581a316ac2c0c4982edbfe9f4c783e4b16d4f",
+      "hotspot": [
+        2,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/SizeWE.ani",
+      "sha256": "f7d1474320d2fcc07e00a693e751a81f3cac2ce1e98803af6a8428a682121bb4",
+      "hotspot": [
+        4,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/SizeNWSE.ani",
+      "sha256": "23a99f6c46ebbd0c6df8275ebec7bf774af6dad36b9625cba0b3a1704bb0e5ae",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/SizeNESW.ani",
+      "sha256": "3e5bd690a377c118a0340586dcaabeb9c10e8708682d1366e6ab2648a56149d6",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/SizeAll.ani",
+      "sha256": "3bcc7874423fdb9fc1f7ee2a14969622fb76eec01a224c9d80e827249b437545",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/UpArrow.ani",
+      "sha256": "fb0e93cd53c4e69866daa03b326f659cc6a31c09998dc0280540b797969a7a14",
+      "hotspot": [
+        4,
+        0
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/Hand.ani",
+      "sha256": "44e81e17ac1dbd110ae48e7d23e3b54d0864e218203debf9ef217edc6a1463f4",
+      "hotspot": [
+        3,
+        0
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/Pin.ani",
+      "sha256": "9625d5ff9364eee83c057f1dcc64a1c9be4ed32c771f7137455407a888ea1064",
+      "hotspot": [
+        3,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/32/Person.ani",
+      "sha256": "4890ad5ce5de5bdf473244c4056593a7c74832be25307387c2a25c7be0fd9c17",
+      "hotspot": [
+        4,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/Arrow.ani",
+      "sha256": "b1e7d0ca2162acf7afe7cfc08e6e913ac35cf008353f08fb943cbf9d2f125fe8",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/Help.ani",
+      "sha256": "22859119bc005ab3451a05b836d7931ff9c9a4fed2929e2abfd3a94849d1ceff",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/AppStarting.ani",
+      "sha256": "9177554520565ba58a5afbe6b4a97b5b9265c07ebf117c21d3ae2f1c53357ad5",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/Wait.ani",
+      "sha256": "f77c324f67e3875ddf01c3c6ebc81b671f8723c49c2b66d7690ed2f461b0dce2",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/Crosshair.ani",
+      "sha256": "d7c05b7bbc9a1f3205ab3ac541c4be3b6db8ce53b8f6dd0a65a48197919df3f2",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/IBeam.ani",
+      "sha256": "dde5aaadd144d8e7dc6f6e7f6548f9cf8cba1cc9496d804445bc6d8ff7d42158",
+      "hotspot": [
+        3,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/NWPen.ani",
+      "sha256": "aa2cbf494a6272df7279172aaf82ae6dfe6bc4a84b0832984bbad101cf63e66a",
+      "hotspot": [
+        1,
+        12
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/No.ani",
+      "sha256": "becfbbf64bc9f7d0c4494a4a513934a4a63885fc437aa5b704db7905b5a12a1c",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/SizeNS.ani",
+      "sha256": "66fb915d607c995b819097ab164d259e8e3d7fb9a9e47c60bfe756284c9f392b",
+      "hotspot": [
+        3,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/SizeWE.ani",
+      "sha256": "1d0ebe8e580da5f623613a79f654c2a2e27bbfb00db02752a13290c43620e12d",
+      "hotspot": [
+        6,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/SizeNWSE.ani",
+      "sha256": "0d5f79a52a07c6bc7999bfdc00425c24010393bfbbcd541d4e1e7ddb0dfeb7e6",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/SizeNESW.ani",
+      "sha256": "93ece76bbc6eebeb5e9aaaf5b117b4738e0b0cbc9097f258d0d72acffd80ab3d",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/SizeAll.ani",
+      "sha256": "4c09881f13a82e1f7185d76c45b5eebf9e22bdbe4e4d8f4c937d27c6a592f0d1",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/UpArrow.ani",
+      "sha256": "d7e5e84527fcd5991e2282f7f578a13a5413b57f232c2aec69e833d9fa6a5bbd",
+      "hotspot": [
+        5,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/Hand.ani",
+      "sha256": "a455c1775becdfa8bb35ddf3b0f15131e9e7f52fbc0c0af6a791406dfad599d6",
+      "hotspot": [
+        4,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/Pin.ani",
+      "sha256": "bac8639707a377662c938cef9e32e8cf6292471ef6f8b2d80c1fd6b0721168e3",
+      "hotspot": [
+        5,
+        12
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/48/Person.ani",
+      "sha256": "42b73e48fdf73d879a6f2a1be963378d30975a892d45777a5b716da5add6d989",
+      "hotspot": [
+        6,
+        3
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/Arrow.ani",
+      "sha256": "6435168975c4ea7e02792e03a0629448565e64a4ab354b471c82a54074f8879b",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/Help.ani",
+      "sha256": "9d0367ee2d06aba991cea4edbcc10c786da9060844c3c0487d393aac1b6b4c8e",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/AppStarting.ani",
+      "sha256": "7e3fc32134ef90f868c15ea2a84bf12833141940f958d94899c1d0a4a56cd63b",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/Wait.ani",
+      "sha256": "54a51add6411ecc9a3bf4c89f3aad31875461eb81c439aca6433236fcd2fc20d",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/Crosshair.ani",
+      "sha256": "cd7f7caa28cf399d51439c2bb97936b848ad30c95297b376fb267e096fb41fa4",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/IBeam.ani",
+      "sha256": "fc535469f5882db62950ffab3dc6a99f282460f26415b7f05454170313b6603b",
+      "hotspot": [
+        4,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/NWPen.ani",
+      "sha256": "bc5d0c4a30e0fb4cd2cff0c9fa09a4fab4728bb4f73a8b5d19ab09c140ca289d",
+      "hotspot": [
+        1,
+        16
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/No.ani",
+      "sha256": "ba00380dbf14e4131c7fdd42ccfd30ba792e38514a73cbd9bad753dfeee52954",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/SizeNS.ani",
+      "sha256": "dfd2b777ce293fef1c92baa3e160fc1d14fa5765c376ac0f45622a4540244db7",
+      "hotspot": [
+        3,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/SizeWE.ani",
+      "sha256": "4a76557328099356d331a3270eeb7c026210941777b754e09e912567f90d3b1d",
+      "hotspot": [
+        8,
+        3
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/SizeNWSE.ani",
+      "sha256": "36021287464ab77193f478aa7a01fdaf27510df48979d08cc6132e5732d7b65c",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/SizeNESW.ani",
+      "sha256": "5a6c8b66dfcd6b51b399e4eef04923ac8e69c6a2e7b312304df17d975842581b",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/SizeAll.ani",
+      "sha256": "adb62e61f15c8fab728e943fc54e54b4dd6999cb75420c7c1409c0f1c7833adf",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/UpArrow.ani",
+      "sha256": "b9f360ac86707b321ad30374a0d1e019bbcffc6561ec9b43b79f5c48b4961bfb",
+      "hotspot": [
+        7,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/Hand.ani",
+      "sha256": "eb3a24df2171b06280c2380aa474399edfb4ec9c2600028f52a58c898bdd68f0",
+      "hotspot": [
+        5,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/Pin.ani",
+      "sha256": "6d97b595aeefce152a0b93708750558fcd030a709b5165425c5918d3f94426fc",
+      "hotspot": [
+        7,
+        16
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/64/Person.ani",
+      "sha256": "9518def7283243fcc7be2d7b835dccddba199668c0e4f7b708e87647e300d257",
+      "hotspot": [
+        8,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/Arrow.ani",
+      "sha256": "c553911ad1aa625ccc0b711d4550179b80351389746f890e6a09618c326b1a80",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/Help.ani",
+      "sha256": "91b4479ab4b0d62faeb62defd32b2046697961755a7032dfb113e15c3a85aab5",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/AppStarting.ani",
+      "sha256": "e445d6ee5ab7dacf0243bc040080476d0c848ba029044e1011936c71c1eda57d",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/Wait.ani",
+      "sha256": "ff8b682ce8ebef56974a3d55fe8c633bbe53d1795870227d64a917c7314ae8cb",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/Crosshair.ani",
+      "sha256": "08f438f6ea76cbe2533ac8ab6f22d53b5003a9f4ea9236336447a141f0b54571",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/IBeam.ani",
+      "sha256": "6dd2ceddfe4bd7c62579bba5fe3f5cbe8512e33d76088f9b333200d782ef1381",
+      "hotspot": [
+        8,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/NWPen.ani",
+      "sha256": "65acc9491143f695261977403e3e1c46e401f32ec9a957c4c39b47da8f81460b",
+      "hotspot": [
+        2,
+        32
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/No.ani",
+      "sha256": "e6c2e5fce6e6aa2dc59b558a9d8fdfd76ff16724841b4c3b3dc409267e7f89f4",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/SizeNS.ani",
+      "sha256": "749218cb7c3b12baf7e5e43444337997395f7b0e5566b9a5ed36afc89f1389c7",
+      "hotspot": [
+        7,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/SizeWE.ani",
+      "sha256": "c81ebd6628f88ae15cf3381e1e8cbe3c38c5ed7a7f6435846a1bc050f4a9ce8a",
+      "hotspot": [
+        17,
+        7
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/SizeNWSE.ani",
+      "sha256": "7817ac7dd69836b3992a92191a5a232335cdaebd8ffb270e35d02fae05e54a06",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/SizeNESW.ani",
+      "sha256": "da52a6f14aa60065d630b484d7d4729036c95caaa3104a51a7fc11c109c9c784",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/SizeAll.ani",
+      "sha256": "e95316e54112f35bfa447500ae6c8ef807ab5fb3716db8e61c1790019b08b1b6",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/UpArrow.ani",
+      "sha256": "98820235151b21383d7a112ebfe21abf7637dfcdf725c39387f6df63aff720fc",
+      "hotspot": [
+        14,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/Hand.ani",
+      "sha256": "b0815246780c705c9cc14cbee2745592bb6bfcb21ced6527d01027ad4acfa6aa",
+      "hotspot": [
+        10,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/Pin.ani",
+      "sha256": "2fadc0cb9e28f86585786731620a94fc49043753dd7a70dd6763f4fffdad4755",
+      "hotspot": [
+        13,
+        32
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/128/Person.ani",
+      "sha256": "76c9ea14b078a4e4287ab2d62b1c2133e0c07a9b76919f46c46290c7ec85255f",
+      "hotspot": [
+        15,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/Arrow.ani",
+      "sha256": "e973a47954b2f27017fb0457e976d5cd7f06e5822420e4fc62d3f229ce596ed3",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/Help.ani",
+      "sha256": "f489360ab9af72d231289712ebd0b02b0189685f5667f729c028b9d29c7b2f83",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/AppStarting.ani",
+      "sha256": "6d8f41edbecfbec1770cdd38f08ce6a08fafa885f94d4b3bacb9c71c5c88a038",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/Wait.ani",
+      "sha256": "9df6fb666f65f9ba6cb520a262ca69e5cf5e0d003bb05bc717bd94975e240b9a",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/Crosshair.ani",
+      "sha256": "168f4ff60f54bc28b6d7e3a90746f2bfee05220ef3fc9977875fa8df7d48508b",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/IBeam.ani",
+      "sha256": "f7eaab6ef6498c7c415edd28a0b69b682a35be787defabdb963ffd76e5144f0a",
+      "hotspot": [
+        17,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/NWPen.ani",
+      "sha256": "9b513efbab898a5c9479c8cca005e38b57a821fbb9a6ae78b27fca9abc7b7ca3",
+      "hotspot": [
+        4,
+        63
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/No.ani",
+      "sha256": "9a24960616481bd1cf242dc6f873815a7fb8e74cd140df0b53ff9c8a9c757f2c",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/SizeNS.ani",
+      "sha256": "0ebca3d40b6704c20e1afdf8de491dedede52f57d624ba22513d0e0cb8a5fddd",
+      "hotspot": [
+        13,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/SizeWE.ani",
+      "sha256": "7dc7297a39369f6df77e75c8ceef1a4cac71609b90460e9fa26fd1bc015423c3",
+      "hotspot": [
+        34,
+        13
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/SizeNWSE.ani",
+      "sha256": "5584e837d643768bdc3c4f6b5cd3cc892e44a548991d987eb448a2dab72af0cc",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/SizeNESW.ani",
+      "sha256": "568b492cb5d61244d3fc4cf71bb6c97473df9fdb60a7f08459fad3f5ecc48cc4",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/SizeAll.ani",
+      "sha256": "c3a25b0b05d80fd54e7b766efdbda76a15322ebb57b2d2dca740c2de90891d88",
+      "hotspot": [
+        34,
+        33
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/UpArrow.ani",
+      "sha256": "11a2a1b273b1ddaa67a5d2428a71cf33401bacc07fcacead9f504e9a828096f8",
+      "hotspot": [
+        29,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/Hand.ani",
+      "sha256": "26b7ab5b519ebf949d5c87001a821c640f9eb56d8c15ca8617ab3bd91f6e7a3a",
+      "hotspot": [
+        21,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/Pin.ani",
+      "sha256": "829018e15297c7df504249abe3ac195d010ecfed2b3ea27c8656879254ee796a",
+      "hotspot": [
+        26,
+        64
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/fable/256/Person.ani",
+      "sha256": "c34afbd95ee72c43a99eeba478ee409842d60cc18cfa1cbdbcc25eb3fc5f5f77",
+      "hotspot": [
+        31,
+        15
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    }
+  ]
+}
