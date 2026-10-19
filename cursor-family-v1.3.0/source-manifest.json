@@ -1,0 +1,30 @@
+{
+  "version": "v1.3.0",
+  "packages": [
+    {
+      "kind": "non-avoidance",
+      "name": "claude-sisters-cursors-non-avoidance-v1.3.0.zip",
+      "sha256": "06bf167093df4ffa87861ea20bc434120ab647fbeae78d864279b8c8f9de2c1a",
+      "coreSha256": "439155a4cd911b60b6d67880a386a105ee86687419cb2531346d20abbce4349b",
+      "profiles": 39,
+      "characters": [
+        "opus",
+        "sonnet",
+        "fable"
+      ]
+    },
+    {
+      "kind": "avoidance",
+      "name": "claude-sisters-cursors-avoidance-v1.3.0.zip",
+      "sha256": "1cf94725c89bdc824e59d0e6fc54724a5b17398083debd69ae8e118912020f9b",
+      "coreSha256": "95a24bd9db6be92a126df4babc201e73aba80808a5d0504d644ab95b119fff74",
+      "profiles": 39,
+      "characters": [
+        "opus",
+        "sonnet",
+        "fable"
+      ]
+    }
+  ],
+  "resources": "Complete editable PNG/ANI assets are included in the corresponding installation ZIP."
+}
