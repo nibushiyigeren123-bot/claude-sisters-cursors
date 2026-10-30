@@ -1,0 +1,18 @@
+{
+  "version": "v1.3.1",
+  "packages": [
+    {
+      "kind": "non-avoidance",
+      "sha256": "64599e3948a1bf6589a9cd7a63719697be248789e386d72df4efbdfe32ed8ba4",
+      "coreSha256": "da0f6f24410b05003d9b7c6ca52775504a04f6f5a8e03baff54d13a35e9eecb3",
+      "profiles": 39
+    },
+    {
+      "kind": "avoidance",
+      "sha256": "1d21b40960cfa520dee3b65ee984e3bfce88c95b5d56829b98fd4c917f734168",
+      "coreSha256": "6eecbbe258f7ed49f2665515470e951175b1f041ae2731c12f5d159c39b17ecd",
+      "profiles": 39
+    }
+  ],
+  "editableAssets": "Full PNG/ANI assets are in each corresponding release ZIP."
+}
