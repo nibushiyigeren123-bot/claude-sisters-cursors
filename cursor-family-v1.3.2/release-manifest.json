@@ -1,0 +1,54 @@
+{
+  "version": "v1.3.2",
+  "kind": "non-avoidance",
+  "installation": {
+    "name": "claude-sisters-cursors-non-avoidance-v1.3.2.zip",
+    "bytes": 119839647,
+    "sha256": "c1e59aeb901cc5eee211c2ff0280b03c00c718778e3499b341fb35942a8b4724",
+    "members": 6069
+  },
+  "editable_source": {
+    "name": "claude-sisters-cursors-non-avoidance-source-v1.3.2.zip",
+    "bytes": 726029,
+    "sha256": "93171df77851e55529c284ead69055bd49ce26ee66f26019e02b480162092174",
+    "members": 60,
+    "copied_source_members": 57
+  },
+  "runtime_identity": {
+    "runtime/AICursorFamilyOriginalR1.exe": "48ec1b43be830981062eccf2fecbd25b8ee167b6e797906b8958030bafdf26be",
+    "control.ps1": "ec8dd65c9f3b6ca76d281365a1f1ef3b4f86ba731f30c6f389e5fd3cbc8eeb89",
+    "ControlNative.cs": "462a58b46ca185a2681786f9724f575ce31c4cf187d11b4cffce8dfcab012b36"
+  },
+  "rc1_equivalence": {
+    "version": "v1.3.2",
+    "tested_rc1_zip_name": "claude-sisters-cursors-non-avoidance-v1.3.2-rc1.zip",
+    "tested_rc1_sha256": "d825b140a2872b30c07e42ac37e9c03279ac8004e59773ce823eab158f582283",
+    "runtime_identity": {
+      "runtime/AICursorFamilyOriginalR1.exe": "48ec1b43be830981062eccf2fecbd25b8ee167b6e797906b8958030bafdf26be",
+      "control.ps1": "ec8dd65c9f3b6ca76d281365a1f1ef3b4f86ba731f30c6f389e5fd3cbc8eeb89",
+      "ControlNative.cs": "462a58b46ca185a2681786f9724f575ce31c4cf187d11b4cffce8dfcab012b36"
+    },
+    "unchanged_existing_members": 6063,
+    "unchanged_media_members": 5967,
+    "unchanged_profile_manifests": 39,
+    "unchanged_cmd_members": 41,
+    "modified_existing_members": [
+      "README.md",
+      "技术说明.md",
+      "runtime/characters.json",
+      "payload-hashes.json"
+    ],
+    "added_members": [
+      "VALIDATION.md",
+      "release-equivalence.json"
+    ],
+    "deleted_members": [],
+    "configuration_only_difference": "characters.json scheme string replaces v1.3.2-rc1 with v1.3.2; all other fields and profile order unchanged",
+    "qa_basis": "Accepted local RC1 representative VM tests with documented Win11 bootStop boundary; not a new full runtime matrix."
+  },
+  "avoidance": {
+    "updated": false,
+    "version": "v1.3.1",
+    "download_url": "https://github.com/nibushiyigeren123-bot/claude-sisters-cursors/releases/download/v1.3.1/claude-sisters-cursors-avoidance-v1.3.1.zip"
+  }
+}

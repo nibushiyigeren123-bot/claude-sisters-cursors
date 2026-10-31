@@ -1,0 +1,509 @@
+[
+  {
+    "id": "opus-original-32",
+    "character": "opus",
+    "display": "Opus 普通 32档",
+    "scheme": "AI Family non-avoidance v1.3.2 - opus original 32",
+    "edition": "original",
+    "size": 32,
+    "bodyCanvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "opus-original-48",
+    "character": "opus",
+    "display": "Opus 普通 48档",
+    "scheme": "AI Family non-avoidance v1.3.2 - opus original 48",
+    "edition": "original",
+    "size": 48,
+    "bodyCanvas": [
+      48,
+      48
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "opus-original-64",
+    "character": "opus",
+    "display": "Opus 普通 64档",
+    "scheme": "AI Family non-avoidance v1.3.2 - opus original 64",
+    "edition": "original",
+    "size": 64,
+    "bodyCanvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "opus-original-96",
+    "character": "opus",
+    "display": "Opus 普通 96档",
+    "scheme": "AI Family non-avoidance v1.3.2 - opus original 96",
+    "edition": "original",
+    "size": 96,
+    "bodyCanvas": [
+      96,
+      96
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "opus-original-128",
+    "character": "opus",
+    "display": "Opus 普通 128档",
+    "scheme": "AI Family non-avoidance v1.3.2 - opus original 128",
+    "edition": "original",
+    "size": 128,
+    "bodyCanvas": [
+      128,
+      128
+    ],
+    "expectedNativeSize": 64
+  },
+  {
+    "id": "opus-original-256",
+    "character": "opus",
+    "display": "Opus 普通 256档",
+    "scheme": "AI Family non-avoidance v1.3.2 - opus original 256",
+    "edition": "original",
+    "size": 256,
+    "bodyCanvas": [
+      256,
+      256
+    ],
+    "expectedNativeSize": 64
+  },
+  {
+    "id": "opus-plus-32",
+    "character": "opus",
+    "display": "Opus Plus 32档",
+    "scheme": "AI Family non-avoidance v1.3.2 - opus plus 32",
+    "edition": "plus",
+    "size": 32,
+    "bodyCanvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "opus-plus-48",
+    "character": "opus",
+    "display": "Opus Plus 48档",
+    "scheme": "AI Family non-avoidance v1.3.2 - opus plus 48",
+    "edition": "plus",
+    "size": 48,
+    "bodyCanvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "opus-plus-64",
+    "character": "opus",
+    "display": "Opus Plus 64档",
+    "scheme": "AI Family non-avoidance v1.3.2 - opus plus 64",
+    "edition": "plus",
+    "size": 64,
+    "bodyCanvas": [
+      96,
+      96
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "opus-plus-72",
+    "character": "opus",
+    "display": "Opus Plus 72档",
+    "scheme": "AI Family non-avoidance v1.3.2 - opus plus 72",
+    "edition": "plus",
+    "size": 72,
+    "bodyCanvas": [
+      96,
+      96
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "opus-plus-96",
+    "character": "opus",
+    "display": "Opus Plus 96档",
+    "scheme": "AI Family non-avoidance v1.3.2 - opus plus 96",
+    "edition": "plus",
+    "size": 96,
+    "bodyCanvas": [
+      128,
+      128
+    ],
+    "expectedNativeSize": 64
+  },
+  {
+    "id": "opus-plus-128",
+    "character": "opus",
+    "display": "Opus Plus 128档",
+    "scheme": "AI Family non-avoidance v1.3.2 - opus plus 128",
+    "edition": "plus",
+    "size": 128,
+    "bodyCanvas": [
+      192,
+      192
+    ],
+    "expectedNativeSize": 64
+  },
+  {
+    "id": "opus-plus-256",
+    "character": "opus",
+    "display": "Opus Plus 256档",
+    "scheme": "AI Family non-avoidance v1.3.2 - opus plus 256",
+    "edition": "plus",
+    "size": 256,
+    "bodyCanvas": [
+      352,
+      352
+    ],
+    "expectedNativeSize": 96
+  },
+  {
+    "id": "sonnet-original-32",
+    "character": "sonnet",
+    "display": "Sonnet 普通 32档",
+    "scheme": "AI Family non-avoidance v1.3.2 - sonnet original 32",
+    "edition": "original",
+    "size": 32,
+    "bodyCanvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "sonnet-original-48",
+    "character": "sonnet",
+    "display": "Sonnet 普通 48档",
+    "scheme": "AI Family non-avoidance v1.3.2 - sonnet original 48",
+    "edition": "original",
+    "size": 48,
+    "bodyCanvas": [
+      48,
+      48
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "sonnet-original-64",
+    "character": "sonnet",
+    "display": "Sonnet 普通 64档",
+    "scheme": "AI Family non-avoidance v1.3.2 - sonnet original 64",
+    "edition": "original",
+    "size": 64,
+    "bodyCanvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "sonnet-original-96",
+    "character": "sonnet",
+    "display": "Sonnet 普通 96档",
+    "scheme": "AI Family non-avoidance v1.3.2 - sonnet original 96",
+    "edition": "original",
+    "size": 96,
+    "bodyCanvas": [
+      96,
+      96
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "sonnet-original-128",
+    "character": "sonnet",
+    "display": "Sonnet 普通 128档",
+    "scheme": "AI Family non-avoidance v1.3.2 - sonnet original 128",
+    "edition": "original",
+    "size": 128,
+    "bodyCanvas": [
+      128,
+      128
+    ],
+    "expectedNativeSize": 64
+  },
+  {
+    "id": "sonnet-original-256",
+    "character": "sonnet",
+    "display": "Sonnet 普通 256档",
+    "scheme": "AI Family non-avoidance v1.3.2 - sonnet original 256",
+    "edition": "original",
+    "size": 256,
+    "bodyCanvas": [
+      256,
+      256
+    ],
+    "expectedNativeSize": 64
+  },
+  {
+    "id": "sonnet-plus-32",
+    "character": "sonnet",
+    "display": "Sonnet Plus 32档",
+    "scheme": "AI Family non-avoidance v1.3.2 - sonnet plus 32",
+    "edition": "plus",
+    "size": 32,
+    "bodyCanvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "sonnet-plus-48",
+    "character": "sonnet",
+    "display": "Sonnet Plus 48档",
+    "scheme": "AI Family non-avoidance v1.3.2 - sonnet plus 48",
+    "edition": "plus",
+    "size": 48,
+    "bodyCanvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "sonnet-plus-64",
+    "character": "sonnet",
+    "display": "Sonnet Plus 64档",
+    "scheme": "AI Family non-avoidance v1.3.2 - sonnet plus 64",
+    "edition": "plus",
+    "size": 64,
+    "bodyCanvas": [
+      96,
+      96
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "sonnet-plus-72",
+    "character": "sonnet",
+    "display": "Sonnet Plus 72档",
+    "scheme": "AI Family non-avoidance v1.3.2 - sonnet plus 72",
+    "edition": "plus",
+    "size": 72,
+    "bodyCanvas": [
+      96,
+      96
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "sonnet-plus-96",
+    "character": "sonnet",
+    "display": "Sonnet Plus 96档",
+    "scheme": "AI Family non-avoidance v1.3.2 - sonnet plus 96",
+    "edition": "plus",
+    "size": 96,
+    "bodyCanvas": [
+      128,
+      128
+    ],
+    "expectedNativeSize": 64
+  },
+  {
+    "id": "sonnet-plus-128",
+    "character": "sonnet",
+    "display": "Sonnet Plus 128档",
+    "scheme": "AI Family non-avoidance v1.3.2 - sonnet plus 128",
+    "edition": "plus",
+    "size": 128,
+    "bodyCanvas": [
+      192,
+      192
+    ],
+    "expectedNativeSize": 64
+  },
+  {
+    "id": "sonnet-plus-256",
+    "character": "sonnet",
+    "display": "Sonnet Plus 256档",
+    "scheme": "AI Family non-avoidance v1.3.2 - sonnet plus 256",
+    "edition": "plus",
+    "size": 256,
+    "bodyCanvas": [
+      352,
+      352
+    ],
+    "expectedNativeSize": 96
+  },
+  {
+    "id": "fable-original-32",
+    "character": "fable",
+    "display": "Fable 普通 32档",
+    "scheme": "AI Family non-avoidance v1.3.2 - fable original 32",
+    "edition": "original",
+    "size": 32,
+    "bodyCanvas": [
+      32,
+      32
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "fable-original-48",
+    "character": "fable",
+    "display": "Fable 普通 48档",
+    "scheme": "AI Family non-avoidance v1.3.2 - fable original 48",
+    "edition": "original",
+    "size": 48,
+    "bodyCanvas": [
+      48,
+      48
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "fable-original-64",
+    "character": "fable",
+    "display": "Fable 普通 64档",
+    "scheme": "AI Family non-avoidance v1.3.2 - fable original 64",
+    "edition": "original",
+    "size": 64,
+    "bodyCanvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "fable-original-96",
+    "character": "fable",
+    "display": "Fable 普通 96档",
+    "scheme": "AI Family non-avoidance v1.3.2 - fable original 96",
+    "edition": "original",
+    "size": 96,
+    "bodyCanvas": [
+      96,
+      96
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "fable-original-128",
+    "character": "fable",
+    "display": "Fable 普通 128档",
+    "scheme": "AI Family non-avoidance v1.3.2 - fable original 128",
+    "edition": "original",
+    "size": 128,
+    "bodyCanvas": [
+      128,
+      128
+    ],
+    "expectedNativeSize": 64
+  },
+  {
+    "id": "fable-original-256",
+    "character": "fable",
+    "display": "Fable 普通 256档",
+    "scheme": "AI Family non-avoidance v1.3.2 - fable original 256",
+    "edition": "original",
+    "size": 256,
+    "bodyCanvas": [
+      256,
+      256
+    ],
+    "expectedNativeSize": 64
+  },
+  {
+    "id": "fable-plus-32",
+    "character": "fable",
+    "display": "Fable Plus 32档",
+    "scheme": "AI Family non-avoidance v1.3.2 - fable plus 32",
+    "edition": "plus",
+    "size": 32,
+    "bodyCanvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "fable-plus-48",
+    "character": "fable",
+    "display": "Fable Plus 48档",
+    "scheme": "AI Family non-avoidance v1.3.2 - fable plus 48",
+    "edition": "plus",
+    "size": 48,
+    "bodyCanvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "fable-plus-64",
+    "character": "fable",
+    "display": "Fable Plus 64档",
+    "scheme": "AI Family non-avoidance v1.3.2 - fable plus 64",
+    "edition": "plus",
+    "size": 64,
+    "bodyCanvas": [
+      96,
+      96
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "fable-plus-72",
+    "character": "fable",
+    "display": "Fable Plus 72档",
+    "scheme": "AI Family non-avoidance v1.3.2 - fable plus 72",
+    "edition": "plus",
+    "size": 72,
+    "bodyCanvas": [
+      96,
+      96
+    ],
+    "expectedNativeSize": 32
+  },
+  {
+    "id": "fable-plus-96",
+    "character": "fable",
+    "display": "Fable Plus 96档",
+    "scheme": "AI Family non-avoidance v1.3.2 - fable plus 96",
+    "edition": "plus",
+    "size": 96,
+    "bodyCanvas": [
+      128,
+      128
+    ],
+    "expectedNativeSize": 64
+  },
+  {
+    "id": "fable-plus-128",
+    "character": "fable",
+    "display": "Fable Plus 128档",
+    "scheme": "AI Family non-avoidance v1.3.2 - fable plus 128",
+    "edition": "plus",
+    "size": 128,
+    "bodyCanvas": [
+      192,
+      192
+    ],
+    "expectedNativeSize": 64
+  },
+  {
+    "id": "fable-plus-256",
+    "character": "fable",
+    "display": "Fable Plus 256档",
+    "scheme": "AI Family non-avoidance v1.3.2 - fable plus 256",
+    "edition": "plus",
+    "size": 256,
+    "bodyCanvas": [
+      352,
+      352
+    ],
+    "expectedNativeSize": 96
+  }
+]
