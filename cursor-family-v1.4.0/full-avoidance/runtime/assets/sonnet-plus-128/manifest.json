@@ -1,0 +1,3079 @@
+[
+  {
+    "role": "Arrow",
+    "frames": 8,
+    "frame_ms": 200.0,
+    "jiffies": 12,
+    "hotspot": [
+      7,
+      7
+    ],
+    "symbol_hotspot": [
+      5,
+      5
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/Arrow",
+    "body_hashes": [
+      "837d199377b3203ba2fc6748b5cb8af17c086ec6f8aa90864e27ef5339a30389",
+      "9420b0f9a2ad4180d5a19f6f40f2299fb1d2b34f294e95ce349135a41b022673",
+      "97b13d1e9725191e2bfc91198baf52ecf89b019ddff0094af0ebe264a5133cb5",
+      "9420b0f9a2ad4180d5a19f6f40f2299fb1d2b34f294e95ce349135a41b022673",
+      "c06a4f99bae785d2421258853c44d4a008c52844ef1208cc4c0c76d4bd30120c",
+      "05be87c82dd52aa1b55b87f957b3733ae52b48c2c2c67b5f4af767d3d719a042",
+      "fd0901b6b889d7c8bde85c1f1e64d52b935fe614f356529e8623d49a0744a9a8",
+      "05be87c82dd52aa1b55b87f957b3733ae52b48c2c2c67b5f4af767d3d719a042"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "b9626ea504614cae55946f21ee2f51e2e1485ea30ab109261cf9feee4fb349d5",
+      "7642289b4d0b387da4bb9fbca1150fefbd112c9074c22f15d417b265c894cc0a",
+      "1745e63966e89c269289c41797e033285b7af84368449f433e3a7b806a5df26e",
+      "7642289b4d0b387da4bb9fbca1150fefbd112c9074c22f15d417b265c894cc0a",
+      "c37dc21866659b03aa36e2160224d357c45327d180fa201716ea45b86cf0d21e",
+      "508e76aed9b7593e108c208970a944212e59550eabac47ee0df6968ce60a6e44",
+      "0d6ac71f08ebebd9acd395bb538377e8b6de414bc1d28e6f27e2fc4d755a9160",
+      "508e76aed9b7593e108c208970a944212e59550eabac47ee0df6968ce60a6e44"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Arrow-00.png",
+        "frozen_sha256": "b9626ea504614cae55946f21ee2f51e2e1485ea30ab109261cf9feee4fb349d5",
+        "character_offset": [
+          8,
+          21
+        ],
+        "character_rgba_sha256": "837d199377b3203ba2fc6748b5cb8af17c086ec6f8aa90864e27ef5339a30389",
+        "symbol_rgba_sha256": "15ac713867af623e808083dcb284d365c9f89a6516c5131830c24fd706716c97",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Arrow-01.png",
+        "frozen_sha256": "7642289b4d0b387da4bb9fbca1150fefbd112c9074c22f15d417b265c894cc0a",
+        "character_offset": [
+          8,
+          21
+        ],
+        "character_rgba_sha256": "9420b0f9a2ad4180d5a19f6f40f2299fb1d2b34f294e95ce349135a41b022673",
+        "symbol_rgba_sha256": "15ac713867af623e808083dcb284d365c9f89a6516c5131830c24fd706716c97",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Arrow-02.png",
+        "frozen_sha256": "1745e63966e89c269289c41797e033285b7af84368449f433e3a7b806a5df26e",
+        "character_offset": [
+          8,
+          21
+        ],
+        "character_rgba_sha256": "97b13d1e9725191e2bfc91198baf52ecf89b019ddff0094af0ebe264a5133cb5",
+        "symbol_rgba_sha256": "15ac713867af623e808083dcb284d365c9f89a6516c5131830c24fd706716c97",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Arrow-03.png",
+        "frozen_sha256": "7642289b4d0b387da4bb9fbca1150fefbd112c9074c22f15d417b265c894cc0a",
+        "character_offset": [
+          8,
+          21
+        ],
+        "character_rgba_sha256": "9420b0f9a2ad4180d5a19f6f40f2299fb1d2b34f294e95ce349135a41b022673",
+        "symbol_rgba_sha256": "15ac713867af623e808083dcb284d365c9f89a6516c5131830c24fd706716c97",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Arrow-04.png",
+        "frozen_sha256": "c37dc21866659b03aa36e2160224d357c45327d180fa201716ea45b86cf0d21e",
+        "character_offset": [
+          8,
+          21
+        ],
+        "character_rgba_sha256": "c06a4f99bae785d2421258853c44d4a008c52844ef1208cc4c0c76d4bd30120c",
+        "symbol_rgba_sha256": "15ac713867af623e808083dcb284d365c9f89a6516c5131830c24fd706716c97",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Arrow-05.png",
+        "frozen_sha256": "508e76aed9b7593e108c208970a944212e59550eabac47ee0df6968ce60a6e44",
+        "character_offset": [
+          8,
+          21
+        ],
+        "character_rgba_sha256": "05be87c82dd52aa1b55b87f957b3733ae52b48c2c2c67b5f4af767d3d719a042",
+        "symbol_rgba_sha256": "15ac713867af623e808083dcb284d365c9f89a6516c5131830c24fd706716c97",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Arrow-06.png",
+        "frozen_sha256": "0d6ac71f08ebebd9acd395bb538377e8b6de414bc1d28e6f27e2fc4d755a9160",
+        "character_offset": [
+          8,
+          21
+        ],
+        "character_rgba_sha256": "fd0901b6b889d7c8bde85c1f1e64d52b935fe614f356529e8623d49a0744a9a8",
+        "symbol_rgba_sha256": "15ac713867af623e808083dcb284d365c9f89a6516c5131830c24fd706716c97",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Arrow-07.png",
+        "frozen_sha256": "508e76aed9b7593e108c208970a944212e59550eabac47ee0df6968ce60a6e44",
+        "character_offset": [
+          8,
+          21
+        ],
+        "character_rgba_sha256": "05be87c82dd52aa1b55b87f957b3733ae52b48c2c2c67b5f4af767d3d719a042",
+        "symbol_rgba_sha256": "15ac713867af623e808083dcb284d365c9f89a6516c5131830c24fd706716c97",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      37,
+      46
+    ]
+  },
+  {
+    "role": "Help",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      7,
+      7
+    ],
+    "symbol_hotspot": [
+      5,
+      5
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/Help",
+    "body_hashes": [
+      "8d9fe6e51e7c5518c598f3b6734a76d574966340e76cd68ec7a3cf9a80017ea1",
+      "eede9d9c81179e0c5fae3efd1a3b62f841c6c87c5bb750cff6e61fb077c8d29a",
+      "2a15945299757da41b9a9a78be176034d3415eb25d49f5542b57211bb061c5ae",
+      "eede9d9c81179e0c5fae3efd1a3b62f841c6c87c5bb750cff6e61fb077c8d29a",
+      "763b58fddae0f0843fc243bde4ef2ef705970a318dc730db7ea34c7e95384177",
+      "0ebf97ce17682c90af2aa6b75aa087b4c64d0fb8ed5479fd1208a91ad1c3c05c",
+      "00f43b1c1b19983eaff8c5d660c4f08a7ad418257f67c1c47cdd67b432ecc844",
+      "0ebf97ce17682c90af2aa6b75aa087b4c64d0fb8ed5479fd1208a91ad1c3c05c"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "4cd119d076c3f68a4da08c79463d2e8b912e28b4834695bb6e9e84eb8236a857",
+      "5d61aea893a34249f2704d966e73dd3019095fbd1490920a84268481d36234ea",
+      "af4ee6204d1b6706a9f11a8fce197fb6df7207533747860938cc260260705d87",
+      "5d61aea893a34249f2704d966e73dd3019095fbd1490920a84268481d36234ea",
+      "b2688df47ee79d87fc8bd2b7918cb24a1832c14fd03993676f75f69741b87009",
+      "7b09aee2c9cbe4defd6df0e94c3fbdc612516232f185692c8642fa27f2d0b505",
+      "efb1daf295f748e3bbd9ae27f36274a625bc75798f2ba082a43a7ed63c73ce0d",
+      "7b09aee2c9cbe4defd6df0e94c3fbdc612516232f185692c8642fa27f2d0b505"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Help-00.png",
+        "frozen_sha256": "4cd119d076c3f68a4da08c79463d2e8b912e28b4834695bb6e9e84eb8236a857",
+        "character_offset": [
+          11,
+          13
+        ],
+        "character_rgba_sha256": "8d9fe6e51e7c5518c598f3b6734a76d574966340e76cd68ec7a3cf9a80017ea1",
+        "symbol_rgba_sha256": "e6908dfc25d8f3a2fc33aefc209a7a2923afea2279c9765c03054b04fbc5ed36",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Help-01.png",
+        "frozen_sha256": "5d61aea893a34249f2704d966e73dd3019095fbd1490920a84268481d36234ea",
+        "character_offset": [
+          11,
+          13
+        ],
+        "character_rgba_sha256": "eede9d9c81179e0c5fae3efd1a3b62f841c6c87c5bb750cff6e61fb077c8d29a",
+        "symbol_rgba_sha256": "e6908dfc25d8f3a2fc33aefc209a7a2923afea2279c9765c03054b04fbc5ed36",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Help-02.png",
+        "frozen_sha256": "af4ee6204d1b6706a9f11a8fce197fb6df7207533747860938cc260260705d87",
+        "character_offset": [
+          11,
+          13
+        ],
+        "character_rgba_sha256": "2a15945299757da41b9a9a78be176034d3415eb25d49f5542b57211bb061c5ae",
+        "symbol_rgba_sha256": "e6908dfc25d8f3a2fc33aefc209a7a2923afea2279c9765c03054b04fbc5ed36",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Help-03.png",
+        "frozen_sha256": "5d61aea893a34249f2704d966e73dd3019095fbd1490920a84268481d36234ea",
+        "character_offset": [
+          11,
+          13
+        ],
+        "character_rgba_sha256": "eede9d9c81179e0c5fae3efd1a3b62f841c6c87c5bb750cff6e61fb077c8d29a",
+        "symbol_rgba_sha256": "e6908dfc25d8f3a2fc33aefc209a7a2923afea2279c9765c03054b04fbc5ed36",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Help-04.png",
+        "frozen_sha256": "b2688df47ee79d87fc8bd2b7918cb24a1832c14fd03993676f75f69741b87009",
+        "character_offset": [
+          11,
+          13
+        ],
+        "character_rgba_sha256": "763b58fddae0f0843fc243bde4ef2ef705970a318dc730db7ea34c7e95384177",
+        "symbol_rgba_sha256": "e6908dfc25d8f3a2fc33aefc209a7a2923afea2279c9765c03054b04fbc5ed36",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Help-05.png",
+        "frozen_sha256": "7b09aee2c9cbe4defd6df0e94c3fbdc612516232f185692c8642fa27f2d0b505",
+        "character_offset": [
+          11,
+          13
+        ],
+        "character_rgba_sha256": "0ebf97ce17682c90af2aa6b75aa087b4c64d0fb8ed5479fd1208a91ad1c3c05c",
+        "symbol_rgba_sha256": "e6908dfc25d8f3a2fc33aefc209a7a2923afea2279c9765c03054b04fbc5ed36",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Help-06.png",
+        "frozen_sha256": "efb1daf295f748e3bbd9ae27f36274a625bc75798f2ba082a43a7ed63c73ce0d",
+        "character_offset": [
+          11,
+          13
+        ],
+        "character_rgba_sha256": "00f43b1c1b19983eaff8c5d660c4f08a7ad418257f67c1c47cdd67b432ecc844",
+        "symbol_rgba_sha256": "e6908dfc25d8f3a2fc33aefc209a7a2923afea2279c9765c03054b04fbc5ed36",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Help-07.png",
+        "frozen_sha256": "7b09aee2c9cbe4defd6df0e94c3fbdc612516232f185692c8642fa27f2d0b505",
+        "character_offset": [
+          11,
+          13
+        ],
+        "character_rgba_sha256": "0ebf97ce17682c90af2aa6b75aa087b4c64d0fb8ed5479fd1208a91ad1c3c05c",
+        "symbol_rgba_sha256": "e6908dfc25d8f3a2fc33aefc209a7a2923afea2279c9765c03054b04fbc5ed36",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      47,
+      40
+    ]
+  },
+  {
+    "role": "AppStarting",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      6,
+      7
+    ],
+    "symbol_hotspot": [
+      4,
+      5
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/AppStarting",
+    "body_hashes": [
+      "45f88003e31098a1b5a2870833d0e7ac9c19916f0602bb07abae0ee2941d8312",
+      "ae7f50fc05f8082d5d2e7067e5462a04e620ac900bf16d8f875ef447b33f192d",
+      "98d36288516a3b0ae9b1a9adea1146f2eadf61cfef4f27ac7d851766e94a7523",
+      "ae7f50fc05f8082d5d2e7067e5462a04e620ac900bf16d8f875ef447b33f192d",
+      "f8ce74615796dc2838b2bf663b716d474669ce98b8d5379e88721fffc683bb0c",
+      "b3cb1a9baa934cb0acd9e65e224937d75e66801eabfc00658d4f663793f3f0c7",
+      "78181685fffdf00986526e40f8e686c222bb4da8e08e35284b301304852a5c36",
+      "b3cb1a9baa934cb0acd9e65e224937d75e66801eabfc00658d4f663793f3f0c7"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "f8d30c92617417442a43810d08609d103caee9d99431de53b857452f3d8c3d9c",
+      "639821e3253dd7882bf473068302ca675c691264dfdb1fbf11e1a19874864c1c",
+      "d69fc334142021b5f5de7dde526f9cd8400b4c6dc2b9f3f51809196c69a7a113",
+      "3db8d4db9cbc8f25f3a12d29199a0a5f8bd62d829ada6af3ddc4be21c07e2e9e",
+      "2308b0c1cebdea08d6571c54a9b4bcb09ea5386b9b7966b9e64453d23fa346a8",
+      "c1d55b25582561c9001239341b8a7425a20b0bccc8c96c8d83d1bb039ea23640",
+      "cf94055ca89e435972cfc2ceaac70047509444995d03782556537ad62b90e9f2",
+      "2b3fc3644c31898953889ce6bcff5666808a07d207177edc50a7aaa953976359"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\AppStarting-00.png",
+        "frozen_sha256": "f8d30c92617417442a43810d08609d103caee9d99431de53b857452f3d8c3d9c",
+        "character_offset": [
+          8,
+          18
+        ],
+        "character_rgba_sha256": "45f88003e31098a1b5a2870833d0e7ac9c19916f0602bb07abae0ee2941d8312",
+        "symbol_rgba_sha256": "33400a7a0a1063fc94339631dae327addbf81be5da29fecaa914e122e2eb6502",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\AppStarting-01.png",
+        "frozen_sha256": "639821e3253dd7882bf473068302ca675c691264dfdb1fbf11e1a19874864c1c",
+        "character_offset": [
+          8,
+          18
+        ],
+        "character_rgba_sha256": "ae7f50fc05f8082d5d2e7067e5462a04e620ac900bf16d8f875ef447b33f192d",
+        "symbol_rgba_sha256": "e9bc57f6fadc01e0995edde3d05bbab3b050fddf9e2f1c99ca8b7b261110a805",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\AppStarting-02.png",
+        "frozen_sha256": "d69fc334142021b5f5de7dde526f9cd8400b4c6dc2b9f3f51809196c69a7a113",
+        "character_offset": [
+          8,
+          18
+        ],
+        "character_rgba_sha256": "98d36288516a3b0ae9b1a9adea1146f2eadf61cfef4f27ac7d851766e94a7523",
+        "symbol_rgba_sha256": "6e45cf1444a20bdf072f2b3b59668e4822096ed7fdb8a90d5998b3d698a46777",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\AppStarting-03.png",
+        "frozen_sha256": "3db8d4db9cbc8f25f3a12d29199a0a5f8bd62d829ada6af3ddc4be21c07e2e9e",
+        "character_offset": [
+          8,
+          18
+        ],
+        "character_rgba_sha256": "ae7f50fc05f8082d5d2e7067e5462a04e620ac900bf16d8f875ef447b33f192d",
+        "symbol_rgba_sha256": "2c7eaad1dd1f76858c966441db5956e8b65aa6d8793ee648b16773b285bbfbf6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\AppStarting-04.png",
+        "frozen_sha256": "2308b0c1cebdea08d6571c54a9b4bcb09ea5386b9b7966b9e64453d23fa346a8",
+        "character_offset": [
+          8,
+          18
+        ],
+        "character_rgba_sha256": "f8ce74615796dc2838b2bf663b716d474669ce98b8d5379e88721fffc683bb0c",
+        "symbol_rgba_sha256": "2aca64a573a5ff68b4bc1be5f5f2e021df2ac4efdf3a08cb03b3a8ceb3e9ebbe",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\AppStarting-05.png",
+        "frozen_sha256": "c1d55b25582561c9001239341b8a7425a20b0bccc8c96c8d83d1bb039ea23640",
+        "character_offset": [
+          8,
+          18
+        ],
+        "character_rgba_sha256": "b3cb1a9baa934cb0acd9e65e224937d75e66801eabfc00658d4f663793f3f0c7",
+        "symbol_rgba_sha256": "42a2cd59eec1813b5e10f14349da5ccc83c976881191fbd4cd3a39430774c70d",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\AppStarting-06.png",
+        "frozen_sha256": "cf94055ca89e435972cfc2ceaac70047509444995d03782556537ad62b90e9f2",
+        "character_offset": [
+          8,
+          18
+        ],
+        "character_rgba_sha256": "78181685fffdf00986526e40f8e686c222bb4da8e08e35284b301304852a5c36",
+        "symbol_rgba_sha256": "92fa016eecd4cb63dd95408faa1c8506ec2a95521badf9423e6da6d4dc825972",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\AppStarting-07.png",
+        "frozen_sha256": "2b3fc3644c31898953889ce6bcff5666808a07d207177edc50a7aaa953976359",
+        "character_offset": [
+          8,
+          18
+        ],
+        "character_rgba_sha256": "b3cb1a9baa934cb0acd9e65e224937d75e66801eabfc00658d4f663793f3f0c7",
+        "symbol_rgba_sha256": "db506f38b857ce2aec9a413602e10dda025712299410b7e4dd1bfd9ad3c8a044",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      47,
+      39
+    ]
+  },
+  {
+    "role": "Wait",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      26,
+      26
+    ],
+    "symbol_hotspot": [
+      24,
+      24
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/Wait",
+    "body_hashes": [
+      "985c6477374ca861fb233a7e0ea30b15b259504a959cef2adcac9ca3cceaa3af",
+      "f91210263f7481eed8b3f5e961ae03f051091a07a2487875bbe6f9842e43345e",
+      "e5ba9fadc02ba195ddcd9c05d3fc086620298b5ce199a48a377c25c39217b76b",
+      "f91210263f7481eed8b3f5e961ae03f051091a07a2487875bbe6f9842e43345e",
+      "c895e692d7c9202279014405e584213a0811082a8e20adb9ce7668608e9775e9",
+      "1a47bafeab122371fa4a5cb9118007aa6c7323001e5dbba0943716a9674af0ea",
+      "e8d9758b9da78d17c8ff62cd44135a061474191891dbfc46c1ce6787e7588c93",
+      "1a47bafeab122371fa4a5cb9118007aa6c7323001e5dbba0943716a9674af0ea"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "519443486f4a9e0d44dc470e33fe18fffcb17976c2dc93447a7132beba52ae8a",
+      "e38196c5e71a4d1de27b4420eb5dcff0af298086bcf45c0369ed037e1116c45b",
+      "a9f4544c8b1bcefb6c75ee5177756c3a6c373bc50e4596753b488d3242313a6f",
+      "ad8d31d41e049e27be274643a1c8b0a8d32a7db3e1e8d148d4160940577e54d4",
+      "bd8b15c01c75460e1ee150ba1a32a8e6cb486934c9bc1abce7345264e20d114c",
+      "5703d9d22f4c9f5f263215dc937324fe99cf637c5e3bde9c2f71c6d84048e14f",
+      "bf329cfb57a1f0ebe80fc79c49840f0d26cf035a04003e1a336bbb577568fc3c",
+      "e22f38eba833c6da57c3cb2725d501912f02634d9c1f5bdc1de8baa17254e4bb"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Wait-00.png",
+        "frozen_sha256": "519443486f4a9e0d44dc470e33fe18fffcb17976c2dc93447a7132beba52ae8a",
+        "character_offset": [
+          16,
+          21
+        ],
+        "character_rgba_sha256": "985c6477374ca861fb233a7e0ea30b15b259504a959cef2adcac9ca3cceaa3af",
+        "symbol_rgba_sha256": "391b825954760350a803d67044973c567e958c343ba3d40cf1e141fa51b99a30",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Wait-01.png",
+        "frozen_sha256": "e38196c5e71a4d1de27b4420eb5dcff0af298086bcf45c0369ed037e1116c45b",
+        "character_offset": [
+          16,
+          21
+        ],
+        "character_rgba_sha256": "f91210263f7481eed8b3f5e961ae03f051091a07a2487875bbe6f9842e43345e",
+        "symbol_rgba_sha256": "741966b9f28337aa75f178bc7ed9ac94adfc8981a55fd40854e6a20521397bdd",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Wait-02.png",
+        "frozen_sha256": "a9f4544c8b1bcefb6c75ee5177756c3a6c373bc50e4596753b488d3242313a6f",
+        "character_offset": [
+          16,
+          21
+        ],
+        "character_rgba_sha256": "e5ba9fadc02ba195ddcd9c05d3fc086620298b5ce199a48a377c25c39217b76b",
+        "symbol_rgba_sha256": "817cfc7a27c15d14d64412481ed0ee787795086d78ae80e04ec6c4745be32c23",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Wait-03.png",
+        "frozen_sha256": "ad8d31d41e049e27be274643a1c8b0a8d32a7db3e1e8d148d4160940577e54d4",
+        "character_offset": [
+          16,
+          21
+        ],
+        "character_rgba_sha256": "f91210263f7481eed8b3f5e961ae03f051091a07a2487875bbe6f9842e43345e",
+        "symbol_rgba_sha256": "79a5e0574f4d40faefc9e5f2a5e66b190a5831e2953c0c75d1d32c0ffea07fea",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Wait-04.png",
+        "frozen_sha256": "bd8b15c01c75460e1ee150ba1a32a8e6cb486934c9bc1abce7345264e20d114c",
+        "character_offset": [
+          16,
+          21
+        ],
+        "character_rgba_sha256": "c895e692d7c9202279014405e584213a0811082a8e20adb9ce7668608e9775e9",
+        "symbol_rgba_sha256": "285805713f4b64152c5cacbc271c8a45b55c559c5498fd54345320b5551ebdbf",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Wait-05.png",
+        "frozen_sha256": "5703d9d22f4c9f5f263215dc937324fe99cf637c5e3bde9c2f71c6d84048e14f",
+        "character_offset": [
+          16,
+          21
+        ],
+        "character_rgba_sha256": "1a47bafeab122371fa4a5cb9118007aa6c7323001e5dbba0943716a9674af0ea",
+        "symbol_rgba_sha256": "41dd9499e86614e1e638b49d7e11b374fcdddf5d5a269c9075e47df605131701",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Wait-06.png",
+        "frozen_sha256": "bf329cfb57a1f0ebe80fc79c49840f0d26cf035a04003e1a336bbb577568fc3c",
+        "character_offset": [
+          16,
+          21
+        ],
+        "character_rgba_sha256": "e8d9758b9da78d17c8ff62cd44135a061474191891dbfc46c1ce6787e7588c93",
+        "symbol_rgba_sha256": "91e90230e829a2ac5ae85f7ecb218f4f976d42fb542e5e4bd646b7382e7a2a6f",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Wait-07.png",
+        "frozen_sha256": "e22f38eba833c6da57c3cb2725d501912f02634d9c1f5bdc1de8baa17254e4bb",
+        "character_offset": [
+          16,
+          21
+        ],
+        "character_rgba_sha256": "1a47bafeab122371fa4a5cb9118007aa6c7323001e5dbba0943716a9674af0ea",
+        "symbol_rgba_sha256": "14c670abe26ebacd079a68663e74247538730f5a75ff75c0d32a829bf7063bf0",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      47,
+      47
+    ]
+  },
+  {
+    "role": "Crosshair",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      26,
+      26
+    ],
+    "symbol_hotspot": [
+      24,
+      24
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/Crosshair",
+    "body_hashes": [
+      "e475eb504907dc46f66a420a36ca47942b10bf98c9b1ab056c1be03d7c0d915d",
+      "ad5ad7e7d4df7735d099f6f84711592e82ccf995284358bcc8284f3dcceda96b",
+      "a4f5f1fc237303f0b531e667bca40d7e6c4cb4b46902c05842fc65edd8e4ac3c",
+      "ad5ad7e7d4df7735d099f6f84711592e82ccf995284358bcc8284f3dcceda96b",
+      "58d6489ebad7e5f430901b4a23ef09ce0546ad6c6d3d26bc70a73c9d1d9e0f05",
+      "9440a272083978e4ce9955ea7a9d802bd9ba79a67fe20620e5e5c36ef9bbeac6",
+      "a6d2acb4a3e350ab3eddf81c19e07016d0647191bd24916e6bd8be960041bea7",
+      "9440a272083978e4ce9955ea7a9d802bd9ba79a67fe20620e5e5c36ef9bbeac6"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "0f8fecf2a0d0bd3ed69114d79630edd94c299b9436fb6124d647ce913376014e",
+      "50e8ef86cf5c9c700073385afe0dec0b9ea5d73deee58cf2c4f1b757617553c5",
+      "8b728352408fa72c04643ac74ac1714d6706eaafe03f4351bf35640dc70e1d92",
+      "50e8ef86cf5c9c700073385afe0dec0b9ea5d73deee58cf2c4f1b757617553c5",
+      "e10aa61a245b7be07f6c42733c35db623fb866a0a5d53720e0d2c32504641fb4",
+      "332581755948b1372ac1a172238c98db94f093eb94c2df651aa4214e3528347f",
+      "f318f35009a6ecb868b1513c30d888950b005e66243f2586813cd7192d1a43c5",
+      "332581755948b1372ac1a172238c98db94f093eb94c2df651aa4214e3528347f"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Crosshair-00.png",
+        "frozen_sha256": "0f8fecf2a0d0bd3ed69114d79630edd94c299b9436fb6124d647ce913376014e",
+        "character_offset": [
+          28,
+          6
+        ],
+        "character_rgba_sha256": "e475eb504907dc46f66a420a36ca47942b10bf98c9b1ab056c1be03d7c0d915d",
+        "symbol_rgba_sha256": "450e937d5f639c1f52d42206518d42626ed9d586c681a06db05279c326e0be68",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Crosshair-01.png",
+        "frozen_sha256": "50e8ef86cf5c9c700073385afe0dec0b9ea5d73deee58cf2c4f1b757617553c5",
+        "character_offset": [
+          28,
+          6
+        ],
+        "character_rgba_sha256": "ad5ad7e7d4df7735d099f6f84711592e82ccf995284358bcc8284f3dcceda96b",
+        "symbol_rgba_sha256": "450e937d5f639c1f52d42206518d42626ed9d586c681a06db05279c326e0be68",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Crosshair-02.png",
+        "frozen_sha256": "8b728352408fa72c04643ac74ac1714d6706eaafe03f4351bf35640dc70e1d92",
+        "character_offset": [
+          28,
+          6
+        ],
+        "character_rgba_sha256": "a4f5f1fc237303f0b531e667bca40d7e6c4cb4b46902c05842fc65edd8e4ac3c",
+        "symbol_rgba_sha256": "450e937d5f639c1f52d42206518d42626ed9d586c681a06db05279c326e0be68",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Crosshair-03.png",
+        "frozen_sha256": "50e8ef86cf5c9c700073385afe0dec0b9ea5d73deee58cf2c4f1b757617553c5",
+        "character_offset": [
+          28,
+          6
+        ],
+        "character_rgba_sha256": "ad5ad7e7d4df7735d099f6f84711592e82ccf995284358bcc8284f3dcceda96b",
+        "symbol_rgba_sha256": "450e937d5f639c1f52d42206518d42626ed9d586c681a06db05279c326e0be68",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Crosshair-04.png",
+        "frozen_sha256": "e10aa61a245b7be07f6c42733c35db623fb866a0a5d53720e0d2c32504641fb4",
+        "character_offset": [
+          28,
+          6
+        ],
+        "character_rgba_sha256": "58d6489ebad7e5f430901b4a23ef09ce0546ad6c6d3d26bc70a73c9d1d9e0f05",
+        "symbol_rgba_sha256": "450e937d5f639c1f52d42206518d42626ed9d586c681a06db05279c326e0be68",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Crosshair-05.png",
+        "frozen_sha256": "332581755948b1372ac1a172238c98db94f093eb94c2df651aa4214e3528347f",
+        "character_offset": [
+          28,
+          6
+        ],
+        "character_rgba_sha256": "9440a272083978e4ce9955ea7a9d802bd9ba79a67fe20620e5e5c36ef9bbeac6",
+        "symbol_rgba_sha256": "450e937d5f639c1f52d42206518d42626ed9d586c681a06db05279c326e0be68",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Crosshair-06.png",
+        "frozen_sha256": "f318f35009a6ecb868b1513c30d888950b005e66243f2586813cd7192d1a43c5",
+        "character_offset": [
+          28,
+          6
+        ],
+        "character_rgba_sha256": "a6d2acb4a3e350ab3eddf81c19e07016d0647191bd24916e6bd8be960041bea7",
+        "symbol_rgba_sha256": "450e937d5f639c1f52d42206518d42626ed9d586c681a06db05279c326e0be68",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Crosshair-07.png",
+        "frozen_sha256": "332581755948b1372ac1a172238c98db94f093eb94c2df651aa4214e3528347f",
+        "character_offset": [
+          28,
+          6
+        ],
+        "character_rgba_sha256": "9440a272083978e4ce9955ea7a9d802bd9ba79a67fe20620e5e5c36ef9bbeac6",
+        "symbol_rgba_sha256": "450e937d5f639c1f52d42206518d42626ed9d586c681a06db05279c326e0be68",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      47,
+      47
+    ]
+  },
+  {
+    "role": "IBeam",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      15,
+      26
+    ],
+    "symbol_hotspot": [
+      13,
+      24
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/IBeam",
+    "body_hashes": [
+      "ee3c7634ad825d31572b915aa4e613ec0ecece32103cbbfe2f7c79343843849a",
+      "b973def6df9919d29c5965b43a8455a867a96e57576c1cb250b47d96cfb41b72",
+      "3fd0e7c6fddeb2397b7d6dd4617289ac8a9446eaec4c9e26edaa825bc6afba9a",
+      "b973def6df9919d29c5965b43a8455a867a96e57576c1cb250b47d96cfb41b72",
+      "44ac5c9f136719d9bf2bf311b3db10f8a1c22b667f018b4221b880a7e97baf5c",
+      "36fbbb451627d2e4a12c3a37d25d0281b53a887fe6a1084ee113c26910bfccd8",
+      "589aca0ec46dee87c75d237828e113947af99f7c3141de84d3e94547946d967c",
+      "36fbbb451627d2e4a12c3a37d25d0281b53a887fe6a1084ee113c26910bfccd8"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "fd2807bf4280cead139319bf7e913a344901bb2476b73d3b45277e41ab185e10",
+      "524261f4c1f4a9770a57435e58fdafa7049c8eb2ea58829302c91b40836f4a4e",
+      "93a93d4dad418f9ffd05228a661e327aae0bc3615854e5c56ab0ebfd9ede92a0",
+      "524261f4c1f4a9770a57435e58fdafa7049c8eb2ea58829302c91b40836f4a4e",
+      "e8a635bc2fb2e6c37518f46c1c75707a766d909f3bb0a9954067e827918a903c",
+      "35546c573136689f1da8f4c3aeb0ad0ceee27409a96ab35ed655fafe509ffd5f",
+      "229434ddaeaa37b35a9919b3c231180f6cad4d4f57090a5cea31799f503c2eb8",
+      "35546c573136689f1da8f4c3aeb0ad0ceee27409a96ab35ed655fafe509ffd5f"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\IBeam-00.png",
+        "frozen_sha256": "fd2807bf4280cead139319bf7e913a344901bb2476b73d3b45277e41ab185e10",
+        "character_offset": [
+          10,
+          11
+        ],
+        "character_rgba_sha256": "ee3c7634ad825d31572b915aa4e613ec0ecece32103cbbfe2f7c79343843849a",
+        "symbol_rgba_sha256": "ab231b0692f00570a6c4bbd2d4d3ef1bb4fc416b7590c8ec30c54ed904d4a01c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\IBeam-01.png",
+        "frozen_sha256": "524261f4c1f4a9770a57435e58fdafa7049c8eb2ea58829302c91b40836f4a4e",
+        "character_offset": [
+          10,
+          11
+        ],
+        "character_rgba_sha256": "b973def6df9919d29c5965b43a8455a867a96e57576c1cb250b47d96cfb41b72",
+        "symbol_rgba_sha256": "ab231b0692f00570a6c4bbd2d4d3ef1bb4fc416b7590c8ec30c54ed904d4a01c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\IBeam-02.png",
+        "frozen_sha256": "93a93d4dad418f9ffd05228a661e327aae0bc3615854e5c56ab0ebfd9ede92a0",
+        "character_offset": [
+          10,
+          11
+        ],
+        "character_rgba_sha256": "3fd0e7c6fddeb2397b7d6dd4617289ac8a9446eaec4c9e26edaa825bc6afba9a",
+        "symbol_rgba_sha256": "ab231b0692f00570a6c4bbd2d4d3ef1bb4fc416b7590c8ec30c54ed904d4a01c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\IBeam-03.png",
+        "frozen_sha256": "524261f4c1f4a9770a57435e58fdafa7049c8eb2ea58829302c91b40836f4a4e",
+        "character_offset": [
+          10,
+          11
+        ],
+        "character_rgba_sha256": "b973def6df9919d29c5965b43a8455a867a96e57576c1cb250b47d96cfb41b72",
+        "symbol_rgba_sha256": "ab231b0692f00570a6c4bbd2d4d3ef1bb4fc416b7590c8ec30c54ed904d4a01c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\IBeam-04.png",
+        "frozen_sha256": "e8a635bc2fb2e6c37518f46c1c75707a766d909f3bb0a9954067e827918a903c",
+        "character_offset": [
+          10,
+          11
+        ],
+        "character_rgba_sha256": "44ac5c9f136719d9bf2bf311b3db10f8a1c22b667f018b4221b880a7e97baf5c",
+        "symbol_rgba_sha256": "ab231b0692f00570a6c4bbd2d4d3ef1bb4fc416b7590c8ec30c54ed904d4a01c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\IBeam-05.png",
+        "frozen_sha256": "35546c573136689f1da8f4c3aeb0ad0ceee27409a96ab35ed655fafe509ffd5f",
+        "character_offset": [
+          10,
+          11
+        ],
+        "character_rgba_sha256": "36fbbb451627d2e4a12c3a37d25d0281b53a887fe6a1084ee113c26910bfccd8",
+        "symbol_rgba_sha256": "ab231b0692f00570a6c4bbd2d4d3ef1bb4fc416b7590c8ec30c54ed904d4a01c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\IBeam-06.png",
+        "frozen_sha256": "229434ddaeaa37b35a9919b3c231180f6cad4d4f57090a5cea31799f503c2eb8",
+        "character_offset": [
+          10,
+          11
+        ],
+        "character_rgba_sha256": "589aca0ec46dee87c75d237828e113947af99f7c3141de84d3e94547946d967c",
+        "symbol_rgba_sha256": "ab231b0692f00570a6c4bbd2d4d3ef1bb4fc416b7590c8ec30c54ed904d4a01c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\IBeam-07.png",
+        "frozen_sha256": "35546c573136689f1da8f4c3aeb0ad0ceee27409a96ab35ed655fafe509ffd5f",
+        "character_offset": [
+          10,
+          11
+        ],
+        "character_rgba_sha256": "36fbbb451627d2e4a12c3a37d25d0281b53a887fe6a1084ee113c26910bfccd8",
+        "symbol_rgba_sha256": "ab231b0692f00570a6c4bbd2d4d3ef1bb4fc416b7590c8ec30c54ed904d4a01c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      24,
+      47
+    ]
+  },
+  {
+    "role": "NWPen",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      7,
+      45
+    ],
+    "symbol_hotspot": [
+      5,
+      43
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/NWPen",
+    "body_hashes": [
+      "fcbff9e42a7af10ce2f793a9ca887c988abaa28c4539d95d27d29ec82bc8fe0d",
+      "6b5642ae9672f6581ed402bc2e2c8792b4623393c52509cb5db256c25caba1b3",
+      "d1503ea3cb9f65640a9084c40dacf297b474e3f8aaca2cd2c824848ee4526832",
+      "6b5642ae9672f6581ed402bc2e2c8792b4623393c52509cb5db256c25caba1b3",
+      "199da3417c20d69e5d6a8cc5eacb7fa9927b91e8b73e0bfc38404756cf17ca01",
+      "ecb16f72d5e33b1e50a06195ca029471eae009aeb71c4cf6e7907a0e80c06798",
+      "6abbacbc5ebdc20456387a97c940042872850dbc7c2e9ea2cc79d6a9ef67104a",
+      "ecb16f72d5e33b1e50a06195ca029471eae009aeb71c4cf6e7907a0e80c06798"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "8f5935eef86590db10a6fd434209e00c929b115c1a20c4c861082c580327f781",
+      "4633cab736dfc6ab3253eabdf373a48148fee9572dc568d340952571eddc4fac",
+      "fe8b3de8367b0cde447acaf4894d82c1d36f44e7c79324da4ee8ed102b11b216",
+      "4633cab736dfc6ab3253eabdf373a48148fee9572dc568d340952571eddc4fac",
+      "e71fd3414ec241f4471207a5dcf3325a18375084b3bf249d67ced302e9f65add",
+      "7e35245acb1ea99b62e2533d2dc19d59eeb6ed5797fea8f1881dc03aa3094aae",
+      "78f927262e6045cf79ae14bdc5b25e20514e47f28c3b7e07d8a2b5e50df79c6a",
+      "7e35245acb1ea99b62e2533d2dc19d59eeb6ed5797fea8f1881dc03aa3094aae"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\NWPen-00.png",
+        "frozen_sha256": "8f5935eef86590db10a6fd434209e00c929b115c1a20c4c861082c580327f781",
+        "character_offset": [
+          19,
+          4
+        ],
+        "character_rgba_sha256": "fcbff9e42a7af10ce2f793a9ca887c988abaa28c4539d95d27d29ec82bc8fe0d",
+        "symbol_rgba_sha256": "b66fcd4f809f51fef19f3eeb81698d6f8a291d0cfbe8806f3a75336dcebb31b9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\NWPen-01.png",
+        "frozen_sha256": "4633cab736dfc6ab3253eabdf373a48148fee9572dc568d340952571eddc4fac",
+        "character_offset": [
+          19,
+          4
+        ],
+        "character_rgba_sha256": "6b5642ae9672f6581ed402bc2e2c8792b4623393c52509cb5db256c25caba1b3",
+        "symbol_rgba_sha256": "b66fcd4f809f51fef19f3eeb81698d6f8a291d0cfbe8806f3a75336dcebb31b9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\NWPen-02.png",
+        "frozen_sha256": "fe8b3de8367b0cde447acaf4894d82c1d36f44e7c79324da4ee8ed102b11b216",
+        "character_offset": [
+          19,
+          4
+        ],
+        "character_rgba_sha256": "d1503ea3cb9f65640a9084c40dacf297b474e3f8aaca2cd2c824848ee4526832",
+        "symbol_rgba_sha256": "b66fcd4f809f51fef19f3eeb81698d6f8a291d0cfbe8806f3a75336dcebb31b9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\NWPen-03.png",
+        "frozen_sha256": "4633cab736dfc6ab3253eabdf373a48148fee9572dc568d340952571eddc4fac",
+        "character_offset": [
+          19,
+          4
+        ],
+        "character_rgba_sha256": "6b5642ae9672f6581ed402bc2e2c8792b4623393c52509cb5db256c25caba1b3",
+        "symbol_rgba_sha256": "b66fcd4f809f51fef19f3eeb81698d6f8a291d0cfbe8806f3a75336dcebb31b9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\NWPen-04.png",
+        "frozen_sha256": "e71fd3414ec241f4471207a5dcf3325a18375084b3bf249d67ced302e9f65add",
+        "character_offset": [
+          19,
+          4
+        ],
+        "character_rgba_sha256": "199da3417c20d69e5d6a8cc5eacb7fa9927b91e8b73e0bfc38404756cf17ca01",
+        "symbol_rgba_sha256": "b66fcd4f809f51fef19f3eeb81698d6f8a291d0cfbe8806f3a75336dcebb31b9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\NWPen-05.png",
+        "frozen_sha256": "7e35245acb1ea99b62e2533d2dc19d59eeb6ed5797fea8f1881dc03aa3094aae",
+        "character_offset": [
+          19,
+          4
+        ],
+        "character_rgba_sha256": "ecb16f72d5e33b1e50a06195ca029471eae009aeb71c4cf6e7907a0e80c06798",
+        "symbol_rgba_sha256": "b66fcd4f809f51fef19f3eeb81698d6f8a291d0cfbe8806f3a75336dcebb31b9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\NWPen-06.png",
+        "frozen_sha256": "78f927262e6045cf79ae14bdc5b25e20514e47f28c3b7e07d8a2b5e50df79c6a",
+        "character_offset": [
+          19,
+          4
+        ],
+        "character_rgba_sha256": "6abbacbc5ebdc20456387a97c940042872850dbc7c2e9ea2cc79d6a9ef67104a",
+        "symbol_rgba_sha256": "b66fcd4f809f51fef19f3eeb81698d6f8a291d0cfbe8806f3a75336dcebb31b9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\NWPen-07.png",
+        "frozen_sha256": "7e35245acb1ea99b62e2533d2dc19d59eeb6ed5797fea8f1881dc03aa3094aae",
+        "character_offset": [
+          19,
+          4
+        ],
+        "character_rgba_sha256": "ecb16f72d5e33b1e50a06195ca029471eae009aeb71c4cf6e7907a0e80c06798",
+        "symbol_rgba_sha256": "b66fcd4f809f51fef19f3eeb81698d6f8a291d0cfbe8806f3a75336dcebb31b9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      47,
+      47
+    ]
+  },
+  {
+    "role": "No",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      26,
+      26
+    ],
+    "symbol_hotspot": [
+      24,
+      24
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/No",
+    "body_hashes": [
+      "34cab0df410b92c38567151bdfdf2101327c195cff9515c04d59bcd787f55a87",
+      "cebe27cffe6c602a708e86c66337efb8065ae920883bc70c31d1ed9c41c8ba6d",
+      "8573aae5fefd6f9e8404febe11672247737588d73d6fe8a8ac26851092f3cf30",
+      "cebe27cffe6c602a708e86c66337efb8065ae920883bc70c31d1ed9c41c8ba6d",
+      "075fd8948e50fd527706597b25a590c2150b129ddb70d142ff03301e089fffda",
+      "b449397111f9702a630ca8b0e402c8c7872ef949b6dcbba07cf6ec72b1626e91",
+      "7315a3db76843b5a7451685139b563854451dab2d8b5320d5af1de339a16fc71",
+      "b449397111f9702a630ca8b0e402c8c7872ef949b6dcbba07cf6ec72b1626e91"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "1a94b53bece9ba682fd7d73ce36c28bb8dc0065c8f8195a147238419e8fcdffa",
+      "963f6edfb65bb71b857a876d5addd29d44f6c1a996ce2c9f100a78174a763631",
+      "6c22857cf39b5a5c4c7d4a6fff960ca5975f1d33a28de4900849fc67f051f0bf",
+      "963f6edfb65bb71b857a876d5addd29d44f6c1a996ce2c9f100a78174a763631",
+      "858a5e3902cae4b0193e2097ef34c6fa613807dcfbe70a54216710b49b50d87d",
+      "000d0cd63965d00f6b0fb0b7a36950ec9e1563814295becdec76653d152dd79b",
+      "3b742ed287bc69cb29db2bb92974c18b1cf56b88ec229f59939caa6d8efc7ec4",
+      "000d0cd63965d00f6b0fb0b7a36950ec9e1563814295becdec76653d152dd79b"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\No-00.png",
+        "frozen_sha256": "1a94b53bece9ba682fd7d73ce36c28bb8dc0065c8f8195a147238419e8fcdffa",
+        "character_offset": [
+          24,
+          13
+        ],
+        "character_rgba_sha256": "34cab0df410b92c38567151bdfdf2101327c195cff9515c04d59bcd787f55a87",
+        "symbol_rgba_sha256": "8165c011c47895315695d436db72a33117b22bca4e4d5f3be2fe0648f8b491e4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\No-01.png",
+        "frozen_sha256": "963f6edfb65bb71b857a876d5addd29d44f6c1a996ce2c9f100a78174a763631",
+        "character_offset": [
+          24,
+          13
+        ],
+        "character_rgba_sha256": "cebe27cffe6c602a708e86c66337efb8065ae920883bc70c31d1ed9c41c8ba6d",
+        "symbol_rgba_sha256": "8165c011c47895315695d436db72a33117b22bca4e4d5f3be2fe0648f8b491e4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\No-02.png",
+        "frozen_sha256": "6c22857cf39b5a5c4c7d4a6fff960ca5975f1d33a28de4900849fc67f051f0bf",
+        "character_offset": [
+          24,
+          13
+        ],
+        "character_rgba_sha256": "8573aae5fefd6f9e8404febe11672247737588d73d6fe8a8ac26851092f3cf30",
+        "symbol_rgba_sha256": "8165c011c47895315695d436db72a33117b22bca4e4d5f3be2fe0648f8b491e4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\No-03.png",
+        "frozen_sha256": "963f6edfb65bb71b857a876d5addd29d44f6c1a996ce2c9f100a78174a763631",
+        "character_offset": [
+          24,
+          13
+        ],
+        "character_rgba_sha256": "cebe27cffe6c602a708e86c66337efb8065ae920883bc70c31d1ed9c41c8ba6d",
+        "symbol_rgba_sha256": "8165c011c47895315695d436db72a33117b22bca4e4d5f3be2fe0648f8b491e4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\No-04.png",
+        "frozen_sha256": "858a5e3902cae4b0193e2097ef34c6fa613807dcfbe70a54216710b49b50d87d",
+        "character_offset": [
+          24,
+          13
+        ],
+        "character_rgba_sha256": "075fd8948e50fd527706597b25a590c2150b129ddb70d142ff03301e089fffda",
+        "symbol_rgba_sha256": "8165c011c47895315695d436db72a33117b22bca4e4d5f3be2fe0648f8b491e4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\No-05.png",
+        "frozen_sha256": "000d0cd63965d00f6b0fb0b7a36950ec9e1563814295becdec76653d152dd79b",
+        "character_offset": [
+          24,
+          13
+        ],
+        "character_rgba_sha256": "b449397111f9702a630ca8b0e402c8c7872ef949b6dcbba07cf6ec72b1626e91",
+        "symbol_rgba_sha256": "8165c011c47895315695d436db72a33117b22bca4e4d5f3be2fe0648f8b491e4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\No-06.png",
+        "frozen_sha256": "3b742ed287bc69cb29db2bb92974c18b1cf56b88ec229f59939caa6d8efc7ec4",
+        "character_offset": [
+          24,
+          13
+        ],
+        "character_rgba_sha256": "7315a3db76843b5a7451685139b563854451dab2d8b5320d5af1de339a16fc71",
+        "symbol_rgba_sha256": "8165c011c47895315695d436db72a33117b22bca4e4d5f3be2fe0648f8b491e4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\No-07.png",
+        "frozen_sha256": "000d0cd63965d00f6b0fb0b7a36950ec9e1563814295becdec76653d152dd79b",
+        "character_offset": [
+          24,
+          13
+        ],
+        "character_rgba_sha256": "b449397111f9702a630ca8b0e402c8c7872ef949b6dcbba07cf6ec72b1626e91",
+        "symbol_rgba_sha256": "8165c011c47895315695d436db72a33117b22bca4e4d5f3be2fe0648f8b491e4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      47,
+      47
+    ]
+  },
+  {
+    "role": "SizeNS",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      13,
+      26
+    ],
+    "symbol_hotspot": [
+      11,
+      24
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/SizeNS",
+    "body_hashes": [
+      "d41a0900d8aa40f0a2efb359f4aa1aa12c8dfb33b4799346022f4520c5723e37",
+      "e47dc17e79d38140c50d747883e515df1f920f6624b9207b409a630694e5a412",
+      "3e36025f5db9e3869fb74a398c31407e401441f7a54adf2b54e5828b5d8818e4",
+      "80807d2060363ffd7dcdc88c8a9ecfc6a00094fbaaa959317b25edf310a5283c",
+      "68bac5d13566a6c784ac9bf37bf40d67e94a410df0a487aa6d9dd64b6dfa885a",
+      "990581fa11b39f7d8fceeda4dffbbbecc25fd61915c65988a47654a03e95d096",
+      "0e5f2179d0463caa71518c85464a285da7a2b6115872772b86963f3e2ded8e57",
+      "862ea05f124ddacc3fabb33262ebb6e93c418fd1e2ad1d093aa1ff229b80a26b"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "71c5185a7d64c93e7cfa2c50cfc215b6a0998db44f401078365e0d821e9329fe",
+      "ee9c26a1d7c51a2679e70e12567b74b1f2817992a00aaa83a914a5ba9b1027f4",
+      "357d0180104e0bc4ccc455c03601a9a93c08321c4e085c2f7cf1b9ddb9205afe",
+      "3ddf23642a08210ae7722caff1de9fe31a032eca4a26e66335fc832f15ff3b1c",
+      "b80c46d58e143bb8944605a55dc33be39d7d2cfe6a421e24999f06c5c01ca6a2",
+      "0941dcd6dc0c15cb765a9ec01339e7a7b5e0ce3e9bc9aeb3a777943e753586c1",
+      "4a6ec456e44152046e1102e9a54ca17858932973c427138d4d2cd74ccf96698b",
+      "89790793277ab0ad657ddb9505f146000f3266e41893a89604fd49db29cc5487"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNS-00.png",
+        "frozen_sha256": "71c5185a7d64c93e7cfa2c50cfc215b6a0998db44f401078365e0d821e9329fe",
+        "character_offset": [
+          12,
+          2
+        ],
+        "character_rgba_sha256": "d41a0900d8aa40f0a2efb359f4aa1aa12c8dfb33b4799346022f4520c5723e37",
+        "symbol_rgba_sha256": "a6b40952cdf8c8b113d6ffc23c6828b625a6871a15535b0a6092fa765e3c3ec9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNS-01.png",
+        "frozen_sha256": "ee9c26a1d7c51a2679e70e12567b74b1f2817992a00aaa83a914a5ba9b1027f4",
+        "character_offset": [
+          12,
+          2
+        ],
+        "character_rgba_sha256": "e47dc17e79d38140c50d747883e515df1f920f6624b9207b409a630694e5a412",
+        "symbol_rgba_sha256": "a6b40952cdf8c8b113d6ffc23c6828b625a6871a15535b0a6092fa765e3c3ec9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNS-02.png",
+        "frozen_sha256": "357d0180104e0bc4ccc455c03601a9a93c08321c4e085c2f7cf1b9ddb9205afe",
+        "character_offset": [
+          12,
+          2
+        ],
+        "character_rgba_sha256": "3e36025f5db9e3869fb74a398c31407e401441f7a54adf2b54e5828b5d8818e4",
+        "symbol_rgba_sha256": "a6b40952cdf8c8b113d6ffc23c6828b625a6871a15535b0a6092fa765e3c3ec9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNS-03.png",
+        "frozen_sha256": "3ddf23642a08210ae7722caff1de9fe31a032eca4a26e66335fc832f15ff3b1c",
+        "character_offset": [
+          12,
+          2
+        ],
+        "character_rgba_sha256": "80807d2060363ffd7dcdc88c8a9ecfc6a00094fbaaa959317b25edf310a5283c",
+        "symbol_rgba_sha256": "a6b40952cdf8c8b113d6ffc23c6828b625a6871a15535b0a6092fa765e3c3ec9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNS-04.png",
+        "frozen_sha256": "b80c46d58e143bb8944605a55dc33be39d7d2cfe6a421e24999f06c5c01ca6a2",
+        "character_offset": [
+          12,
+          2
+        ],
+        "character_rgba_sha256": "68bac5d13566a6c784ac9bf37bf40d67e94a410df0a487aa6d9dd64b6dfa885a",
+        "symbol_rgba_sha256": "a6b40952cdf8c8b113d6ffc23c6828b625a6871a15535b0a6092fa765e3c3ec9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNS-05.png",
+        "frozen_sha256": "0941dcd6dc0c15cb765a9ec01339e7a7b5e0ce3e9bc9aeb3a777943e753586c1",
+        "character_offset": [
+          12,
+          2
+        ],
+        "character_rgba_sha256": "990581fa11b39f7d8fceeda4dffbbbecc25fd61915c65988a47654a03e95d096",
+        "symbol_rgba_sha256": "a6b40952cdf8c8b113d6ffc23c6828b625a6871a15535b0a6092fa765e3c3ec9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNS-06.png",
+        "frozen_sha256": "4a6ec456e44152046e1102e9a54ca17858932973c427138d4d2cd74ccf96698b",
+        "character_offset": [
+          12,
+          2
+        ],
+        "character_rgba_sha256": "0e5f2179d0463caa71518c85464a285da7a2b6115872772b86963f3e2ded8e57",
+        "symbol_rgba_sha256": "a6b40952cdf8c8b113d6ffc23c6828b625a6871a15535b0a6092fa765e3c3ec9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNS-07.png",
+        "frozen_sha256": "89790793277ab0ad657ddb9505f146000f3266e41893a89604fd49db29cc5487",
+        "character_offset": [
+          12,
+          2
+        ],
+        "character_rgba_sha256": "862ea05f124ddacc3fabb33262ebb6e93c418fd1e2ad1d093aa1ff229b80a26b",
+        "symbol_rgba_sha256": "a6b40952cdf8c8b113d6ffc23c6828b625a6871a15535b0a6092fa765e3c3ec9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      20,
+      47
+    ]
+  },
+  {
+    "role": "SizeWE",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      26,
+      13
+    ],
+    "symbol_hotspot": [
+      24,
+      11
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/SizeWE",
+    "body_hashes": [
+      "d520973757a0f0ba710aabdab2cc4bb6ba8bf6c494a6ef2a85988f7462ce23a7",
+      "e8f1d9182cb0531c681b162a1cfa16b444c2e38c08c0009ac44aa5fe4ff0d659",
+      "5f3081e4ca562db7c391b035778c01bc7d28739b642307b2ba47a942e62184ad",
+      "e8f1d9182cb0531c681b162a1cfa16b444c2e38c08c0009ac44aa5fe4ff0d659",
+      "5cc4278c3940210310f0d47a6f9e5df70a934ca9001f2092d9913c36dddd8691",
+      "012b95a5376e79dea1840e626b41385552033df49b0f2dbcba7571e4b3137fab",
+      "26d1e6f5943e81e1e499e1bd4c948eb1e360ea92e9d468b17585fdff7586b1dc",
+      "012b95a5376e79dea1840e626b41385552033df49b0f2dbcba7571e4b3137fab"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "bfbcc37b3484cb2d8cbb3c0cf1e43ce402c4782a5633f59deeb689a3261be803",
+      "444f95f86aae8d351cbcfe1e009d124b7587670909d95f77d5e390eb8c79109a",
+      "8e97216073f99ef3039c1fb6434a9facc27cdc166093749bbd14eff9f1d82fe5",
+      "444f95f86aae8d351cbcfe1e009d124b7587670909d95f77d5e390eb8c79109a",
+      "c51375cd3e4a295abeb4c719305383c777076325b8b984e257ea49a210cc54d0",
+      "1ab5a41ba16766beb876723c640e6b72e58c2d7acc613117bc688ae1cac6c27b",
+      "9ed1c2342fe9f65a9a1af06be3b2c7f94926f046cfc198c34c52b190297c0226",
+      "1ab5a41ba16766beb876723c640e6b72e58c2d7acc613117bc688ae1cac6c27b"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeWE-00.png",
+        "frozen_sha256": "bfbcc37b3484cb2d8cbb3c0cf1e43ce402c4782a5633f59deeb689a3261be803",
+        "character_offset": [
+          0,
+          14
+        ],
+        "character_rgba_sha256": "d520973757a0f0ba710aabdab2cc4bb6ba8bf6c494a6ef2a85988f7462ce23a7",
+        "symbol_rgba_sha256": "e910745b474cbf7e784d55b0992bd2184c85a9bf901d1222e4006e6305dd486e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeWE-01.png",
+        "frozen_sha256": "444f95f86aae8d351cbcfe1e009d124b7587670909d95f77d5e390eb8c79109a",
+        "character_offset": [
+          0,
+          14
+        ],
+        "character_rgba_sha256": "e8f1d9182cb0531c681b162a1cfa16b444c2e38c08c0009ac44aa5fe4ff0d659",
+        "symbol_rgba_sha256": "e910745b474cbf7e784d55b0992bd2184c85a9bf901d1222e4006e6305dd486e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeWE-02.png",
+        "frozen_sha256": "8e97216073f99ef3039c1fb6434a9facc27cdc166093749bbd14eff9f1d82fe5",
+        "character_offset": [
+          0,
+          14
+        ],
+        "character_rgba_sha256": "5f3081e4ca562db7c391b035778c01bc7d28739b642307b2ba47a942e62184ad",
+        "symbol_rgba_sha256": "e910745b474cbf7e784d55b0992bd2184c85a9bf901d1222e4006e6305dd486e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeWE-03.png",
+        "frozen_sha256": "444f95f86aae8d351cbcfe1e009d124b7587670909d95f77d5e390eb8c79109a",
+        "character_offset": [
+          0,
+          14
+        ],
+        "character_rgba_sha256": "e8f1d9182cb0531c681b162a1cfa16b444c2e38c08c0009ac44aa5fe4ff0d659",
+        "symbol_rgba_sha256": "e910745b474cbf7e784d55b0992bd2184c85a9bf901d1222e4006e6305dd486e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeWE-04.png",
+        "frozen_sha256": "c51375cd3e4a295abeb4c719305383c777076325b8b984e257ea49a210cc54d0",
+        "character_offset": [
+          0,
+          14
+        ],
+        "character_rgba_sha256": "5cc4278c3940210310f0d47a6f9e5df70a934ca9001f2092d9913c36dddd8691",
+        "symbol_rgba_sha256": "e910745b474cbf7e784d55b0992bd2184c85a9bf901d1222e4006e6305dd486e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeWE-05.png",
+        "frozen_sha256": "1ab5a41ba16766beb876723c640e6b72e58c2d7acc613117bc688ae1cac6c27b",
+        "character_offset": [
+          0,
+          14
+        ],
+        "character_rgba_sha256": "012b95a5376e79dea1840e626b41385552033df49b0f2dbcba7571e4b3137fab",
+        "symbol_rgba_sha256": "e910745b474cbf7e784d55b0992bd2184c85a9bf901d1222e4006e6305dd486e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeWE-06.png",
+        "frozen_sha256": "9ed1c2342fe9f65a9a1af06be3b2c7f94926f046cfc198c34c52b190297c0226",
+        "character_offset": [
+          0,
+          14
+        ],
+        "character_rgba_sha256": "26d1e6f5943e81e1e499e1bd4c948eb1e360ea92e9d468b17585fdff7586b1dc",
+        "symbol_rgba_sha256": "e910745b474cbf7e784d55b0992bd2184c85a9bf901d1222e4006e6305dd486e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeWE-07.png",
+        "frozen_sha256": "1ab5a41ba16766beb876723c640e6b72e58c2d7acc613117bc688ae1cac6c27b",
+        "character_offset": [
+          0,
+          14
+        ],
+        "character_rgba_sha256": "012b95a5376e79dea1840e626b41385552033df49b0f2dbcba7571e4b3137fab",
+        "symbol_rgba_sha256": "e910745b474cbf7e784d55b0992bd2184c85a9bf901d1222e4006e6305dd486e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      46,
+      20
+    ]
+  },
+  {
+    "role": "SizeNWSE",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      26,
+      26
+    ],
+    "symbol_hotspot": [
+      24,
+      24
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/SizeNWSE",
+    "body_hashes": [
+      "54976ea48dd7c4fdfef8b639c8d14bb3e8a7763e9b3d176d6c46f3993f8cf965",
+      "bcfa82a14f43a4c38c912103289c2728b24a4439122f148b70f58b689dca2c1e",
+      "bdd74a91a92454dd48309afde7adae174d43d2ff910c1a581d45fc101fb0815f",
+      "bcfa82a14f43a4c38c912103289c2728b24a4439122f148b70f58b689dca2c1e",
+      "84d7bc1131d7ff311a5832691d62c4d7419180c7608ae3a0a871754abb5800e6",
+      "c918c93fb2ca61c1ee0f08ffa50156191bf43fbf589e5004e9386cd77bdb5d7a",
+      "5fe68d8d14f3efa79d5ba5b79d375cfb2c9fc481c418b47db02f925e08008d1c",
+      "c918c93fb2ca61c1ee0f08ffa50156191bf43fbf589e5004e9386cd77bdb5d7a"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "a47a019ba2b8168b600bf8c15f2becda461d27f60ef0c715779fa4653aa13e22",
+      "8dee772e52bc98b712351889562bf8411844b359a7d20e040e655d358681b09b",
+      "513b292ed822fbb1affe7b899c29cc8ab340635dd99df491e27ab45ed66189de",
+      "8dee772e52bc98b712351889562bf8411844b359a7d20e040e655d358681b09b",
+      "4773239787dba6048eaecb28af0b75e1b325ec2f2f38d0431871714c497a24b9",
+      "97062061a1bfb54105b5f428c24a432faa6093045c3ece83bffe895e7209ad52",
+      "e60d5ecc3a20b9bcb769a91033edfe239c66003778c140e963aaaf3eeb245975",
+      "97062061a1bfb54105b5f428c24a432faa6093045c3ece83bffe895e7209ad52"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNWSE-00.png",
+        "frozen_sha256": "a47a019ba2b8168b600bf8c15f2becda461d27f60ef0c715779fa4653aa13e22",
+        "character_offset": [
+          24,
+          15
+        ],
+        "character_rgba_sha256": "54976ea48dd7c4fdfef8b639c8d14bb3e8a7763e9b3d176d6c46f3993f8cf965",
+        "symbol_rgba_sha256": "9dd1b7aea72bd980e8d7ec551f8f1a17f854a9fd7dfca556163a95106493a3be",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNWSE-01.png",
+        "frozen_sha256": "8dee772e52bc98b712351889562bf8411844b359a7d20e040e655d358681b09b",
+        "character_offset": [
+          24,
+          15
+        ],
+        "character_rgba_sha256": "bcfa82a14f43a4c38c912103289c2728b24a4439122f148b70f58b689dca2c1e",
+        "symbol_rgba_sha256": "9dd1b7aea72bd980e8d7ec551f8f1a17f854a9fd7dfca556163a95106493a3be",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNWSE-02.png",
+        "frozen_sha256": "513b292ed822fbb1affe7b899c29cc8ab340635dd99df491e27ab45ed66189de",
+        "character_offset": [
+          24,
+          15
+        ],
+        "character_rgba_sha256": "bdd74a91a92454dd48309afde7adae174d43d2ff910c1a581d45fc101fb0815f",
+        "symbol_rgba_sha256": "9dd1b7aea72bd980e8d7ec551f8f1a17f854a9fd7dfca556163a95106493a3be",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNWSE-03.png",
+        "frozen_sha256": "8dee772e52bc98b712351889562bf8411844b359a7d20e040e655d358681b09b",
+        "character_offset": [
+          24,
+          15
+        ],
+        "character_rgba_sha256": "bcfa82a14f43a4c38c912103289c2728b24a4439122f148b70f58b689dca2c1e",
+        "symbol_rgba_sha256": "9dd1b7aea72bd980e8d7ec551f8f1a17f854a9fd7dfca556163a95106493a3be",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNWSE-04.png",
+        "frozen_sha256": "4773239787dba6048eaecb28af0b75e1b325ec2f2f38d0431871714c497a24b9",
+        "character_offset": [
+          24,
+          15
+        ],
+        "character_rgba_sha256": "84d7bc1131d7ff311a5832691d62c4d7419180c7608ae3a0a871754abb5800e6",
+        "symbol_rgba_sha256": "9dd1b7aea72bd980e8d7ec551f8f1a17f854a9fd7dfca556163a95106493a3be",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNWSE-05.png",
+        "frozen_sha256": "97062061a1bfb54105b5f428c24a432faa6093045c3ece83bffe895e7209ad52",
+        "character_offset": [
+          24,
+          15
+        ],
+        "character_rgba_sha256": "c918c93fb2ca61c1ee0f08ffa50156191bf43fbf589e5004e9386cd77bdb5d7a",
+        "symbol_rgba_sha256": "9dd1b7aea72bd980e8d7ec551f8f1a17f854a9fd7dfca556163a95106493a3be",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNWSE-06.png",
+        "frozen_sha256": "e60d5ecc3a20b9bcb769a91033edfe239c66003778c140e963aaaf3eeb245975",
+        "character_offset": [
+          24,
+          15
+        ],
+        "character_rgba_sha256": "5fe68d8d14f3efa79d5ba5b79d375cfb2c9fc481c418b47db02f925e08008d1c",
+        "symbol_rgba_sha256": "9dd1b7aea72bd980e8d7ec551f8f1a17f854a9fd7dfca556163a95106493a3be",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNWSE-07.png",
+        "frozen_sha256": "97062061a1bfb54105b5f428c24a432faa6093045c3ece83bffe895e7209ad52",
+        "character_offset": [
+          24,
+          15
+        ],
+        "character_rgba_sha256": "c918c93fb2ca61c1ee0f08ffa50156191bf43fbf589e5004e9386cd77bdb5d7a",
+        "symbol_rgba_sha256": "9dd1b7aea72bd980e8d7ec551f8f1a17f854a9fd7dfca556163a95106493a3be",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      47,
+      47
+    ]
+  },
+  {
+    "role": "SizeNESW",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      26,
+      26
+    ],
+    "symbol_hotspot": [
+      24,
+      24
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/SizeNESW",
+    "body_hashes": [
+      "89b86eb144a1738b9dd0a527319dcf6644d7dbe81658c8039bd6ef8dcdd10490",
+      "1563af5491aee7630d77f096746b49f93e0733ca64dd5ce80760fac64964f7e4",
+      "24c49eea8fa6b2e55ad70dae327133d9d8f47811583ee235044b2674611d79c3",
+      "1563af5491aee7630d77f096746b49f93e0733ca64dd5ce80760fac64964f7e4",
+      "1eeb6320ac8680722e76e69eef23c1b581e9d16542cced3d47b925e5ca0bd309",
+      "b41f206999683c1e60862478f35aca6bf256de6a1c9bbb1a65f1968d01d629cc",
+      "a609323ce84f801a3ee58d0bbf072bc47e66cbecf02c84ed9daccb22c6c4e0c9",
+      "b41f206999683c1e60862478f35aca6bf256de6a1c9bbb1a65f1968d01d629cc"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "8a399e4f1f18f9a6a4a902600b61d2939dbb49d9d098b05155f6e5da2a766f5c",
+      "901d1952c28b501f10362dce88a10e71c1796ec7e1416a0ba1162202125803a4",
+      "20d154e321a5b7ed41fb6ad719949d026a28ac5568cee8398adc40a3a7a267a3",
+      "901d1952c28b501f10362dce88a10e71c1796ec7e1416a0ba1162202125803a4",
+      "285affaea54cd7c1e308fe256a15e7921ddf4fa225b1715da28db6ec1a4cd300",
+      "0a803655841d7a234492e8f9e03dfd1ef176b5eabe47ca30e3ed234abcc61105",
+      "f005bca721e2c99519ea53a58625ea9221d94fc5b839d7a9ac4d94a24649db28",
+      "0a803655841d7a234492e8f9e03dfd1ef176b5eabe47ca30e3ed234abcc61105"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNESW-00.png",
+        "frozen_sha256": "8a399e4f1f18f9a6a4a902600b61d2939dbb49d9d098b05155f6e5da2a766f5c",
+        "character_offset": [
+          15,
+          10
+        ],
+        "character_rgba_sha256": "89b86eb144a1738b9dd0a527319dcf6644d7dbe81658c8039bd6ef8dcdd10490",
+        "symbol_rgba_sha256": "581b5d4b36f3a09894a7f11918a8570a21aa5870da8cdcad4f05baac1d832fe1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNESW-01.png",
+        "frozen_sha256": "901d1952c28b501f10362dce88a10e71c1796ec7e1416a0ba1162202125803a4",
+        "character_offset": [
+          15,
+          10
+        ],
+        "character_rgba_sha256": "1563af5491aee7630d77f096746b49f93e0733ca64dd5ce80760fac64964f7e4",
+        "symbol_rgba_sha256": "581b5d4b36f3a09894a7f11918a8570a21aa5870da8cdcad4f05baac1d832fe1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNESW-02.png",
+        "frozen_sha256": "20d154e321a5b7ed41fb6ad719949d026a28ac5568cee8398adc40a3a7a267a3",
+        "character_offset": [
+          15,
+          10
+        ],
+        "character_rgba_sha256": "24c49eea8fa6b2e55ad70dae327133d9d8f47811583ee235044b2674611d79c3",
+        "symbol_rgba_sha256": "581b5d4b36f3a09894a7f11918a8570a21aa5870da8cdcad4f05baac1d832fe1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNESW-03.png",
+        "frozen_sha256": "901d1952c28b501f10362dce88a10e71c1796ec7e1416a0ba1162202125803a4",
+        "character_offset": [
+          15,
+          10
+        ],
+        "character_rgba_sha256": "1563af5491aee7630d77f096746b49f93e0733ca64dd5ce80760fac64964f7e4",
+        "symbol_rgba_sha256": "581b5d4b36f3a09894a7f11918a8570a21aa5870da8cdcad4f05baac1d832fe1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNESW-04.png",
+        "frozen_sha256": "285affaea54cd7c1e308fe256a15e7921ddf4fa225b1715da28db6ec1a4cd300",
+        "character_offset": [
+          15,
+          10
+        ],
+        "character_rgba_sha256": "1eeb6320ac8680722e76e69eef23c1b581e9d16542cced3d47b925e5ca0bd309",
+        "symbol_rgba_sha256": "581b5d4b36f3a09894a7f11918a8570a21aa5870da8cdcad4f05baac1d832fe1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNESW-05.png",
+        "frozen_sha256": "0a803655841d7a234492e8f9e03dfd1ef176b5eabe47ca30e3ed234abcc61105",
+        "character_offset": [
+          15,
+          10
+        ],
+        "character_rgba_sha256": "b41f206999683c1e60862478f35aca6bf256de6a1c9bbb1a65f1968d01d629cc",
+        "symbol_rgba_sha256": "581b5d4b36f3a09894a7f11918a8570a21aa5870da8cdcad4f05baac1d832fe1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNESW-06.png",
+        "frozen_sha256": "f005bca721e2c99519ea53a58625ea9221d94fc5b839d7a9ac4d94a24649db28",
+        "character_offset": [
+          15,
+          10
+        ],
+        "character_rgba_sha256": "a609323ce84f801a3ee58d0bbf072bc47e66cbecf02c84ed9daccb22c6c4e0c9",
+        "symbol_rgba_sha256": "581b5d4b36f3a09894a7f11918a8570a21aa5870da8cdcad4f05baac1d832fe1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeNESW-07.png",
+        "frozen_sha256": "0a803655841d7a234492e8f9e03dfd1ef176b5eabe47ca30e3ed234abcc61105",
+        "character_offset": [
+          15,
+          10
+        ],
+        "character_rgba_sha256": "b41f206999683c1e60862478f35aca6bf256de6a1c9bbb1a65f1968d01d629cc",
+        "symbol_rgba_sha256": "581b5d4b36f3a09894a7f11918a8570a21aa5870da8cdcad4f05baac1d832fe1",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      47,
+      47
+    ]
+  },
+  {
+    "role": "SizeAll",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      26,
+      26
+    ],
+    "symbol_hotspot": [
+      24,
+      24
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/SizeAll",
+    "body_hashes": [
+      "59e952fd1d9a1c3cd50e47672d7651aca15ab220a33b8d795f506a7f77a55c09",
+      "bd00711516004798616f9b598103bd4e5372a07612a642fadb7006acd633c5a0",
+      "43a252281df33414cbe3ea13b333027e0b936f73e9408a5055bb3b32ee54f37c",
+      "bd00711516004798616f9b598103bd4e5372a07612a642fadb7006acd633c5a0",
+      "d2b172b662cf4996e9331a052c9f747252fddd9b0a32587b6153ea9eaaf3b7a7",
+      "23b11ee6cb24bc4318706fcc0a74bf5f98856c1a447e2146a9df2cb4972678ae",
+      "b20824771e7b0ec6e2fd27a3c41bb360d8aac575cec240cd93a7166aea36a869",
+      "23b11ee6cb24bc4318706fcc0a74bf5f98856c1a447e2146a9df2cb4972678ae"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "a9a36653e0519c6c8f291054135cbdcef5877d4d45701721d6c2e95b80c9f43d",
+      "4c5889f79e097a31706a389eea1619150c70493ece2776ca10cd2424bc92bfcd",
+      "0130cad9130c2e34634b644d7e9e85b24926edec1c7a2f9c0eae345ad81aad89",
+      "4c5889f79e097a31706a389eea1619150c70493ece2776ca10cd2424bc92bfcd",
+      "5d33002124dfffd24ece4927c21dbbff4251548cd890d68b970810c79f6fddbe",
+      "6e67a63be75568f5aff86a849c9afdd63bc0f93c7efc06cc77cd7ee6f9e61a0e",
+      "42a9a189261030d960670cb75056ca28bf3097fcd5db95219ebe69d3cf99265e",
+      "6e67a63be75568f5aff86a849c9afdd63bc0f93c7efc06cc77cd7ee6f9e61a0e"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeAll-00.png",
+        "frozen_sha256": "a9a36653e0519c6c8f291054135cbdcef5877d4d45701721d6c2e95b80c9f43d",
+        "character_offset": [
+          7,
+          21
+        ],
+        "character_rgba_sha256": "59e952fd1d9a1c3cd50e47672d7651aca15ab220a33b8d795f506a7f77a55c09",
+        "symbol_rgba_sha256": "8fe3f51eef46de301161c69ba4c478f910b43c01b1ec5288039bd8ebbcd2c6f4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeAll-01.png",
+        "frozen_sha256": "4c5889f79e097a31706a389eea1619150c70493ece2776ca10cd2424bc92bfcd",
+        "character_offset": [
+          7,
+          21
+        ],
+        "character_rgba_sha256": "bd00711516004798616f9b598103bd4e5372a07612a642fadb7006acd633c5a0",
+        "symbol_rgba_sha256": "8fe3f51eef46de301161c69ba4c478f910b43c01b1ec5288039bd8ebbcd2c6f4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeAll-02.png",
+        "frozen_sha256": "0130cad9130c2e34634b644d7e9e85b24926edec1c7a2f9c0eae345ad81aad89",
+        "character_offset": [
+          7,
+          21
+        ],
+        "character_rgba_sha256": "43a252281df33414cbe3ea13b333027e0b936f73e9408a5055bb3b32ee54f37c",
+        "symbol_rgba_sha256": "8fe3f51eef46de301161c69ba4c478f910b43c01b1ec5288039bd8ebbcd2c6f4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeAll-03.png",
+        "frozen_sha256": "4c5889f79e097a31706a389eea1619150c70493ece2776ca10cd2424bc92bfcd",
+        "character_offset": [
+          7,
+          21
+        ],
+        "character_rgba_sha256": "bd00711516004798616f9b598103bd4e5372a07612a642fadb7006acd633c5a0",
+        "symbol_rgba_sha256": "8fe3f51eef46de301161c69ba4c478f910b43c01b1ec5288039bd8ebbcd2c6f4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeAll-04.png",
+        "frozen_sha256": "5d33002124dfffd24ece4927c21dbbff4251548cd890d68b970810c79f6fddbe",
+        "character_offset": [
+          7,
+          21
+        ],
+        "character_rgba_sha256": "d2b172b662cf4996e9331a052c9f747252fddd9b0a32587b6153ea9eaaf3b7a7",
+        "symbol_rgba_sha256": "8fe3f51eef46de301161c69ba4c478f910b43c01b1ec5288039bd8ebbcd2c6f4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeAll-05.png",
+        "frozen_sha256": "6e67a63be75568f5aff86a849c9afdd63bc0f93c7efc06cc77cd7ee6f9e61a0e",
+        "character_offset": [
+          7,
+          21
+        ],
+        "character_rgba_sha256": "23b11ee6cb24bc4318706fcc0a74bf5f98856c1a447e2146a9df2cb4972678ae",
+        "symbol_rgba_sha256": "8fe3f51eef46de301161c69ba4c478f910b43c01b1ec5288039bd8ebbcd2c6f4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeAll-06.png",
+        "frozen_sha256": "42a9a189261030d960670cb75056ca28bf3097fcd5db95219ebe69d3cf99265e",
+        "character_offset": [
+          7,
+          21
+        ],
+        "character_rgba_sha256": "b20824771e7b0ec6e2fd27a3c41bb360d8aac575cec240cd93a7166aea36a869",
+        "symbol_rgba_sha256": "8fe3f51eef46de301161c69ba4c478f910b43c01b1ec5288039bd8ebbcd2c6f4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\SizeAll-07.png",
+        "frozen_sha256": "6e67a63be75568f5aff86a849c9afdd63bc0f93c7efc06cc77cd7ee6f9e61a0e",
+        "character_offset": [
+          7,
+          21
+        ],
+        "character_rgba_sha256": "23b11ee6cb24bc4318706fcc0a74bf5f98856c1a447e2146a9df2cb4972678ae",
+        "symbol_rgba_sha256": "8fe3f51eef46de301161c69ba4c478f910b43c01b1ec5288039bd8ebbcd2c6f4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      46,
+      46
+    ]
+  },
+  {
+    "role": "UpArrow",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      23,
+      6
+    ],
+    "symbol_hotspot": [
+      21,
+      4
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/UpArrow",
+    "body_hashes": [
+      "81eb847d14ada792ddb42ad3efe894d4ae1183a5a99a7c2cf0e0fb2f65f2f825",
+      "01bfbe3ffaad5d1ecb5c4f13d7b461ec4e3e54a669817c5fd3f2901630c3ddef",
+      "7ed83cb7f89d461cf4f860de0c1b549d0909febbac2106ba08c326d6f0edb514",
+      "6100693cefe37eaced2e20c45037e2d7f209298c3f7470d64d7fcc468821688d",
+      "ef6739110fa65f251097857db68116fbbcb0640456e4a7e98d215dc547fec491",
+      "e8be22a1275e2325e2bf7a91356baa16eee9585e7761351a1d1921ee4527eea1",
+      "c71efb982d511c84f52e2f54d6bdb03fc4e329411bc04109927e932f8f5aad9c",
+      "c7129cd741c1a59b2779d6b80c5b5ef137f91206c6840cd37313186a6a192e03"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "7cd0bedbe0a9633e2e6fa35aad5f1a436ddf65332a44a992dd2aab75a706afc3",
+      "c522daaa77bd0ffd0a453807ceb8b86b11ce81180d2d97066514aac19153fbd8",
+      "8cc4a915f89e26f9686cb5d4afbee686f4c84241fff80718234b0c9088fee50c",
+      "f4bb1f2bc022f5471a7f7603a58de52ce9c872f531a8232acb2938f76b53daa9",
+      "abe1cc343733819c8850e027532528b460b4e48286703f390ef1bdf3716a5850",
+      "fb1c079eff5417ef950261a2727959193dab79d40606071ae46e26866e8f522f",
+      "063b3fa0ea32465d4692de90fcd92c4440d0b6cbde82473034a6b1d2fcc47bf2",
+      "1125421d0a9276f2c1c92347bb46567e9c113db2ca5ee5de9047d8fc3d97ea78"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\UpArrow-00.png",
+        "frozen_sha256": "7cd0bedbe0a9633e2e6fa35aad5f1a436ddf65332a44a992dd2aab75a706afc3",
+        "character_offset": [
+          23,
+          5
+        ],
+        "character_rgba_sha256": "81eb847d14ada792ddb42ad3efe894d4ae1183a5a99a7c2cf0e0fb2f65f2f825",
+        "symbol_rgba_sha256": "a0fd41205ef2bbe876ab1f498f7eae6823fbb8b145f7bda898228b77416823fd",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\UpArrow-01.png",
+        "frozen_sha256": "c522daaa77bd0ffd0a453807ceb8b86b11ce81180d2d97066514aac19153fbd8",
+        "character_offset": [
+          23,
+          5
+        ],
+        "character_rgba_sha256": "01bfbe3ffaad5d1ecb5c4f13d7b461ec4e3e54a669817c5fd3f2901630c3ddef",
+        "symbol_rgba_sha256": "a0fd41205ef2bbe876ab1f498f7eae6823fbb8b145f7bda898228b77416823fd",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\UpArrow-02.png",
+        "frozen_sha256": "8cc4a915f89e26f9686cb5d4afbee686f4c84241fff80718234b0c9088fee50c",
+        "character_offset": [
+          23,
+          5
+        ],
+        "character_rgba_sha256": "7ed83cb7f89d461cf4f860de0c1b549d0909febbac2106ba08c326d6f0edb514",
+        "symbol_rgba_sha256": "a0fd41205ef2bbe876ab1f498f7eae6823fbb8b145f7bda898228b77416823fd",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\UpArrow-03.png",
+        "frozen_sha256": "f4bb1f2bc022f5471a7f7603a58de52ce9c872f531a8232acb2938f76b53daa9",
+        "character_offset": [
+          23,
+          5
+        ],
+        "character_rgba_sha256": "6100693cefe37eaced2e20c45037e2d7f209298c3f7470d64d7fcc468821688d",
+        "symbol_rgba_sha256": "a0fd41205ef2bbe876ab1f498f7eae6823fbb8b145f7bda898228b77416823fd",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\UpArrow-04.png",
+        "frozen_sha256": "abe1cc343733819c8850e027532528b460b4e48286703f390ef1bdf3716a5850",
+        "character_offset": [
+          23,
+          5
+        ],
+        "character_rgba_sha256": "ef6739110fa65f251097857db68116fbbcb0640456e4a7e98d215dc547fec491",
+        "symbol_rgba_sha256": "a0fd41205ef2bbe876ab1f498f7eae6823fbb8b145f7bda898228b77416823fd",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\UpArrow-05.png",
+        "frozen_sha256": "fb1c079eff5417ef950261a2727959193dab79d40606071ae46e26866e8f522f",
+        "character_offset": [
+          23,
+          5
+        ],
+        "character_rgba_sha256": "e8be22a1275e2325e2bf7a91356baa16eee9585e7761351a1d1921ee4527eea1",
+        "symbol_rgba_sha256": "a0fd41205ef2bbe876ab1f498f7eae6823fbb8b145f7bda898228b77416823fd",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\UpArrow-06.png",
+        "frozen_sha256": "063b3fa0ea32465d4692de90fcd92c4440d0b6cbde82473034a6b1d2fcc47bf2",
+        "character_offset": [
+          23,
+          5
+        ],
+        "character_rgba_sha256": "c71efb982d511c84f52e2f54d6bdb03fc4e329411bc04109927e932f8f5aad9c",
+        "symbol_rgba_sha256": "a0fd41205ef2bbe876ab1f498f7eae6823fbb8b145f7bda898228b77416823fd",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\UpArrow-07.png",
+        "frozen_sha256": "1125421d0a9276f2c1c92347bb46567e9c113db2ca5ee5de9047d8fc3d97ea78",
+        "character_offset": [
+          23,
+          5
+        ],
+        "character_rgba_sha256": "c7129cd741c1a59b2779d6b80c5b5ef137f91206c6840cd37313186a6a192e03",
+        "symbol_rgba_sha256": "a0fd41205ef2bbe876ab1f498f7eae6823fbb8b145f7bda898228b77416823fd",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      40,
+      46
+    ]
+  },
+  {
+    "role": "Hand",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      17,
+      7
+    ],
+    "symbol_hotspot": [
+      15,
+      5
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/Hand",
+    "body_hashes": [
+      "64a78f26a0d4d4190a510469e1ad54fda73a5b29c439b66891d4af0433a023b7",
+      "488a43b46303139b880cb1385763a60168cb8641d8b31597ed1373c5ec01f136",
+      "e6932f3519ef03cfe43f91f1005169560a8d0a079f451fea83b27d61a98f1a70",
+      "488a43b46303139b880cb1385763a60168cb8641d8b31597ed1373c5ec01f136",
+      "ff88db56e359e43882e5eba845fc83a137c0a79bf366514c83407390a3641024",
+      "c2b4db40d994345402033054362b62dc427fd4c7cdc385a5aff0a9d92ee84a08",
+      "5a8c4280e03fedcfff21f3905053d28346338b98ab111492a6f18864626501f5",
+      "c2b4db40d994345402033054362b62dc427fd4c7cdc385a5aff0a9d92ee84a08"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "a7f561e6505ed022c017f97457927886b7913b56faecb0de2f39742ed27a6fd4",
+      "d6f4585029a90acb41ad52f77de73db7dda54121fae63edf546ddeaf5e313c46",
+      "d4121bf1b397f7445210186ae71f50b1d65b709f0a3c3d9c88a2500e31b7f9c0",
+      "d6f4585029a90acb41ad52f77de73db7dda54121fae63edf546ddeaf5e313c46",
+      "ef5646167fd670be378178839cf8b7d0ecc3162ea753b48a0425eb239738e95d",
+      "6def3d8456e508bd5022d384306cbe4008cc797417348859703a7d8f6381e028",
+      "848da2356207ad4e1ec153c4aee450765058a89a334df2a49eaf3856460f2497",
+      "6def3d8456e508bd5022d384306cbe4008cc797417348859703a7d8f6381e028"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Hand-00.png",
+        "frozen_sha256": "a7f561e6505ed022c017f97457927886b7913b56faecb0de2f39742ed27a6fd4",
+        "character_offset": [
+          18,
+          19
+        ],
+        "character_rgba_sha256": "64a78f26a0d4d4190a510469e1ad54fda73a5b29c439b66891d4af0433a023b7",
+        "symbol_rgba_sha256": "0a66d4e788f24c87b2e4a5b9ad9ab2cc69ceb4f6b49485b1976be12c221ba08c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Hand-01.png",
+        "frozen_sha256": "d6f4585029a90acb41ad52f77de73db7dda54121fae63edf546ddeaf5e313c46",
+        "character_offset": [
+          18,
+          19
+        ],
+        "character_rgba_sha256": "488a43b46303139b880cb1385763a60168cb8641d8b31597ed1373c5ec01f136",
+        "symbol_rgba_sha256": "0a66d4e788f24c87b2e4a5b9ad9ab2cc69ceb4f6b49485b1976be12c221ba08c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Hand-02.png",
+        "frozen_sha256": "d4121bf1b397f7445210186ae71f50b1d65b709f0a3c3d9c88a2500e31b7f9c0",
+        "character_offset": [
+          18,
+          19
+        ],
+        "character_rgba_sha256": "e6932f3519ef03cfe43f91f1005169560a8d0a079f451fea83b27d61a98f1a70",
+        "symbol_rgba_sha256": "0a66d4e788f24c87b2e4a5b9ad9ab2cc69ceb4f6b49485b1976be12c221ba08c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Hand-03.png",
+        "frozen_sha256": "d6f4585029a90acb41ad52f77de73db7dda54121fae63edf546ddeaf5e313c46",
+        "character_offset": [
+          18,
+          19
+        ],
+        "character_rgba_sha256": "488a43b46303139b880cb1385763a60168cb8641d8b31597ed1373c5ec01f136",
+        "symbol_rgba_sha256": "0a66d4e788f24c87b2e4a5b9ad9ab2cc69ceb4f6b49485b1976be12c221ba08c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Hand-04.png",
+        "frozen_sha256": "ef5646167fd670be378178839cf8b7d0ecc3162ea753b48a0425eb239738e95d",
+        "character_offset": [
+          18,
+          19
+        ],
+        "character_rgba_sha256": "ff88db56e359e43882e5eba845fc83a137c0a79bf366514c83407390a3641024",
+        "symbol_rgba_sha256": "0a66d4e788f24c87b2e4a5b9ad9ab2cc69ceb4f6b49485b1976be12c221ba08c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Hand-05.png",
+        "frozen_sha256": "6def3d8456e508bd5022d384306cbe4008cc797417348859703a7d8f6381e028",
+        "character_offset": [
+          18,
+          19
+        ],
+        "character_rgba_sha256": "c2b4db40d994345402033054362b62dc427fd4c7cdc385a5aff0a9d92ee84a08",
+        "symbol_rgba_sha256": "0a66d4e788f24c87b2e4a5b9ad9ab2cc69ceb4f6b49485b1976be12c221ba08c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Hand-06.png",
+        "frozen_sha256": "848da2356207ad4e1ec153c4aee450765058a89a334df2a49eaf3856460f2497",
+        "character_offset": [
+          18,
+          19
+        ],
+        "character_rgba_sha256": "5a8c4280e03fedcfff21f3905053d28346338b98ab111492a6f18864626501f5",
+        "symbol_rgba_sha256": "0a66d4e788f24c87b2e4a5b9ad9ab2cc69ceb4f6b49485b1976be12c221ba08c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Hand-07.png",
+        "frozen_sha256": "6def3d8456e508bd5022d384306cbe4008cc797417348859703a7d8f6381e028",
+        "character_offset": [
+          18,
+          19
+        ],
+        "character_rgba_sha256": "c2b4db40d994345402033054362b62dc427fd4c7cdc385a5aff0a9d92ee84a08",
+        "symbol_rgba_sha256": "0a66d4e788f24c87b2e4a5b9ad9ab2cc69ceb4f6b49485b1976be12c221ba08c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      42,
+      47
+    ]
+  },
+  {
+    "role": "Pin",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      21,
+      45
+    ],
+    "symbol_hotspot": [
+      19,
+      43
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/Pin",
+    "body_hashes": [
+      "52f48b9ac68583f005fde85ebf5cfffce8b9d54dbdd37f5f83460a3fcff4c951",
+      "068084d39b7362a4e3ffee57bd646fb175492de1820a13e78cee47c2ef11b686",
+      "1f4fc7019944d1cdf089c5d2f7bbbd528ddb2e872e90a89d5d9d1f97af04c621",
+      "068084d39b7362a4e3ffee57bd646fb175492de1820a13e78cee47c2ef11b686",
+      "f3c61fa6c9ffc181a6ccbe9204b39e0ef904210687f0295379e2de43ee40a0d7",
+      "47c2f54ba0af1ea4a36c2004cea0d11e2036f8a5d83e6940e8ae622616d7aa38",
+      "c21cee27d9b298dd2b5f5ece0cf6c3e7695b12f1a8074730bbcea5565be8e69a",
+      "47c2f54ba0af1ea4a36c2004cea0d11e2036f8a5d83e6940e8ae622616d7aa38"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "688d62535e9722521ff9644993e1fcfa53576622dd8589581caadb69ff9c8d82",
+      "95252de4d006202587349b1317d3995e5f786b3222bad3a9f8dc6a7ea453e5b5",
+      "1cffc49888092b6bed35fa3601d0e76986b4897469723cc2303a7dc1c3ba4009",
+      "95252de4d006202587349b1317d3995e5f786b3222bad3a9f8dc6a7ea453e5b5",
+      "4faf2a55f3043fa3c52dd2fd9e07327f0022a2481ba624de0cc04b4b9361f608",
+      "608e80ca8405162f0b71272959255d6f878d49c5add11fb2042df0a6b3722dbb",
+      "cb4889c1552a013d54f96b17bcd089e3312dd5b793548d35d15bbc699d1806c7",
+      "608e80ca8405162f0b71272959255d6f878d49c5add11fb2042df0a6b3722dbb"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Pin-00.png",
+        "frozen_sha256": "688d62535e9722521ff9644993e1fcfa53576622dd8589581caadb69ff9c8d82",
+        "character_offset": [
+          9,
+          15
+        ],
+        "character_rgba_sha256": "52f48b9ac68583f005fde85ebf5cfffce8b9d54dbdd37f5f83460a3fcff4c951",
+        "symbol_rgba_sha256": "ce9c66b433669557e6dcf62c39ea7c540baa348a88563f751cd3a141a5c4a46a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Pin-01.png",
+        "frozen_sha256": "95252de4d006202587349b1317d3995e5f786b3222bad3a9f8dc6a7ea453e5b5",
+        "character_offset": [
+          9,
+          15
+        ],
+        "character_rgba_sha256": "068084d39b7362a4e3ffee57bd646fb175492de1820a13e78cee47c2ef11b686",
+        "symbol_rgba_sha256": "ce9c66b433669557e6dcf62c39ea7c540baa348a88563f751cd3a141a5c4a46a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Pin-02.png",
+        "frozen_sha256": "1cffc49888092b6bed35fa3601d0e76986b4897469723cc2303a7dc1c3ba4009",
+        "character_offset": [
+          9,
+          15
+        ],
+        "character_rgba_sha256": "1f4fc7019944d1cdf089c5d2f7bbbd528ddb2e872e90a89d5d9d1f97af04c621",
+        "symbol_rgba_sha256": "ce9c66b433669557e6dcf62c39ea7c540baa348a88563f751cd3a141a5c4a46a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Pin-03.png",
+        "frozen_sha256": "95252de4d006202587349b1317d3995e5f786b3222bad3a9f8dc6a7ea453e5b5",
+        "character_offset": [
+          9,
+          15
+        ],
+        "character_rgba_sha256": "068084d39b7362a4e3ffee57bd646fb175492de1820a13e78cee47c2ef11b686",
+        "symbol_rgba_sha256": "ce9c66b433669557e6dcf62c39ea7c540baa348a88563f751cd3a141a5c4a46a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Pin-04.png",
+        "frozen_sha256": "4faf2a55f3043fa3c52dd2fd9e07327f0022a2481ba624de0cc04b4b9361f608",
+        "character_offset": [
+          9,
+          15
+        ],
+        "character_rgba_sha256": "f3c61fa6c9ffc181a6ccbe9204b39e0ef904210687f0295379e2de43ee40a0d7",
+        "symbol_rgba_sha256": "ce9c66b433669557e6dcf62c39ea7c540baa348a88563f751cd3a141a5c4a46a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Pin-05.png",
+        "frozen_sha256": "608e80ca8405162f0b71272959255d6f878d49c5add11fb2042df0a6b3722dbb",
+        "character_offset": [
+          9,
+          15
+        ],
+        "character_rgba_sha256": "47c2f54ba0af1ea4a36c2004cea0d11e2036f8a5d83e6940e8ae622616d7aa38",
+        "symbol_rgba_sha256": "ce9c66b433669557e6dcf62c39ea7c540baa348a88563f751cd3a141a5c4a46a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Pin-06.png",
+        "frozen_sha256": "cb4889c1552a013d54f96b17bcd089e3312dd5b793548d35d15bbc699d1806c7",
+        "character_offset": [
+          9,
+          15
+        ],
+        "character_rgba_sha256": "c21cee27d9b298dd2b5f5ece0cf6c3e7695b12f1a8074730bbcea5565be8e69a",
+        "symbol_rgba_sha256": "ce9c66b433669557e6dcf62c39ea7c540baa348a88563f751cd3a141a5c4a46a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Pin-07.png",
+        "frozen_sha256": "608e80ca8405162f0b71272959255d6f878d49c5add11fb2042df0a6b3722dbb",
+        "character_offset": [
+          9,
+          15
+        ],
+        "character_rgba_sha256": "47c2f54ba0af1ea4a36c2004cea0d11e2036f8a5d83e6940e8ae622616d7aa38",
+        "symbol_rgba_sha256": "ce9c66b433669557e6dcf62c39ea7c540baa348a88563f751cd3a141a5c4a46a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      37,
+      47
+    ]
+  },
+  {
+    "role": "Person",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      24,
+      14
+    ],
+    "symbol_hotspot": [
+      22,
+      12
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      192,
+      192
+    ],
+    "body_directory": "sonnet-plus-128/Person",
+    "body_hashes": [
+      "34af91c80fe5d387608cd89fdae224cec854a2559c78195600d750cbfb41d3a5",
+      "fbc08f31ac9fcd8e46aa288ecdefc356e04ddd762d4bd6a2b7a822265b403ae6",
+      "3ffef64cb376c0285a198398b3421928e2eac6e4595e5bba9d73d71c4dea527c",
+      "fbc08f31ac9fcd8e46aa288ecdefc356e04ddd762d4bd6a2b7a822265b403ae6",
+      "16213fad4153cb9dccc4c50b33032eb7eb2b8de5606c7bcb8c957e240bda2251",
+      "c0134e7da4a9bee5e8ba23e860e5d306a175fde6231926b1132d4d0cd37d2569",
+      "baad90246bb0c2229f180f909475952a5e3915fa8a858994b54e68b53d7bfba3",
+      "c0134e7da4a9bee5e8ba23e860e5d306a175fde6231926b1132d4d0cd37d2569"
+    ],
+    "character": "sonnet",
+    "edition": "plus",
+    "logical_size": 128,
+    "frozen_frame_sha256": [
+      "4fe24d4df923ab9a231c5ec482de60c12fee95dd8a13c22c9467e85d349ca6a2",
+      "8a6a194d97b5b9be1eda54491918b324ea3ddd1f51059fab2a5b786091d310ed",
+      "df97dac6c34963ec90bad418e6876fbfdfb3a6ec38960a8a1ffe1ff0c439b963",
+      "8a6a194d97b5b9be1eda54491918b324ea3ddd1f51059fab2a5b786091d310ed",
+      "5ae9fec146db9aedc4d1a400b35119e200ad4c1034911b00528c32e58d718390",
+      "68dcbb68f9d5d4675ea4ce4c85fdb3d1b0cbf999260d466fcdbaeebfdb9975a1",
+      "e8a44d0a269d9fd326be7dadcf2c9a8c16b925c63c2d60cf1f7d294fcb5157bc",
+      "68dcbb68f9d5d4675ea4ce4c85fdb3d1b0cbf999260d466fcdbaeebfdb9975a1"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Person-00.png",
+        "frozen_sha256": "4fe24d4df923ab9a231c5ec482de60c12fee95dd8a13c22c9467e85d349ca6a2",
+        "character_offset": [
+          27,
+          10
+        ],
+        "character_rgba_sha256": "34af91c80fe5d387608cd89fdae224cec854a2559c78195600d750cbfb41d3a5",
+        "symbol_rgba_sha256": "b3c307a188c5b8a028ac8187f3f1d7ad3927fac1752bd4409855314bb6c1f78a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Person-01.png",
+        "frozen_sha256": "8a6a194d97b5b9be1eda54491918b324ea3ddd1f51059fab2a5b786091d310ed",
+        "character_offset": [
+          27,
+          10
+        ],
+        "character_rgba_sha256": "fbc08f31ac9fcd8e46aa288ecdefc356e04ddd762d4bd6a2b7a822265b403ae6",
+        "symbol_rgba_sha256": "b3c307a188c5b8a028ac8187f3f1d7ad3927fac1752bd4409855314bb6c1f78a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Person-02.png",
+        "frozen_sha256": "df97dac6c34963ec90bad418e6876fbfdfb3a6ec38960a8a1ffe1ff0c439b963",
+        "character_offset": [
+          27,
+          10
+        ],
+        "character_rgba_sha256": "3ffef64cb376c0285a198398b3421928e2eac6e4595e5bba9d73d71c4dea527c",
+        "symbol_rgba_sha256": "b3c307a188c5b8a028ac8187f3f1d7ad3927fac1752bd4409855314bb6c1f78a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Person-03.png",
+        "frozen_sha256": "8a6a194d97b5b9be1eda54491918b324ea3ddd1f51059fab2a5b786091d310ed",
+        "character_offset": [
+          27,
+          10
+        ],
+        "character_rgba_sha256": "fbc08f31ac9fcd8e46aa288ecdefc356e04ddd762d4bd6a2b7a822265b403ae6",
+        "symbol_rgba_sha256": "b3c307a188c5b8a028ac8187f3f1d7ad3927fac1752bd4409855314bb6c1f78a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Person-04.png",
+        "frozen_sha256": "5ae9fec146db9aedc4d1a400b35119e200ad4c1034911b00528c32e58d718390",
+        "character_offset": [
+          27,
+          10
+        ],
+        "character_rgba_sha256": "16213fad4153cb9dccc4c50b33032eb7eb2b8de5606c7bcb8c957e240bda2251",
+        "symbol_rgba_sha256": "b3c307a188c5b8a028ac8187f3f1d7ad3927fac1752bd4409855314bb6c1f78a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Person-05.png",
+        "frozen_sha256": "68dcbb68f9d5d4675ea4ce4c85fdb3d1b0cbf999260d466fcdbaeebfdb9975a1",
+        "character_offset": [
+          27,
+          10
+        ],
+        "character_rgba_sha256": "c0134e7da4a9bee5e8ba23e860e5d306a175fde6231926b1132d4d0cd37d2569",
+        "symbol_rgba_sha256": "b3c307a188c5b8a028ac8187f3f1d7ad3927fac1752bd4409855314bb6c1f78a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Person-06.png",
+        "frozen_sha256": "e8a44d0a269d9fd326be7dadcf2c9a8c16b925c63c2d60cf1f7d294fcb5157bc",
+        "character_offset": [
+          27,
+          10
+        ],
+        "character_rgba_sha256": "baad90246bb0c2229f180f909475952a5e3915fa8a858994b54e68b53d7bfba3",
+        "symbol_rgba_sha256": "b3c307a188c5b8a028ac8187f3f1d7ad3927fac1752bd4409855314bb6c1f78a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\claude-sisters-cursors\\large-arrow\\source\\frames\\sonnet\\128\\Person-07.png",
+        "frozen_sha256": "68dcbb68f9d5d4675ea4ce4c85fdb3d1b0cbf999260d466fcdbaeebfdb9975a1",
+        "character_offset": [
+          27,
+          10
+        ],
+        "character_rgba_sha256": "c0134e7da4a9bee5e8ba23e860e5d306a175fde6231926b1132d4d0cd37d2569",
+        "symbol_rgba_sha256": "b3c307a188c5b8a028ac8187f3f1d7ad3927fac1752bd4409855314bb6c1f78a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      43,
+      47
+    ]
+  }
+]

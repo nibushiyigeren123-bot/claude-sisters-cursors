@@ -1,0 +1,30 @@
+{
+  "version": "v1.4.0",
+  "kind": "full-avoidance",
+  "runtimeSha256": "0e7a173da8c96ac7e1d21386966e90095b0083e2959c9eba4436406a5a20ff23",
+  "assets": [
+    {
+      "name": "claude-sisters-cursors-full-avoidance-v1.4.0.zip",
+      "bytes": 119867474,
+      "sha256": "8f9f233ee907ce3455c4a2d1ed6639cc80a3431cb1c03300b1d0f6f9daaef30f"
+    },
+    {
+      "name": "claude-sisters-cursors-full-avoidance-source-v1.4.0.zip",
+      "bytes": 738653,
+      "sha256": "054ae16a26ea5505c657536d97db978d07bc723384242b26e20beb275014d431"
+    },
+    {
+      "name": "VALIDATION.md",
+      "bytes": 2599,
+      "sha256": "95f05bd4982c9293728ee1447c63c4a783632827f79f985e549ab0632970173f"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 239,
+      "sha256": "4d315c6fe592dfd5a2bcfd823401ff7f66266caa3fae7d5c1ef9eeac0ed01636"
+    }
+  ],
+  "originalCmdInvocationPreserved": true,
+  "cmdWaitingMessageAdded": 39,
+  "originalMediaUnchanged": true
+}
